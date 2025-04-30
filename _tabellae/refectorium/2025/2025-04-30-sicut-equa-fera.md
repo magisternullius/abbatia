@@ -97,7 +97,7 @@ A las jóvenes de hoy —a ti que lees esto— solo quiero decirte una cosa: no 
 No necesitas correr sin destino para ser libre. Necesitas saber quién te ama y para qué estás hecha.
 :::
 
-Vuelve a mirar a las mártires. Busca sus nombres. Lee sus vidas. Y Mira a María.
+Vuelve a mirar a las mártires. Busca sus nombres. Lee sus vidas. Y mira a María.
 Y deja que sean ellas las que te marquen… no con tinta, sino con luz.
 
 
