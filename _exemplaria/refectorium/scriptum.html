@@ -3,44 +3,32 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Refectorium - Abbatia Exsul</title>
+  <title>$title$</title>
   <link rel="stylesheet" href="/assets/style.css">
 </head>
 <body>
   <div class="layout">
     <aside class="sidebar">
       <nav>
-        <a href="/scriptorium/">Scriptorium</a>
         <a href="/bibliotheca/">Bibliotheca</a>
         <a href="/hortus/">Hortus</a>
+        <a href="/scriptorium/">Scriptorium</a>
         <a href="/oratorium/">Oratorium</a>
-        <a href="/" class="back-link">← Claustrum</a>
+        <a href="/refectorium/" class="back-link">← Tabula Operum</a>
       </nav>
     </aside>
+
     <section class="main-content">
       <header>
         <h1>Refectorium</h1>
         <div class="subtitle">convivium fraternum et communio vitae</div>
       </header>
-      <h2>Convivium Spirituale</h2>
-      <article>
-        <p>Hic nutritur anima per fraternam communicationem et laetitiam sub lumine Verbi.</p>
-        <p>Refectorium nostrum non est solum corporis refectionis locus, sed etiam cordis et spiritus.</p>
-        <p>Fiat ut inter fratres et peregrinos mensa caritatis semper ardeat sicut ignis sacer in tabernaculo Domini.</p>
-        <p class="back-to-index"><a href="/">← Revertere ad Claustrum</a></p>
 
-        $for(years)$
-          <h3>Anno Domini $years.roman_year$</h3>
-          <ul class="opera-list">
-            $for(years.entries)$
-            <li>
-              <a href="/refectorium/opera/$years.entries.url$">$years.entries.title$ — $years.entries.title2$</a>
-              <div class="date">$years.entries.monastic_date$</div>
-            </li>
-            $endfor$
-          </ul>
-        $endfor$
-        <p class="back-to-index"><a href="/">← Revertere ad Claustrum</a></p>
+      <h2>$title$</h2>
+
+      <article>
+        $body$
+        <p class="back-to-index"><a href="/refectorium/">← Revertere ad Tabulam Operum</a></p>
       </article>
     </section>
   </div>
@@ -51,12 +39,9 @@
 
   <div class="cc-license" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
     <p>
-      <a property="dct:title" rel="cc:attributionURL" href="https://aquinas.lol">aquinas.lol: abbatia exsul</a>
-      &middot;
+      <a property="dct:title" rel="cc:attributionURL" href="https://aquinas.lol">© aquinas.lol: abbatia exsul</a>
       <span> aD MMXXV</span>
-      —
-      <span property="cc:attributionName">© Magister Nullo & fratres</span>
-      &middot;
+      <span property="cc:attributionName">Magister Nullo</span>
       <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
         CC BY-NC-SA 4.0
         <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="">

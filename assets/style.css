@@ -216,6 +216,8 @@ header .subtitle {
 .main-content article {
   column-count: 1;
   column-gap: 2em;
+  font-size: 1.15rem;
+  line-height: 1.75;
 }
 
 .main-content h2 {
@@ -322,4 +324,110 @@ a:hover, a:focus {
 
 a:visited {
   color: #8c2326; /* tono más sobrio para enlaces visitados */
+}
+
+/* Blockquote styling */
+blockquote {
+  font-style: italic;
+  border-left: 4px solid #d2b48c; /* línea suave a la izquierda */
+  margin: 1.5em 0;
+  padding: 0.5em 1em;
+  quotes: "“" "”" "‘" "’";
+  position: relative;
+}
+
+blockquote::before {
+  content: open-quote;
+  font-size: 2rem;
+  color: #a12c2f;
+  position: absolute;
+  left: 0.2em;
+  top: -0.2em;
+}
+
+blockquote::after {
+  content: close-quote;
+  font-size: 2rem;
+  color: #a12c2f;
+  position: absolute;
+  right: 0.2em;
+  bottom: -0.2em;
+}
+
+/* Author under blockquote */
+.quote-author {
+  display: block;
+  margin-top: -2em;
+  margin-bottom: 1.5em;
+  padding-left: 1em;
+  font-size: 0.9rem;
+  color: #5a3825;
+  font-style: italic;
+  text-align: left;
+}
+
+/* Emphasized important blockquote styling */
+div.important {
+  font-style: normal;
+  border-left: 4px solid #d2b48c; /* línea suave a la izquierda */
+  padding: 1em 1.5em;
+  margin: 2em 0;
+  font-weight: bold;
+  font-size: 1.1rem;
+  position: relative;
+}
+
+div.important::before {
+  content: "☩ ";
+  font-size: 1.2rem;
+  color: #a12c2f;
+  position: absolute;
+  left: 1em;
+  top: 0.8em;
+}
+
+.main-content article img {
+  display: block;
+  margin: 1.5em auto;
+  max-width: 50%;
+  height: auto;
+}
+
+/* Hide Pandoc-rendered image alt text shown as <em> after images */
+.main-content article img + figcaption {
+  display: none;
+}
+
+
+.footnotes {
+  margin-top: 4em;
+  border-top: 1px solid #d2b48c;
+  padding-top: 1.5em;
+  font-style: italic;
+  font-size: 0.9rem;
+  color: #5a3825;
+  text-align: left;
+}
+
+.footnotes ol {
+  margin-top: 0.5em;
+  padding-left: 1.2em;
+}
+
+.footnotes li::marker {
+  color: #a12c2f;
+}
+
+.footnotes a {
+  color: #a12c2f;
+  text-decoration: none;
+}
+
+.footnotes a:hover {
+  color: #6d1e21;
+  text-decoration: underline;
+}
+
+.footnotes hr {
+  display: none;
 }

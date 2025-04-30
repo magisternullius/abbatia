@@ -5,7 +5,7 @@ TPL_DIR = _exemplaria
 
 .PHONY: site clean
 
-site:
+site: clean
 	@for section in $(SECTIONS); do \
 		echo "Conficitur pars $$section …"; \
 		mkdir -p $$section/opera; \
@@ -21,10 +21,12 @@ site:
 			echo "    entries:" >> $$section/index-tmp.md; \
 			find $(SRC_DIR)/$$section/$$year -name '*.md' | sort | while read file; do \
 				base=$$(basename $$file .md); \
-				title=$$(head -n 1 $$file | sed 's/^% //'); \
-				date=$$(head -n 3 $$file | tail -n 1 | sed 's/^% //'); \
+				title=$$(grep '^title:' $$file | sed 's/title:[[:space:]]*//'); \
+				title2=$$(grep '^subtitle:' $$file | sed 's/subtitle:[[:space:]]*//'); \
+				date=$$(grep '^monastic_date:' $$file | sed 's/monastic_date:[[:space:]]*//'); \
 				echo "      - title: \"$$title\"" >> $$section/index-tmp.md; \
-				echo "        url: \"$$year/$$base.html\"" >> $$section/index-tmp.md; \
+				echo "        title2: \"$$title2\"" >> $$section/index-tmp.md; \
+				echo "        url: \"$$base.html\"" >> $$section/index-tmp.md; \
 				echo "        monastic_date: \"$$date\"" >> $$section/index-tmp.md; \
 			done; \
 		done; \
