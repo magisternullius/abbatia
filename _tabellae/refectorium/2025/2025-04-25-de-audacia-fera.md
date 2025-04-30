@@ -1,5 +1,5 @@
 ---
-title: De Audacia Fera Ienifferiae Silvae
+title: De Audacia Fera Iennipheriae Silvae
 subtitle: Meek Surrender
 author: Magister Nullo
 date: 2025-04-25
@@ -66,7 +66,7 @@ Not an obstacle, but an invitation to surrender.
 To fall without knowing where you'll land — because you trust Who will catch you.
 :::
 
-To reach the point of saying, like that baptized young woman who died at twenty-four:
+There comes a moment —for the soul truly grounded in grace— when it can say, like that young woman baptized at nineteen and dead by twenty-four:
 
 > I have done nothing humanly. I have done nothing supernaturally. I am ready for the mercy of God.
 
@@ -152,6 +152,7 @@ The _Law of Attraction_ and the self-made _Wild Courage_ mindset both borrow hea
 - That the true power lies hidden inside you.
 - That the material world resists you but can be reshaped by your will.
 - That salvation is found by unlocking secret potentials within.
+- That the microcosm (your soul) mirrors and can command the macrocosm (the world).
 
 Similarly, Nietzsche's ethics of the _Übermensch_ taught that good and evil are dead, and that true strength is the self's ability to will its own destiny without apology. Thus, modern self-help movements are not merely secular: they are deeply spiritual counterfeits, offering a false transcendence through self-worship, rather than humble reception of grace.
 Against these illusions, Catholic faith stands firm:
