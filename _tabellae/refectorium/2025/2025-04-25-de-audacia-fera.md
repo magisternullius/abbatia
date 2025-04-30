@@ -11,10 +11,10 @@ monastic_date: VII Kalendas Maii, Luna XXVI
 > I help people get what they want. Unapologetically.
 
 ::: {.quote-author}
-Jenny Wood, Wild Courage[^1]
+Jenny Wood, Wild Courage (2025)
 :::
 
-There's something energizing about Jenny Wood's message. It's bold. It's clean. It tells you: stop apologizing, figure out what you want, and go get it.
+There's something energizing about Jenny Wood's message[^1]. It's bold. It's clean. It tells you: stop apologizing, figure out what you want, and go get it.
 But there's something else beneath the surface. Something that should give us pause — especially if we're serious about building not just careers, but character.
 
 ## Are your desires really your guide?
@@ -166,7 +166,7 @@ For those seeking a deeper antidote to modern illusions of strength, we warmly r
 
 Alongside it, Story of a Soul[^3], the autobiography of Saint Thérèse herself, reveals the hidden power of her _little way_: a path of trust, littleness, and surrender that defeats the world's obsession with greatness.
 
-### Final thoughts
+### Cogitatio ultima
 
 You don't need a masterclass to matter. You don't need to monetize your confidence to be strong. And you don't need to get what you want to become who you're meant to be. Sometimes the best things in life come not when we demand them, but when we accept them with humility.
 
