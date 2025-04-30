@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# VSCode
+.vscode/
+
+# Vim
+*.swp
+*.swo
+*.swn
+*.bak
+
+# HTML/CSS build artifacts (por si algún día usas minimizadores locales)
+dist/
+build/
+*.log
+
+# Otros
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.tmp
+
+# Archivos de backup comunes
+*~
+*.old
+*.orig
+*.backup
