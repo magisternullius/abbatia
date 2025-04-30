@@ -1,9 +1,13 @@
-% Inceptum Scripturae
-% Magister Nullo
-% Die VII Kalendas Maias, Luna XVII
-% MMXXV
+---
+title: Inceptum Scripturae
+subtitle:  Prueba de Impresión
+author: Magister Nullo
+date: 2025-04-25
+monastic_date: VII Kalendas Maii, Luna XXVI
+---
 
-# Inceptum Scripturae
+
+# Prueba de Impresión
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
 
