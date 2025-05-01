@@ -47,7 +47,7 @@ Ioannes 8:12
 Psalmus 35:10
 :::
 
-Ruega el siervo que, en aquestas horas de silencio, si al Señor pluguiere, sople el suave aliento del Sancto Espíritu sobre el campo de nuestra flaqueza, fecunden nuestro entendimiento con las virtudes olvidadas, y sostengan el ánima en meditaciones graves, no por industria humana, mas por el influjo secreto del Altísimo.
+Ruega el siervo que, en aquestas horas de silencio, si al Señor pluguiere, sople el suave aliento del Sancto Espíritu sobre el campo de nuestra flaqueza, fecunden nuestro entendimiento con las virtudes olvidadas, y sostengan el ánima en meditaciones graves, no por industria humana, mas sea por el influjo secreto del Altísimo que mueve al ánima sin forzarla, y la dispone a las obras santas.
 
 > Ipse revelat profunda et abscondita, et novit in tenebris constituta, et lux cum eo est.
 
