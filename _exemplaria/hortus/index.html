@@ -29,6 +29,19 @@
         <p>Oratio, meditatio et gratiae humiles germinant in hortulo secretissimo cordis, custodito sub tutela Reginae Caeli.</p>
         <p>Fiat ut hortus iste inter fluctus mundi florescat quasi paradisus novus, ubi Deus ambulat ad auram post meridiem.</p>
         <p class="back-to-index"><a href="/">← Revertere ad Claustrum</a></p>
+                
+        $for(years)$
+          <h3>Anno Domini $years.roman_year$</h3>
+          <ul class="opera-list">
+            $for(years.entries)$
+            <li>
+              <a href="/hortus/opera/$years.entries.url$">$years.entries.title$ — $years.entries.title2$</a>
+              <div class="date">$years.entries.monastic_date$</div>
+            </li>
+            $endfor$
+          </ul>
+        $endfor$
+        <p class="back-to-index"><a href="/">← Revertere ad Claustrum</a></p>
       </article>
     </section>
   </div>
