@@ -14,8 +14,8 @@ Ansí como el cuerpo desfallece sin calor ni luz del sol, ansí el ánima, si no
 
 - La fe que se sustenta tan solamente en dulces afectos, semejante a molino de viento, no basta en la hora recia, cuando la calma invita a la ociosidad.
 - Menester es tener doctrina sólida, que como fuego de fragua, da su lumbre al corazón duro para hacerlo suave al Divino Herrero.
-- Menester es acudir a los sachramentos de la Madre Iglesia, noria con sus canjilones donde el ánima peregrina se aposenta, y se sacia del agua de la gracia que se alza de lo profundo.
-- Y no menos necesaria es la interior templanza, que da peso al ánimo y firmeza en la tempestad, como maza de batán que sigue su ritmo, aunque el fragor de las aguas no consienta sosiego.
+- Menester es acudir a los sachramentos de la Madre Iglesia, noria con sus canxilones donde el ánima peregrina se aposenta, y se sacia del agua de la gracia que se alza de lo profundo.
+- Y no menos necesaria es la interior templanza, que da peso al ánimo y firmeza en la tempestad, como maza de batán que sigue sus golpes, aunque el fragor de las aguas no consienta sosiego.
 
 Así como Ezequías lloraba desdichado:
 
@@ -47,7 +47,7 @@ Ioannes 8:12
 Psalmus 35:10
 :::
 
-Ruega el siervo que, en aquestas horas de silencio, si al Señor pluguiere, sople el suave aliento del Sancto Espíritu sobre el campo de nuestra flaqueza, fecunden nuestro entendimiento con las virtudes olvidadas, y sostengan el ánima en meditaciones graves, no por industria humana, mas sea por el influjo secreto del Altísimo que mueve al ánima sin forzarla, y la dispone a las obras santas.
+Ruega el siervo que, en aquestas horas de silencio, si al Señor pluguiere, sople el suave aliento del Sancto Espíritu sobre el campo de nuestra flaqueza, fecunde nuestro entendimiento con las virtudes olvidadas, y sostenga el ánima en meditaciones graves, no por industria humana, mas sea por el influjo secreto del Altísimo que mueve al ánima sin forzarla, y la dispone a las obras santas.
 
 > Ipse revelat profunda et abscondita, et novit in tenebris constituta, et lux cum eo est.
 
