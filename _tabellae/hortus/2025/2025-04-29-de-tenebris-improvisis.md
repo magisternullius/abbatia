@@ -12,7 +12,7 @@ En los XXVIII días del mes de Abril, cayó nuestro artificio de candiles, y que
 
 Ansí como el cuerpo desfallece sin calor ni luz del sol, ansí el ánima, si no es sustentada de fundamento cierto y sacramentos santos, fácilmente se abate en el tiempo de la prueba.
 
-- La fe que se sustenta tan solamente en dulces afectos, semejante a molino de viento, no basta en la hora recia, cuando la calma invita a holgar.
+- La fe que se sustenta tan solamente en dulces afectos, semejante a molino de viento, no basta en la hora recia, cuando la calma invita a la ociosidad.
 - Menester es tener doctrina sólida, que como fuego de fragua, da su lumbre al corazón duro para hacerlo suave al Divino Herrero.
 - Menester es acudir a los sachramentos de la Madre Iglesia, noria con sus canjilones donde el ánima peregrina se aposenta, y se sacia del agua de la gracia que se alza de lo profundo.
 - Y no menos necesaria es la interior templanza, que da peso al ánimo y firmeza en la tempestad, como maza de batán que sigue su ritmo, aunque el fragor de las aguas no consienta sosiego.
