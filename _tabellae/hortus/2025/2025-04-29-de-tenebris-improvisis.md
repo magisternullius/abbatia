@@ -8,14 +8,14 @@ monastic_date: III Kalendas Maii, Luna I
 
 # Lecciones de la Oscuridad
 
-En los XXVIII días del mes de Abril, quedó la vieja Hispania sumida en noche cerrada. Maravilláronse todos, pues acaeció al punto de la hora sexta o del mediodía, y no se halló yngenio ni máchina que pudiere trabajar sin su invisible sustento. Mas aun en aquella lobreguez quiso el Señor darnos su luz, no criada por manos humanas, que alumbra sin consumirse y guía sin errar.
+En los XXVIII días del mes de Abril, quedó la vieja Hispania sumida en noche cerrada. Maravilláronse todos, pues acaeció al punto de la hora sexta o del mediodía, y no se halló yngenio ni máchina que pudiere trabajar sin el invisible liquor que les daba aliento. Mas aun en aquella lobreguez quiso el Señor darnos su luz, no criada por manos humanas, que alumbra sin consumirse y guía sin errar.
 
-Ansí como el cuerpo desfallece sin calor ni luz del sol, ansí el ánima, si no es sustentada de fundamento cierto y sachramentos santos, fácilmente se abate en el tiempo de la prueba.
+Ansí como el cuerpo marchita sin calor ni luz del sol, ansí el ánima, si no es sustentada de fundamento cierto y religiones santas, fácilmente se abate en el tiempo de la prueba.
 
 - La fe que se custodia tan solamente en dulces afectos, semejante a molino de viento, no basta en la hora recia, cuando la calma invita a la ociosidad, que es madre de todo vicio.
-- Menester es tener doctrina sólida, que como fuego de fragua, da su lumbre al corazón duro para hazerlo suave al Divino Herrero.
-- Menester es acudir a los sachramentos de la católica Yglesia, noria con sus canxilones donde el ánima peregrina se aposenta, y se sacia del agua de la gracia que se alza de lo profundo.
-- Y no menos necesaria es la interior templanza, que da peso al ánimo y firmeza en la tempestad, como maza de batán que sigue sus golpes, aunque el fragor de las aguas no consienta sosiego.
+- Menester es tener doctrina sólida, que como fuego de fragua, da su lumbre al corazón duro para hazerlo suave a su Divino Herrero.
+- Menester es acudir a los sacramentos de la católica Yglesia, noria con sus canxilones donde el ánima peregrina se aposenta, y se sacia del agua de la gracia que se alza de lo profundo.
+- Y no menos necesaria es la interior templanza, que da peso al ánimo y firmeza en la tempestad, como maza de batán que da sus golpes una y otra vez, aunque el fragor de las aguas no consienta sosiego.
 
 Ansí como Ezequías lloraba desdichado:
 
@@ -25,7 +25,7 @@ Ansí como Ezequías lloraba desdichado:
 Isaias 38:12
 :::
 
-Sea consolado el buen christiano: que la Palabra eterna muy es de fiar.
+Sea consolado el buen christiano: que la Palabra eterna mui es de fiar.
 
 > Fiat lux: sed lux vera, quae illuminat omnem hominem venientem in hunc mundum.
 
@@ -33,7 +33,7 @@ Sea consolado el buen christiano: que la Palabra eterna muy es de fiar.
 Ioannes 1:9
 :::
 
-Y que es Iesu Christo quien nos alienta a no temer y tener a poco el espanto de las tinieblas exteriores, pues Él mesmo se nos da por lucero perpetuo y guía cierta en medio de la noche del mundo: luz que no conoce ocaso, y que alumbra a quantos se allegan a Él con corazón contrito.
+Y que es Iesu Christo quien nos alienta a no temer y tener a poco el espanto de todas las tinieblas, pues Él mesmo se nos da por lucero perpetuo y guía cierta en medio de la noche del mundo: luz que no conoce ocaso, y que alumbra a quantos se allegan a Él con corazón contrito.
 
 > Ego sum lux mundi
 
