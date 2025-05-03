@@ -78,7 +78,7 @@ En esta época, el perdón ha sido suplantado por una ambigua evolución persona
 
 Esto conviene al _régimen tecnoliberal_[^5] actual: porque un individuo desvinculado de la verdad objetiva y de toda relación trascendente se vuelve perfectamente gestionable. Avanzamos hacia una distopía antropológica donde cada persona es un interfaz; donde cada cuerpo ya no es un acogido como templo de Espíritu Santo (1 Cor 6,19), sino explotado como un _recurso biológico_[^6] por el poder. Libre para consumir y ser consumido, pero no para amar como Él nos ha amado (Jn 13,34).
 
-Bajo toda esta estética de empoderamiento, se ha oscurecido la conciencia del sentido trascendente del ok, para el mensaje de commitalma femenina. Se ha reemplazado la maternidad por el rendimiento, la entrega por la autosuficiencia, la oración por estribillos, la humildad por resiliencia.
+Bajo toda esta estética de empoderamiento, se ha oscurecido la conciencia del sentido trascendente del alma femenina. Se ha reemplazado la maternidad por el rendimiento, la entrega por la autosuficiencia, la oración por estribillos, la humildad por resiliencia.
 
 La potra salvaje es la esclava perfecta: se cree libre, y por eso no rompe las cadenas. Lo más perverso es que canta mientras se encadena. Tal vez esta figura de mujer rebelde y desatada no sea realmente la expresión de una libertad profunda, sino la repetición inconsciente de un modelo que otra instancia —la cultura, el mercado, la ideología dominante— ha fabricado para ella[^7]: un _meme_.
 
