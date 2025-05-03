@@ -6,6 +6,18 @@ date: 2025-04-25
 monastic_date: VII Kalendas Maii, Luna XXVI
 ---
 
+A few days ago, I came across a LinkedIn post from a friend in her late thirties. She's built a strong professional life over the past decade — ambitious, mobile, and focused. For years, she embraced the rhythm of achievement: city life, bold moves, constant motion.
+
+But something in her tone had shifted.
+
+She shared a photo of herself holding a book titled _Wild Courage_, smiling beside the author. In the post, she spoke of a career-changing decision that had shaken her. Fear, she said, had crept in. Not the fear of failure, exactly — but the fear of losing control. The fear of judgment. The fear of not being enough.
+
+Jenny's message gave her language and tools to press forward. "Act despite fear", she wrote. "Don't wait for permission". It struck her as exactly what she needed.
+
+It was honest. And brave, in its own way.
+
+But I couldn't help wondering: What kind of courage are we being offered? What kind of woman is being formed? And what if fear isn't always the enemy — but the threshold to something deeper?
+
 # Meek surrender
 
 > I help people get what they want. Unapologetically.
@@ -27,7 +39,7 @@ The Catholic Tradition reminds us that true freedom is not doing whatever we wan
 
 Sometimes, what is right is what we would never have chosen without grace, because grace heals and elevates our wounded freedom. Elevating the jettison of our fall from grace into supposed virtues is a bad start. We cannot redefine brokenness as strength. Prideful control, disordered passion, and the loss of shame and charity: this is how a soul crumbles when it stops seeking the Face of God.
 
-Yet even before someone knows Christ, every sincere desire for truth, goodness, or beauty already carries within it the quiet trace of God’s help. The Church teaches that grace doesn’t override our freedom — it heals it and lifts it up, even at the very beginning. What we often call "personal initiative", when directed toward what is truly good, is already a response to God drawing the soul forward. But grace never stops there: it purifies, it redirects — and in the end, it saves.
+Yet even before someone knows Christ, every sincere desire for truth, goodness, or beauty already carries within it the quiet trace of God's help. The Church teaches that grace doesn't override our freedom — it heals it and lifts it up, even at the very beginning. What we often call "personal initiative", when directed toward what is truly good, is already a response to God drawing the soul forward. But grace never stops there: it purifies, it redirects — and in the end, it saves.
 
 True strength lies in admitting our need for healing and allowing God to restore the original harmony He intended for us.
 

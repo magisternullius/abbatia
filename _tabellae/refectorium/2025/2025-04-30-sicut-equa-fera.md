@@ -6,6 +6,12 @@ date: 2025-04-30
 monastic_date: Pridie Kalendas Maii, Luna II
 ---
 
+Hace unos días, estando sentado en un parque, escuché por azar la conversación de un grupo de madres jóvenes, divorciadas o separadas, ninguna mayor de treinta y cinco años. Hablaban con naturalidad de que ya no deseaban tener más hijos. No por odio a la maternidad, sino por puro agotamiento: algunas trabajaban más de diez horas diarias; otras se decían escarmentadas de pleitos por la custodia. Alguna confesaba que solo tendría otro si volvía a "sentir algo muy fuerte", pero añadía enseguida: "eso ya no va a pasar". Varias preferían emparejarse con hombres que ya tuvieran hijos: así no habría líos ni demandas emocionales.
+
+Comentaban también, sin tapujos, que preferían gastar en sí mismas —en cirugía estética o viajes— antes que volver a sacrificarse por otro hijo. Lo justificaban como "caprichos merecidos", recompensas por tanto esfuerzo, porque "cada año todo estaba más caro". Se interrumpían unas a otras con comentarios sobre lo que ocurría en sus grupos de _WhatsApp_, el _look_ de algún chico en _Instagram_, o si esta o aquella práctica sexual iba "con su rollo". Pero no había entusiasmo en sus voces, ni coquetería: solo una mezcla de sorpresa y cansancio.
+
+Eran mujeres totalmente normales. Fuertes, luchadoras, exprimidas por trabajos precarios. Como muchas madres de hoy, siempre intentando "tirar para alante". Rebeldes a su manera, siempre a contracorriente, pero con la amarga certeza de haber fracasado en formar una familia propia.
+
 # La rebelde domesticada
 
 > Soy una potra salvaje / que va de viaje a lo desconocido.
@@ -46,7 +52,7 @@ Así, el cuerpo femenino no es instrumento de autorrealización, sino templo de 
 
 Esta pretendida autenticidad hacia uno mismo va justo en sentido contrario:
 
-> “No sabría ponerle sentimientos a una historia inventada. Cuando habla el corazón todo es más sencillo. En este caso, reflexiona sobre la necesidad de perdonar y avanzar. Jamás me ha gustado hacerme pequeña frente al resto. Es un modo de decirme que yo también puedo tirar hacia adelante”.
+> "No sabría ponerle sentimientos a una historia inventada. Cuando habla el corazón todo es más sencillo. En este caso, reflexiona sobre la necesidad de perdonar y avanzar. Jamás me ha gustado hacerme pequeña frente al resto. Es un modo de decirme que yo también puedo tirar hacia adelante".
 
 :::{.quote-author}
 Isabel Aaiún, El Periódico de España, 29/06/2024
