@@ -8,7 +8,7 @@ monastic_date: III Kalendas Maii, Luna I
 
 # Lecciones de la Oscuridad
 
-En los XXVIII días del mes de Abril, quedó la vieja Hispania sumida en noche cerrada. Maravilláronse todos, pues acaeció al punto de la hora sexta o del mediodía, y no se halló yngenio ni máchina que pudiere trabajar sin el invisible liquor que les daba aliento. Mas aun en aquella lobreguez quiso el Señor darnos su luz, no criada por manos humanas, que alumbra sin consumirse y guía sin errar.
+A los veinte y ocho días del mes de Abril, quedó la vieja Hispania sumida en noche cerrada. Maravilláronse todos, pues acaeció al punto de la hora sexta o del mediodía, y no se halló yngenio ni máchina que pudiere trabajar sin el invisible liquor que les daba aliento. Mas aun en aquella lobreguez quiso el Señor nuestro Dios darnos su luz, no criada por manos humanas, que alumbra sin consumirse y guía sin errar.
 
 Ansí como el cuerpo marchita sin calor ni luz del sol, ansí el ánima, si no es sustentada de fundamento cierto y religiones santas, fácilmente se abate en el tiempo de la prueba.
 
