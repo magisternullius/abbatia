@@ -38,7 +38,7 @@ Y sin saber cómo, nos hemos visto envueltos en una _economía simbólica del de
 
 Es desconcertante que incluso pastores de la Iglesia celebren este modelo como positivo o sanador. Tal vez porque les conmueve su sinceridad, o porque confunden autenticidad con verdad. Pero la verdad del alma humana no está en la autoafirmación, sino en la autodonación. Y la verdadera libertad no consiste en romper las riendas, sino en tomar el yugo suave de Cristo (Mt 11,30), ese que no aplasta, sino que ordena y da sentido. Y eso incluye también —aunque hoy suene impensable— la vocación propia de la mujer.
 
-La maternidad, despreciada por el mundo moderno, no es solo un dato biológico ni una opción identitaria: es una vocación inscrita en la _economía de la salvación_[^3]. Frente al mito emancipador de la mujer que se realiza huyendo de su función natural, la Escritura revela un misterio más alto:
+La maternidad, despreciada por el mundo moderno, no es solo un dato biológico ni una opción identitaria: es una vocación inscrita en la _economía de la salvación_[^3]. La fecundidad tampoco es una carga que haya que soportar, un cupo para decir "yo ya he cumplido" —con uno, dos o tres hijos—. Frente al mito emancipador de la mujer que se realiza huyendo de su función natural, la Escritura revela un misterio más alto:
 
 > Se salvará por la crianza de los hijos, si permaneciere en la fe, en la caridad y en la castidad, acompañadas de la modestia.
 
