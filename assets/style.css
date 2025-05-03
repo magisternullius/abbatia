@@ -463,6 +463,12 @@ div.important::before {
   text-decoration: underline;
 }
 
+a.footnote-ref:focus {
+  outline: none;
+  box-shadow: 0 0 0.2em #a12c2f66;
+  border-radius: 0.2em;
+}
+
 .footnotes hr {
   display: none;
 }
