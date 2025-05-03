@@ -6,9 +6,9 @@ date: 2025-04-30
 monastic_date: Pridie Kalendas Maii, Luna II
 ---
 
-Hace unos días, estando sentado en un parque, escuché por azar la conversación de un grupo de madres jóvenes, divorciadas o separadas, ninguna mayor de treinta y cinco años. Hablaban con naturalidad de que ya no deseaban tener más hijos. No por odio a la maternidad, sino por puro agotamiento: algunas trabajaban más de diez horas diarias; otras se decían escarmentadas de pleitos por la custodia. Alguna confesaba que solo tendría otro si volvía a "sentir algo muy fuerte", pero añadía enseguida: "eso ya no va a pasar". Varias preferían emparejarse con hombres que ya tuvieran hijos: así no habría líos ni demandas emocionales.
+Hace unos días, estando sentado en un parque, escuché por azar la conversación de un grupo de madres jóvenes, divorciadas o separadas, ninguna mayor de treinta y cinco años. Hablaban con naturalidad de que ya no deseaban tener más hijos. No por odio a la maternidad, sino por puro agotamiento: algunas trabajaban más de diez horas diarias; otras se decían escarmentadas de pleitos por la custodia. Alguna confesaba que solo tendría otro si volvía a "sentir algo muy fuerte" por alguna persona, pero añadía enseguida: "eso ya no va a pasar". Varias preferían emparejarse con hombres que ya tuvieran hijos: así no habría líos ni demandas emocionales.
 
-Comentaban también, sin tapujos, que preferían gastar en sí mismas —en cirugía estética o viajes— antes que volver a sacrificarse por otro hijo. Lo justificaban como "caprichos merecidos", recompensas por tanto esfuerzo, porque "cada año todo estaba más caro". Se interrumpían unas a otras con comentarios sobre lo que ocurría en sus grupos de _WhatsApp_, el _look_ de algún chico en _Instagram_, o si esta o aquella práctica sexual iba "con su rollo". Pero no había entusiasmo en sus voces, ni coquetería: solo una mezcla de sorpresa y cansancio.
+Comentaban también, sin tapujos, que preferían gastar en sí mismas —en cirugía estética o viajes— antes que volver a sacrificarse por otro hijo. Lo justificaban como "caprichos merecidos", recompensas por tanto esfuerzo, porque "cada año todo está más caro". Se interrumpían unas a otras con comentarios sobre lo que ocurría en sus grupos de _WhatsApp_, el cotilleo de algún chico en _Instagram_, o si esta o aquella práctica sexual iba "con su rollo". Pero no había entusiasmo en sus voces, ni coquetería: solo una mezcla de sorpresa y cansancio.
 
 Eran mujeres totalmente normales. Fuertes, luchadoras, exprimidas por trabajos precarios. Como muchas madres de hoy, siempre intentando "tirar para alante". Rebeldes a su manera, siempre a contracorriente, pero con la amarga certeza de haber fracasado en formar una familia propia.
 
@@ -36,11 +36,11 @@ Y sin saber cómo, nos hemos visto envueltos en una _economía simbólica del de
 
 ## La mentira de la autenticidad
 
-Es desconcertante que incluso pastores de la Iglesia celebren este modelo como positivo o sanador. Tal vez porque les conmueve su sinceridad, o porque confunden autenticidad con verdad. Pero la verdad del alma humana no está en la autoafirmación, sino en la autodonación. Y la verdadera libertad no consiste en romper las riendas, sino en tomar el yugo suave de Cristo (Mt 11,30), ese que no aplasta, sino que ordena y da sentido. Y eso incluye también —aunque hoy suene impensable- la vocación propia de la mujer.
+Es desconcertante que incluso pastores de la Iglesia celebren este modelo como positivo o sanador. Tal vez porque les conmueve su sinceridad, o porque confunden autenticidad con verdad. Pero la verdad del alma humana no está en la autoafirmación, sino en la autodonación. Y la verdadera libertad no consiste en romper las riendas, sino en tomar el yugo suave de Cristo (Mt 11,30), ese que no aplasta, sino que ordena y da sentido. Y eso incluye también —aunque hoy suene impensable— la vocación propia de la mujer.
 
 La maternidad, despreciada por el mundo moderno, no es solo un dato biológico ni una opción identitaria: es una vocación inscrita en la _economía de la salvación_[^3]. Frente al mito emancipador de la mujer que se realiza huyendo de su función natural, la Escritura revela un misterio más alto:
 
-> La mujer se salvará por la maternidad si persevera en la fe, la caridad y la santidad con modestia.
+> Se salvará por la crianza de los hijos, si permaneciere en la fe, en la caridad y en la castidad, acompañadas de la modestia.
 
 :::{.quote-author}
 1 Tim 2,15
@@ -48,7 +48,7 @@ La maternidad, despreciada por el mundo moderno, no es solo un dato biológico n
 
 Por supuesto, no se trata únicamente de la maternidad biológica, sino también de aquella que opera en el orden del alma: la maternidad espiritual, que acoge, gesta y da vida conforme a la gracia. Como recordara San Juan Pablo II, _"la mujer participa de modo propio y singular en el misterio de la vida y del amor"_[^4], y esta participación se realiza de forma eminente cuando coopera humildemente con el designio de Dios, ofreciendo su ser como tierra fecunda a la verdad y al bien. No es un ideal subjetivo, sino una verdad objetiva inscrita en la Creación y, por tanto, en nuestros corazones.
 
-Así, el cuerpo femenino no es instrumento de autorrealización, sino templo de servicio; y su capacidad de engendrar no es carga que deba superar, sino participación en el designio creador y redentor. Esa es la feminidad que el mundo desprecia porque no puede controlar. La que no necesita "siete motivos", sino los sacramentos. La que no corre hacia lo desconocido, sino que camina hacia el Reino.
+Así, el cuerpo femenino no es instrumento de autorrealización, sino templo de servicio; y su capacidad de engendrar no es carga que deba superar, sino participación en el designio creador y redentor. Esa es la feminidad que el mundo desprecia porque no puede controlar. La que no necesita "siete motivos", sino los siete sacramentos. La que no corre hacia lo desconocido, sino que camina hacia el Reino.
 
 Esta pretendida autenticidad hacia uno mismo va justo en sentido contrario:
 
@@ -64,11 +64,11 @@ Isabel Aaiún, El Periódico de España, 29/06/2024
 
 La famosa puerta estrecha (Mt 7,13-14) es también baja, de la altura de un niño, porque solo quien se haga pequeño podrá pasar por ella. No entran los fuertes en apariencia, sino los mansos en verdad. No la atraviesan los que corren desbocados, sino los que se detienen a escuchar al Pastor.
 
-Porque _"si no os convertís y os hacéis como niños, no entraréis en el Reino de los Cielos"_ (Mt 18,3). Y niño es quien depende, quien confía, quien se deja guiar, no quien se jacta de avanzar solo.
+Porque _"si no os volviéreis y os hiciéreis como niños, no entraréis en el Reino de los Cielos"_ (Mt 18,3). Y niño es quien depende, quien confía, quien se deja guiar, no quien se jacta de avanzar solo.
 
-La cultura de la autoafirmación, del _"yo también puedo tirar hacia adelante"_, ha convertido la salvación en un proyecto de esfuerzo individual. Pero la mujer no se salva a pesar de su debilidad, sino a través de ella. No es solo cuestión de fuerza interior: necesitamos que Dios nos dé su ayuda. Y esta ayuda no es mérito propio -o algo que podamos obtener en un gimnasio-, sino don gratuito que precede, acompaña y sostiene cada paso del alma hacia Dios.
+La cultura de la autoafirmación, del _"yo también puedo tirar hacia adelante"_, ha convertido la salvación en un proyecto de esfuerzo individual. Pero la mujer no se salva a pesar de su debilidad, sino a través de ella. No es solo cuestión de fuerza interior: necesitamos que Dios nos dé su ayuda. Y esta ayuda no es mérito propio -o algo que podamos entrenar en un gimnasio-, sino don gratuito que precede, acompaña y sostiene cada paso del alma hacia Dios.
 
-Nadie puede salvarse solo, por mucho que lo intente. Es Jesús quien, si le abrimos el corazón, nos da esa fuerza invisible pero real, que nos hace capaces de entregarnos y vivir como Él. Negarse a una misma no es alienante. Lo es, en cambio, no hacerlo cuando se debiera. _"Quien quiera venir en pos de mí, niéguese a sí mismo"_ (Mt 16,24).
+Nadie puede salvarse solo, por mucho que lo intente. Es Jesús quien, si le abrimos el corazón, nos da esa fuerza invisible pero real, que nos hace capaces de entregarnos y vivir como Él. Negarse a una misma no es alienante. Lo es, en cambio, no hacerlo cuando se debiera. _"El que quiera venir en pos de mí, niéguese a sí mismo"_ (Mt 16,24).
 
 El corazón no debe "hablar" sin más, porque está herido por el pecado. Lo que debe es ser transformado. No basta con ser sincero: también Caín fue sincero, también Judas, también el hijo pródigo en el momento de su huida. La autenticidad que salva no es la de expresar lo que uno siente, sino la de convertirse a la Verdad que es Cristo (Jn 14,6).
 
@@ -100,7 +100,7 @@ Jer 2:24
 
 ## Post scriptum
 
-Vivimos en una cultura que clama por referentes, por modelos con alma. Incluso los discursos más deconstructivos reconocen —aunque no lo digan con estas palabras— una herida estructural: las jóvenes crecen sin figuras que encarnen lo femenino en su verdad. En lugar de maestras, tienen influencers y retos de _tiktok_. En lugar de ejemplos vivos, optan por imitar personajes de _anime_ o del mundo de los videojuegos. Y así, buscan una identidad sin fundamento, construida en el vacío.
+Vivimos en una cultura que clama por referentes, por modelos con alma. Incluso los discursos más deconstructivos reconocen —aunque no lo digan con estas palabras— una herida estructural: las jóvenes crecen sin figuras que encarnen lo femenino en su verdad. En lugar de maestras, tienen influencers y retos de _Tiktok_. En lugar de ejemplos vivos, optan por imitar personajes de _anime_ o del mundo de los videojuegos. Y así, buscan una identidad sin fundamento, construida en el vacío.
 
 Nada puede crecer sin una forma que le dé sentido ni un fin que lo oriente. El ser humano no se inventa a sí mismo: recibe su naturaleza como don, y solo se realiza actuando conforme a lo que es: imagen y semejanza de Dios.
 
@@ -147,7 +147,7 @@ Donde antes se entraba en la liturgia con temor y temblor, ahora se escucha al a
 ### Cogitatio ultima
 
 :::{.important}
-A las jóvenes de hoy —a ti que lees esto— solo quiero decirte una cosa: no eres una potra. Eres hija. Eres madre.
+A cada una de aquellas mamás divorciadas —a ti que lees esto— solo quiero decirte una cosa: no eres una potra. Eres hija. Eres madre.
 No necesitas correr sin destino para ser libre. Necesitas saber quién te ama y para qué estás hecha.
 :::
 
