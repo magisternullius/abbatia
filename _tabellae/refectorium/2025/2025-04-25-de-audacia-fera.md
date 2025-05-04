@@ -123,7 +123,7 @@ The goal of our life is not professional success, public recognition, or persona
 
 We are called to holiness, not to worldly greatness. And that, very often, will look like failure to the world. The goal is to die in the state of grace — to die as friends of God.
 
-![Scriptrix Orbem Obtulit](/assets/imagines/scriptrix-orbem-obtulit.png)
+![Scriptrix Orbem Obtulit](/instrumenta/imagines/scriptrix-orbem-obtulit.png)
 
 > For what shall it profit a man, if he gain the whole world, and suffer the loss of his soul?
 

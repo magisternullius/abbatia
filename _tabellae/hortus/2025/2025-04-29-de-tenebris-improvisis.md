@@ -57,7 +57,7 @@ Daniel 2:22
 
 Y manténgase esperanza, no fingida sino verdadera, en aquella Ierusalém de lo alto, donde no habrá ya más noche, ni desfallecimiento del corazón, ni ocaso de la gracia.
 
-![Sion Superna](/assets/imagines/sion-superna.png)
+![Sion Superna](/instrumenta/imagines/sion-superna.png)
 
 > Et nox ultra non erit: et non egebunt lucerna, neque lumine solis, quoniam Dominus Deus illuminabit illos: et regnabunt in sæcula sæculorum.
 

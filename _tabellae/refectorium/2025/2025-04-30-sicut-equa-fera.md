@@ -28,7 +28,7 @@ Pero lo que se presenta como autenticidad es, en realidad, un cliché. Y uno bie
 
 ## Rebelarse vende
 
-Porque no hay nada nuevo ni rebelde en una mujer que dice no necesitar a nadie, que declara su independencia emocional, que quiere "viajar a lo desconocido" sin riendas ni herrajes. Es exactamente lo que se espera de ella. Una mujer que no se entrega, que no se arraiga, que no quiere depender de nadie, es una mujer perfectamente disponible: para el consumo, para el entretenimiento, para el mercado laboral. Una mujer que no se dona es una mujer que produce. Y una mujer sin vocación de madre -biológica o espiritual- es una mujer cuya fecundidad ha sido convertida en capital.
+Porque no hay nada nuevo ni rebelde en una mujer que dice no necesitar a nadie, que declara su independencia emocional, que quiere "viajar a lo desconocido" sin riendas ni herrajes. Es exactamente lo que se espera de ella. Una mujer que no se entrega, que no se arraiga, que no quiere depender de nadie, es una mujer perfectamente disponible: para el consumo, para el entretenimiento, para el mercado laboral. Una mujer que no se dona es una mujer que produce. Y una mujer sin vocación de madre —biológica o espiritual— es una mujer cuya fecundidad ha sido convertida en capital.
 
 La canción lo deja claro: no hay redención, solo afirmación. No hay perdón que venga de Dios, sino una especie de autoindulgencia terapéutica. Las cicatrices no se curan, se decoran. El dolor no se entrega, se convierte en estilo. La potra no se doma, pero tampoco se redime. Solo corre. ¿Hacia dónde? Hacia lo desconocido, es decir, hacia la nada.
 
@@ -48,7 +48,7 @@ La maternidad, despreciada por el mundo moderno, no es solo un dato biológico n
 
 Por supuesto, no se trata únicamente de la maternidad biológica, sino también de aquella que opera en el orden del alma: la maternidad espiritual, que acoge, gesta y da vida conforme a la gracia. Como recordara San Juan Pablo II, _"la mujer participa de modo propio y singular en el misterio de la vida y del amor"_[^4], y esta participación se realiza de forma eminente cuando coopera humildemente con el designio de Dios, ofreciendo su ser como tierra fecunda a la verdad y al bien. No es un ideal subjetivo, sino una verdad objetiva inscrita en la Creación y, por tanto, en nuestros corazones.
 
-Así, el cuerpo femenino no es instrumento de autorrealización, sino templo de servicio; y su capacidad de engendrar no es carga que deba superar, sino participación en el designio creador y redentor. Esa es la feminidad que el mundo desprecia porque no puede controlar. La que no necesita "siete motivos", sino los siete sacramentos. La que no corre hacia lo desconocido, sino que camina hacia el Reino.
+Así, el cuerpo femenino no es instrumento de autorrealización, sino templo de servicio; y su capacidad de engendrar no es carga que deba superar, sino participación en el designio creador y redentor. Esa es la feminidad que el mundo desprecia porque no puede controlar. La que no necesita "siete motivos", sino sacramentos. La que no corre hacia lo desconocido, sino que camina hacia el Reino.
 
 Esta pretendida autenticidad hacia uno mismo va justo en sentido contrario:
 
@@ -66,7 +66,7 @@ La famosa puerta estrecha (Mt 7,13-14) es también baja, de la altura de un niñ
 
 Porque _"si no os volviéreis y os hiciéreis como niños, no entraréis en el Reino de los Cielos"_ (Mt 18,3). Y niño es quien depende, quien confía, quien se deja guiar, no quien se jacta de avanzar solo.
 
-La cultura de la autoafirmación, del _"yo también puedo tirar hacia adelante"_, ha convertido la salvación en un proyecto de esfuerzo individual. Pero la mujer no se salva a pesar de su debilidad, sino a través de ella. No es solo cuestión de fuerza interior: necesitamos que Dios nos dé su ayuda. Y esta ayuda no es mérito propio -o algo que podamos entrenar en un gimnasio-, sino don gratuito que precede, acompaña y sostiene cada paso del alma hacia Dios.
+La cultura de la autoafirmación, del _"yo también puedo tirar hacia adelante"_, ha convertido la salvación en un proyecto de esfuerzo individual. Pero la mujer no se salva a pesar de su debilidad, sino a través de ella. No es solo cuestión de fuerza interior: necesitamos que Dios nos dé su ayuda. Y esta ayuda no es mérito propio —o algo que podamos entrenar en un gimnasio—, sino don gratuito que precede, acompaña y sostiene cada paso del alma hacia Dios.
 
 Nadie puede salvarse solo, por mucho que lo intente. Es Jesús quien, si le abrimos el corazón, nos da esa fuerza invisible pero real, que nos hace capaces de entregarnos y vivir como Él. Negarse a una misma no es alienante. Lo es, en cambio, no hacerlo cuando se debiera. _"El que quiera venir en pos de mí, niéguese a sí mismo"_ (Mt 16,24).
 
@@ -90,7 +90,7 @@ Bajo toda esta estética de empoderamiento, se ha oscurecido la conciencia del s
 
 La potra salvaje es la esclava perfecta: se cree libre, y por eso no rompe las cadenas. Lo más perverso es que canta mientras se encadena. Tal vez esta figura de mujer rebelde y desatada no sea realmente la expresión de una libertad profunda, sino la repetición inconsciente de un modelo que otra instancia —la cultura, el mercado, la ideología dominante— ha fabricado para ella[^8]: un _meme_.
 
-![Diabolus Equam Domans](/assets/imagines/diabolus-domans.png)
+![Diabolus Equam Domans](/instrumenta/imagines/diabolus-domans.png)
 
 > La camella joven, de ligeros pies, corre de un lado para otro. ¿Quién templará su codicia? El que la busque, no tendrá que fatigarse, la hallará fácilmente en el tiempo del celo.
 
