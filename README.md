@@ -30,16 +30,18 @@ Non propter gloriam mundi, sed ad testimonium Veritatis, in saeculo fluctuantium
 
 **Structura hujus scriptorii:**
 
-- `_tabellae/` – Locus originis: scripta in forma *Markdown* disposita per annum (`aaaa/aaaa-mm-dd-titulus.md`).
-- `_exemplaria/` – Exemplaria *Pandoc* ad formam HTML (singula et index).
+- `_claustrum/` – Radix situs publicandi: hoc est punctum centralis deployment, ubi totus situs HTML congregatur.
+- `_tabellae/` – Locus originis: scripta in forma _Markdown_ disposita per annum (`aaaa/aaaa-mm-dd-titulus.md`).
+- `_exemplaria/` – Exemplaria _Pandoc_ ad formam HTML (singula et index).
 - `scriptorium/, bibliotheca/, ...` – Secciones visibiles in situ, quae continet:
-  - `opera/` – Documenta generata ex *Markdown*.
+  - `opera/` – Documenta generata ex _Markdown_.
   - `index.html` – Tabula operum per annum, in ordine romano digesta.
 
 **Praerequisita:**
 
-- [`pandoc`](https://pandoc.org) — ad conversionem ex *Markdown* in HTML.  
+- [`pandoc`](https://pandoc.org) — ad conversionem ex _Markdown_ in HTML.  
   Installatio in macOS:
+
   ```sh
   brew install pandoc
   # vel
@@ -47,6 +49,7 @@ Non propter gloriam mundi, sed ad testimonium Veritatis, in saeculo fluctuantium
   ```
 
 - [`roman`](https://pypi.org/project/roman/) — Python bibliotheca ad conversionem annorum gregorianorum in numerales Romanos:
+
   ```sh
   pip install roman
   ```
@@ -56,11 +59,13 @@ Non propter gloriam mundi, sed ad testimonium Veritatis, in saeculo fluctuantium
 **Modus operandi:**
 
 Ad aedificandum situm:
+
 ```sh
 make site
 ```
 
 Ad purgandum omnia documenta generata:
+
 ```sh
 make clean
 ```
