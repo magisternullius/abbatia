@@ -2,7 +2,7 @@ PANDOC = pandoc
 SECTIONS = scriptorium bibliotheca hortus refectorium oratorium
 SRC_DIR = _tabellae
 TPL_DIR = _exemplaria
-SITE_DIR= _claustrum
+SITE_DIR= docs
 
 .PHONY: site clean
 

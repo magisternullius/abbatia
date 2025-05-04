@@ -30,7 +30,7 @@ Non propter gloriam mundi, sed ad testimonium Veritatis, in saeculo fluctuantium
 
 **Structura hujus scriptorii:**
 
-- `_claustrum/` – Radix situs publicandi: hoc est punctum centralis deployment, ubi totus situs HTML congregatur.
+- `docs/` – Radix situs publicandi: hoc est punctum centralis deployment, ubi totus situs HTML congregatur.
 - `_tabellae/` – Locus originis: scripta in forma _Markdown_ disposita per annum (`aaaa/aaaa-mm-dd-titulus.md`).
 - `_exemplaria/` – Exemplaria _Pandoc_ ad formam HTML (singula et index).
 - `scriptorium/, bibliotheca/, ...` – Secciones visibiles in situ, quae continet:
