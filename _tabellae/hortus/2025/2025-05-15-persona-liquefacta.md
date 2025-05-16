@@ -376,7 +376,7 @@ Ahí comienza el verdadero Amor.
 
 ## ✠ Glossa prophetica
 
-> Quando la Eglesia dexó el saber firme por palabras dulces,  
+> Quando la Eglesia dexó el saber firme por palabras dulzes,  
 > e puso la persona en logar del ser,  
 > vino la sombra en semblante de rostro,  
 > e la mentira vistióse de amor.  
