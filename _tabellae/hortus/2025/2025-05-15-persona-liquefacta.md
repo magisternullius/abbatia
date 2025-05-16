@@ -1,12 +1,12 @@
 ---
 title: Persona Liquefacta
-subtitle: Sátira pastoral en un acto
+subtitle: Sátira pastoral
 author: Magister Nullo
 date: 2025-05-15
 monastic_date: Idibus Maii, Luna XVII
 ---
 
-# Sátira pastoral en una escena
+# Sátira pastoral
 
 > Stat rosa pristine nomine, nomina nuda tenemus.
 
