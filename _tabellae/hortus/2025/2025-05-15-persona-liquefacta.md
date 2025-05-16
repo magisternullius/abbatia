@@ -265,7 +265,7 @@ La persona —dice **San Juan Pablo II**— es un ser que se posee y se dona en 
 
 Ese don no exige tener el sentido resuelto, pero requiere reconocer que hay un Tú que llama.  
 Amar no es autoinventarse, sino descubrir que mi yo solo se entiende en el encuentro con el Otro.  
-Un Dios que se ha abajado por amor, y que, —como bien dices— nos necesita. Pero también le necesitamos a Él.  
+Un Dios que se ha abajado por amor, y que nos necesita. Pero también le necesitamos a Él.  
 
 La disolución que propones… es generosa, sí, pero impersonal.  
 Y el amor —el verdadero— pide rostro, pide libertad que responda, no que se diluya.  
