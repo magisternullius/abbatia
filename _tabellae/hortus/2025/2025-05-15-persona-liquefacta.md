@@ -6,7 +6,7 @@ date: 2025-05-15
 monastic_date: Idibus Maii, Luna XVII
 ---
 
-# Sátira pastoral en un acto
+# Sátira pastoral en una escena
 
 > Stat rosa pristine nomine, nomina nuda tenemus.
 
@@ -23,7 +23,7 @@ monastic_date: Idibus Maii, Luna XVII
 
 ## Scena unica
 
-_Una habitación vacía, luminosa, sin imágenes. Silencio. Dos sillas. Entra Paulo-Bianca, se estira en una de las sillas como un gato sagrado. Carmen ya está sentada, con una Biblia de Jerusalén en el regazo._
+_Una habitación vacía, sin imágenes. Luminosa: luz diurna artificial indirecta. Silencio. Dos sillas de tijera de metacrilato. Entra Paulo-Bianca, se estira en una de las sillas como un gato sagrado. Carmen ya está sentada, con una Biblia de Jerusalén en el regazo._
 
 ::: {.theater}
 
@@ -37,7 +37,7 @@ Bienvenid@, hij@ del Misterio… Me alegra que hayas aceptado este espacio de es
 **Paulo-Bianca**
 _(reclinándose con elegancia post-orgánica)_
 :::
-Me vivo como una interferencia biotecnológica entre especie y disidencia. Soy flujo encarnado. Performance afectivo. Sacramento no normativo.
+Me vivo como una interferencia biotecnológica entre especie y disidencia. Somos flujo encarnado. Performance afectivo. Sacramento no normativo.
 
 ::: {.persona}
 **Sor Carmen**
@@ -86,7 +86,7 @@ Como diría **Buber**: Él es el gran Tú que sana tus túes fragmentados.
 _(con sarcasmo gatuno)_
 :::
 Entonces… ¿acepta mi pluridentidad trans-especie?  
-¿Incluso esta piel de gato que he injertado simbólicamente como liturgia de fuga?  
+¿Incluso esta cola de gato que me he injertado simbólicamente como liturgia de fuga?  
 
 ::: {.persona}
 **Sor Carmen**
@@ -188,7 +188,7 @@ Y eso —permíteme, hermana— es más personal que cualquier personalismo.
 
 Yo no busco mi sentido para poder amar…  
 Yo amo mientras busco, y por eso me disuelvo.  
-Dono mi libertad. Me entrego al devenir.  
+Dono mi libertad y mi cuerpo. Me entrego al devenir.  
 Salgo al encuentro de mi propia subjetividad, no para poseerla, sino para dejarla atrás en cada gesto que me nombra y me derrumba.  
 
 ¿Acaso no dice **Viktor Frankl** _"El sentido no se inventa. Se descubre"_?  
@@ -231,9 +231,9 @@ Una proyección dialógica de tu deseo de unidad, aún revestida de alteridad.
 Pero ¿y si el rostro no es más que la nostalgia de un límite, el rastro último del sujeto que se resiste a disolverse?  
 
 Tú llamas _encuentro_ a ese límite.  
-Yo lo llamo eco. Fondo Cósmico de Microondas. Algo que estuvo y se fue. Eso no hace al Big-Bang menos real. ¿No fue un sacerdote católico quien teorizó sobre todo aquello?  
+Yo lo llamo eco. Fondo Cósmico de Microondas. Algo que estuvo y se fue. Eso no hace al Big-Bang menos real. ¿No fue un sacerdote católico quien lo descubrió?  
 
-<span class=rubrica>(La hermana Carmen balbucea algo, como para contestar a la pregunta, como una alumna aplicada. Pero Paul-Bianca la interrumpe)</span>  
+<span class=rubrica>(La hermana Carmen balbucea algo para contestar a la pregunta, como una alumna aplicada. Pero Paul-Bianca la interrumpe)</span>  
 
 Y sí, Hermana Carmen… yo también quiero volver al Ser.  
 
@@ -436,3 +436,6 @@ Et canta el sancto rrey David:
 ::: {.quote-author}
 — Ps 11, 2-3
 :::
+
+Por Iesu Christo nuestro Señor, que es Alimento, Luz, Camino, Verdad e Vida.  
+Amén.
