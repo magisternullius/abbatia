@@ -30,7 +30,7 @@ El texto, titulado _Sex Luces Extintae Sunt – In Silençio Legendum_, ha sido 
 > cooperuit aquas, motum per fluctus.  
 >
 > Et cum servus locutus est,  
-> dixit: "Ecce lux fraternitatis"  
+> dixit: "Ecce lux unitatis"  
 > sed ignis non fuit,  
 > et lux non illuminavit,  
 > et stantes in umbra, non intelleximus eam.  
