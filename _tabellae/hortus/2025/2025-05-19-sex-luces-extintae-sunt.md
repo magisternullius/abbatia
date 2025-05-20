@@ -45,7 +45,7 @@ El texto, titulado _Sex Luces Extintae Sunt – In Silençio Legendum_, ha sido 
 > me despertavit.  
 >
 > Et fallome iacens in mea cella,  
-> et rogans Deo por la nostra Sancta Ecllesia.
+> et rogans Deo pro la nostra Sancta Ecllesia.
 
 ![Rete Sine Pondere](/instrumenta/imagines/rete-sine-pondere.png)
 
