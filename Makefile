@@ -1,11 +1,12 @@
 PANDOC = pandoc
+SITE_URL = https://abbatia.aquinas.lol
 SECTIONS = scriptorium bibliotheca hortus refectorium oratorium
 SRC_DIR = _tabellae
 TPL_DIR = _exemplaria
 SITE_DIR= docs
 METADATA=--metadata-file=$(TPL_DIR)/metadata.yaml
 
-.PHONY: site clean
+.PHONY: site clean sitemap
 
 site: clean
 	@for section in $(SECTIONS); do \
@@ -42,3 +43,43 @@ clean:
 	@for section in $(SECTIONS); do \
 		rm -fr $(SITE_DIR)/$$section; \
 	done
+
+sitemap:
+	@echo "Generatur sitemap.xml …"
+	@echo '<?xml version="1.0" encoding="UTF-8"?>' > $(SITE_DIR)/sitemap.xml
+	@echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' >> $(SITE_DIR)/sitemap.xml
+	@echo '  <url><loc>$(SITE_URL)/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>' >> $(SITE_DIR)/sitemap.xml
+	@find $(SITE_DIR) -name '*.html' | sort | while read file; do \
+		rel_path=$${file#$(SITE_DIR)/}; \
+		if echo "$$rel_path" | grep -q '/index.html$$'; then \
+			url=$(SITE_URL)/$$(dirname $$rel_path)/; \
+		else \
+			url=$(SITE_URL)/$$rel_path; \
+		fi; \
+		filename=$$(basename $$file); \
+		if echo $$filename | grep -Eq '^[0-9]{4}-[0-9]{2}-[0-9]{2}'; then \
+			date=$$(echo $$filename | sed -E 's/^([0-9]{4}-[0-9]{2}-[0-9]{2}).*/\1/'); \
+			if echo $$file | grep -q '/index.html$$'; then \
+				priority=1.0; \
+			else \
+				priority=0.7; \
+			fi; \
+			if echo $$file | grep -q '/index.html$$'; then \
+			  echo "  <url><loc>$$url</loc><lastmod>$$date</lastmod><changefreq>monthly</changefreq><priority>$$priority</priority></url>" >> $(SITE_DIR)/sitemap.xml; \
+			else \
+			  echo "  <url><loc>$$url</loc><lastmod>$$date</lastmod><priority>$$priority</priority></url>" >> $(SITE_DIR)/sitemap.xml; \
+			fi; \
+		else \
+			if echo $$file | grep -q '/index.html$$'; then \
+				priority=1.0; \
+			else \
+				priority=0.7; \
+			fi; \
+			if echo $$file | grep -q '/index.html$$'; then \
+			  echo "  <url><loc>$$url</loc><changefreq>monthly</changefreq><priority>$$priority</priority></url>" >> $(SITE_DIR)/sitemap.xml; \
+			else \
+			  echo "  <url><loc>$$url</loc><priority>$$priority</priority></url>" >> $(SITE_DIR)/sitemap.xml; \
+			fi; \
+		fi; \
+	done
+	@echo '</urlset>' >> $(SITE_DIR)/sitemap.xml
