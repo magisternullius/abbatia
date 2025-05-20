@@ -12,40 +12,42 @@ El objeto apareció oculto bajo el pavimento de la antigua bodega monástica, ce
 
 El texto, titulado _Sex Luces Extintae Sunt – In Silençio Legendum_, ha sido interpretado como una lamentación profética en forma de salmo monástico, y puede pertenecer al género de los libelli subterranei o "libros del silencio", que algunos copistas habrían compuesto no como enseñanza para su tiempo, sino como testimonio para otro.
 
-# In Silençio Legendum
+## In Silençio Legendum
 
-> Sex luces extinctae sunt in altari Agni,  
-> septem lampades ardentes ante thronum,  
-> et centrum vacuum se inclinavit ad quod iam non habet radicem.  
->
-> Super palmas regis cantoris cadebant flores mortui,  
-> cum odore sacrificium Deo non placens.  
->
-> Qui ascendit ad locum altum  
-> non habebat in manto signa pugnae,  
-> nec gloriam Ephod,  
-> nec in voce voces quadraginta novem generationum.  
->
-> Rete proiectum fuit sine pondere,  
-> latius quam profundum,  
-> cooperuit aquas, motum per fluctus.  
->
-> Et cum servus locutus est,  
-> dixit: "Ecce lux romana"  
-> sed ignis non fuit,  
-> et lux non illuminavit,  
-> et stantes in umbra, non intelleximus eam.  
->
-> Et in gradibus ubi dormiunt martyres,  
-> ardebant lucernae novem sine lumine,  
-> pastus erat grex, sed non de sanguine eorum.  
->
-> Et grand plausu,  
-> con estruendu de mill truenos,  
-> me despertavit.  
->
-> Et fallome iacens in mea cella,  
-> et rogans Deo pro la nostra Sancta Ecllesia.
+:::{.poema}
+Sex luces extinctae sunt in altari Agni,  
+septem lampades ardentes ante thronum,  
+et centrum vacuum se inclinavit ad quod iam non habet radicem.  
+
+Super palmas regis cantoris cadebant flores mortui,  
+cum odore sacrificium Deo non placens.  
+
+Qui ascendit ad locum altum  
+non habebat in manto signa pugnae,  
+nec gloriam Ephod,  
+nec in voce voces quadraginta novem generationum.  
+
+Rete proiectum fuit sine pondere,  
+latius quam profundum,  
+cooperuit aquas, motum per fluctus.  
+
+Et cum servus locutus est,  
+dixit: "Ecce lux romana"  
+sed ignis non fuit,  
+et lux non illuminavit,  
+et stantes in umbra, non intelleximus eam.  
+
+Et in gradibus ubi dormiunt martyres,  
+ardebant lucernae novem sine lumine,  
+pastus erat grex, sed non de sanguine eorum.  
+
+Et grand plausu,  
+con estruendu de mill truenos,  
+me despertavit.  
+
+Et fallome iacens in mea cella,  
+et rogans Deo pro la nostra Sancta Ecllesia.
+:::
 
 ![Rete Sine Pondere](/instrumenta/imagines/rete-sine-pondere.png)
 

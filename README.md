@@ -70,6 +70,14 @@ Ad purgandum omnia documenta generata:
 make clean
 ```
 
+---
+
+**Recursus**:
+
+- _Typus litterarum_ "leonensis cancelleresca" adhibetur in stylis _poema_; hanc fontem invenies in [Corazón León](https://corazonleon.blogspot.com/2010/08/leonesa-cancilleresca-una-nueva.html).
+
+---
+
 **Licentia:**
 
 Hoc opus sub lege Creative Commons **CC BY-NC-SA 4.0** communicatur.  

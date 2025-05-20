@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'MozarabeModerna';
+  src: url('/instrumenta/characteres/LeonesaCancillerescaModern.ttf') format('truetype');
+  font-display: swap;
+}
+
 body {
   background-color: #f5f5f0;
   color: #3b2f2f;
@@ -514,4 +520,19 @@ a.footnote-ref {
   font-style: italic;
   font-weight: normal;
   margin-top: 0.1em;
+}
+
+
+.poema {
+  font-family: 'MozarabeModerna', "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  background-color: #fcf9f5;
+  border-left: 4px solid #a12c2f;
+  padding: 1em 1.5em;
+  margin: 2em auto;
+  max-width: 700px;
+  font-size: 1.25rem;
+  line-height: 1.75;
+  font-style: normal; /* sin cursiva */
+  white-space: pre-line;
+  letter-spacing: 0.02em;
 }
