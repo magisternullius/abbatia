@@ -24,7 +24,7 @@ El texto, titulado _Sex Luces Extintae Sunt – In Silençio Legendum_, ha sido 
 > Qui ascendit ad locum altum  
 > non habebat in manto signa pugnae,  
 > nec gloriam Ephod,  
-> nec in voce voces XLIX generationum.  
+> nec in voce voces quadraginta novem generationum.  
 >
 > Rete proiectum fuit sine pondere,  
 > latius quam profundum,  
