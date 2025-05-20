@@ -6,9 +6,15 @@ TPL_DIR = _exemplaria
 SITE_DIR= docs
 METADATA=--metadata-file=$(TPL_DIR)/metadata.yaml
 
-.PHONY: site clean sitemap
+.PHONY: munda exscribe itinerarium publica
 
-site: clean
+munda:
+	@echo "Documenta generata eliminantur …"
+	@for section in $(SECTIONS); do \
+		rm -fr $(SITE_DIR)/$$section; \
+	done
+
+exscribe: munda
 	@for section in $(SECTIONS); do \
 		echo "Conficitur pars $$section …"; \
 		mkdir -p $(SITE_DIR)/$$section/opera; \
@@ -38,13 +44,7 @@ site: clean
 		rm $(SITE_DIR)/$$section/index-tmp.md; \
 	done
 
-clean:
-	@echo "Documenta generata eliminantur …"
-	@for section in $(SECTIONS); do \
-		rm -fr $(SITE_DIR)/$$section; \
-	done
-
-sitemap:
+itinerarium:
 	@echo "Generatur sitemap.xml …"
 	@echo '<?xml version="1.0" encoding="UTF-8"?>' > $(SITE_DIR)/sitemap.xml
 	@echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' >> $(SITE_DIR)/sitemap.xml
@@ -83,3 +83,5 @@ sitemap:
 		fi; \
 	done
 	@echo '</urlset>' >> $(SITE_DIR)/sitemap.xml
+
+publica: exscribe itinerarium

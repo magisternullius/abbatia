@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://abbatia.aquinas.lol/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
   <url><loc>https://abbatia.aquinas.lol/bibliotheca/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://abbatia.aquinas.lol/google9cf52703f26171ec.html</loc><priority>0.7</priority></url>
   <url><loc>https://abbatia.aquinas.lol/hortus/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
   <url><loc>https://abbatia.aquinas.lol/hortus/opera/2025-04-29-de-tenebris-improvisis.html</loc><lastmod>2025-04-29</lastmod><priority>0.7</priority></url>
   <url><loc>https://abbatia.aquinas.lol/hortus/opera/2025-05-15-persona-liquefacta.html</loc><lastmod>2025-05-15</lastmod><priority>0.7</priority></url>
