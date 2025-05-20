@@ -14,10 +14,11 @@ El texto, titulado _Sex Luces Extintae Sunt – In Silençio Legendum_, ha sido 
 
 # In Silençio Legendum
 
-> Sex luces extinctae sunt,  
+> Sex luces extinctae sunt in altari Agni,  
+> septem lampades ardentes ante thronum,  
 > et centrum vacuum se inclinavit ad quod iam non habet radicem.  
 >
-> Super palma cantoris cadebant flores mortui,  
+> Super palmas regis cantoris cadebant flores mortui,  
 > cum odore sacrificium Deo non placens.  
 >
 > Qui ascendit ad locum altum  
@@ -30,13 +31,13 @@ El texto, titulado _Sex Luces Extintae Sunt – In Silençio Legendum_, ha sido 
 > cooperuit aquas, motum per fluctus.  
 >
 > Et cum servus locutus est,  
-> dixit: "Ecce lux unitatis"  
+> dixit: "Ecce lux romana"  
 > sed ignis non fuit,  
 > et lux non illuminavit,  
 > et stantes in umbra, non intelleximus eam.  
 >
 > Et in gradibus ubi dormiunt martyres,  
-> ardebat lucerna sine lumine,  
+> ardebant lucernae novem sine lumine,  
 > pastus erat grex, sed non de sanguine eorum.  
 >
 > Et grand plausu,  
