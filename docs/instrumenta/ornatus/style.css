@@ -52,6 +52,8 @@ h1 {
   vertical-align: baseline;
   margin-right: 0.05em;
   line-height: 1;
+  font-family: 'MozarabeModerna';
+  text-transform: uppercase;
 }
 nav {
   margin-top: 0.5em;
@@ -247,10 +249,15 @@ header .subtitle {
   float: left;
   font-size: 3.2rem;
   line-height: 1;
-  padding-right: 0.1em;
+  padding-right: 0.2em;
+  padding-left: 0.05em;
+  margin-top: 0.1em;
+  margin-right: 0.1em;
   color: #a12c2f;
   font-weight: bold;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: 'MozarabeModerna';
+  text-transform: uppercase;
+  initial-letter: 2;
 }
 
 .main-content h2 {
@@ -524,7 +531,7 @@ a.footnote-ref {
 
 
 .poema {
-  font-family: 'MozarabeModerna', "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: 'MozarabeModerna';
   background-color: #fcf9f5;
   border-left: 4px solid #a12c2f;
   padding: 1em 1.5em;

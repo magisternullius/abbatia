@@ -6,7 +6,7 @@ date: 2025-05-19
 monastic_date: Kalendas Iunii, Luna XXI
 ---
 
-Tablilla de cera ennegrecida, envuelta en cáñamo y lana cruda, hallada dentro de una vasija de barro sin inscripciones. Fue descubierta durante los trabajos de acondicionamiento de un antiguo convento del siglo X, en proceso de reconversión a establecimiento rural con actividades de _spa_ y yoga.
+Tablilla de cera ennegrecida, envuelta en cáñamo y lana cruda, hallada dentro de una vasija de barro sin inscripciones. Fue descubierta durante los trabajos de acondicionamiento de un antiguo convento del siglo X, en proceso de reconversión a establecimiento rural con actividades de _spa_, yoga y _reiki_.
 
 El objeto apareció oculto bajo el pavimento de la antigua bodega monástica, cerca de lo que debió ser una celda individual. Su caligrafía, de rasgos visigóticos y con glosas marginales en romance castellano, sugiere una datación tardía —quizá una copia realizada en secreto por un monje anónimo de época mozárabe. Puede encuadrarse dentro de la transición entre la liturgia hispana y la romanización forzosa del rito en el siglo XI.
 
