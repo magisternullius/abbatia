@@ -61,13 +61,13 @@ Non propter gloriam mundi, sed ad testimonium Veritatis, in saeculo fluctuantium
 Ad aedificandum situm:
 
 ```sh
-make site
+make publica
 ```
 
 Ad purgandum omnia documenta generata:
 
 ```sh
-make clean
+make munda
 ```
 
 ---
