@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://abbatia.aquinas.lol/sitemap.xml
+Sitemap: https://abbatia.aquinas.lol/sitemap_index.xml
