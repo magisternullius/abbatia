@@ -5,6 +5,7 @@ SRC_DIR = _tabellae
 TPL_DIR = _exemplaria
 SITE_DIR= docs
 METADATA=--metadata-file=$(TPL_DIR)/metadata.yaml
+SITEMAP=sitemap_index.xml
 
 .PHONY: munda exscribe itinerarium publica
 
@@ -46,9 +47,9 @@ exscribe: munda
 
 itinerarium:
 	@echo "Generatur sitemap.xml …"
-	@echo '<?xml version="1.0" encoding="UTF-8"?>' > $(SITE_DIR)/sitemap.xml
-	@echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' >> $(SITE_DIR)/sitemap.xml
-	@echo '  <url><loc>$(SITE_URL)/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>' >> $(SITE_DIR)/sitemap.xml
+	@echo '<?xml version="1.0" encoding="UTF-8"?>' > $(SITE_DIR)/$(SITEMAP)
+	@echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' >> $(SITE_DIR)/$(SITEMAP)
+	@echo '  <url><loc>$(SITE_URL)/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>' >> $(SITE_DIR)/$(SITEMAP)
 	@find $(SITE_DIR) -name '*.html' | sort | while read file; do \
 		rel_path=$${file#$(SITE_DIR)/}; \
 		if echo "$$rel_path" | grep -q '/index.html$$'; then \
@@ -65,9 +66,9 @@ itinerarium:
 				priority=0.7; \
 			fi; \
 			if echo $$file | grep -q '/index.html$$'; then \
-			  echo "  <url><loc>$$url</loc><lastmod>$$date</lastmod><changefreq>monthly</changefreq><priority>$$priority</priority></url>" >> $(SITE_DIR)/sitemap.xml; \
+			  echo "  <url><loc>$$url</loc><lastmod>$$date</lastmod><changefreq>monthly</changefreq><priority>$$priority</priority></url>" >> $(SITE_DIR)/$(SITEMAP); \
 			else \
-			  echo "  <url><loc>$$url</loc><lastmod>$$date</lastmod><priority>$$priority</priority></url>" >> $(SITE_DIR)/sitemap.xml; \
+			  echo "  <url><loc>$$url</loc><lastmod>$$date</lastmod><priority>$$priority</priority></url>" >> $(SITE_DIR)/$(SITEMAP); \
 			fi; \
 		else \
 			if echo $$file | grep -q '/index.html$$'; then \
@@ -76,12 +77,12 @@ itinerarium:
 				priority=0.7; \
 			fi; \
 			if echo $$file | grep -q '/index.html$$'; then \
-			  echo "  <url><loc>$$url</loc><changefreq>monthly</changefreq><priority>$$priority</priority></url>" >> $(SITE_DIR)/sitemap.xml; \
+			  echo "  <url><loc>$$url</loc><changefreq>monthly</changefreq><priority>$$priority</priority></url>" >> $(SITE_DIR)/$(SITEMAP); \
 			else \
-			  echo "  <url><loc>$$url</loc><priority>$$priority</priority></url>" >> $(SITE_DIR)/sitemap.xml; \
+			  echo "  <url><loc>$$url</loc><priority>$$priority</priority></url>" >> $(SITE_DIR)/$(SITEMAP); \
 			fi; \
 		fi; \
 	done
-	@echo '</urlset>' >> $(SITE_DIR)/sitemap.xml
+	@echo '</urlset>' >> $(SITE_DIR)/$(SITEMAP)
 
 publica: exscribe itinerarium
