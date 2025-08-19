@@ -466,6 +466,8 @@ Lo que se ora configura lo que se cree. La liturgia no es tablero de símbolos a
 - **Analogía inflacionada**: usar términos como luz, emanación, máximo o univocidad de modo intercambiable entre Cusa, Escoto y Proclo. Se crea una falsa continuidad que borra las diferencias doctrinales.
 - **Estética como coartada**: disfrazar tesis extremas o marginales (perennialismo, esoterismo) bajo citas latinas, memes de anime o ironía erudita. Todo puede relativizarse como juego, pero el mensaje cala.
 - **Ausencia de magisterio**: citar a **Von Balthasar**, **Cusa** o **Dionisio** sin contraste con el Catecismo, Trento o **Santo Tomás**. El marco normativo de la Iglesia queda implícitamente sustituido por un canon personal y estético.
+- **Confundir debate con doctrina definida**: presenta como cuestiones abiertas lo que ya está resuelto por el Magisterio (ej. universalismo, sofianismo).
+- **Mostrar continuidad doctrinal solo parcial**: selecciona fragmentos de Padres o Escolásticos para sondear herejías, omitiendo la respuesta magisterial posterior.
 - **Enganche pseudointelectual**: presentar disputas ultraespecializadas (**Meyronnes** vs. **Damascius**) como accesibles al público, pero sin ofrecer nunca una explicación pedagógica. Se fomenta la fascinación, no la comprensión.
 - **Ironía blindada**: ante objeciones, todo puede reducirse a broma o shitpost. Así se evita el escrutinio real y se preserva la aura de insider.
 - **Disonancia cognitiva**: alternar contenido ortodoxo y edificante (citas de santos, oración, devociones simples) con otro hermético, cargado de anime y jerga esotérica. El contraste confunde al lector y normaliza el tránsito de lo seguro a lo ambiguo.
