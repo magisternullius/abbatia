@@ -69,7 +69,7 @@ Los ejemplos que siguen muestran cómo, en la práctica, **este anzuelo se despl
 
 **El cebo funciona porque se presenta como un mismo continuo discursivo**. El lector ya no sabe distinguir dónde termina la fe católica y dónde empieza la infiltración esotérica. En términos tomistas, la forma de la verdad se ve corrompida por una materia extraña: al discurso teológico se le injerta un ropaje visual que no ordena, sino que desordena, desviando el apetito hacia el simulacro.
 
-El fenómeno no es meramente estético ni anecdótico: responde a una lógica propia de la era digital. En el ecosistema de redes, donde **todo se consume en scroll continuo, el alma se habitúa a la lógica de la dopamina**: concentración–catarsis–ironía–shock. Lo que en Tomás de Aquino era orden del apetito según la verdad, aquí se invierte: la forma de la doctrina se convierte en materia de pastiche, y la materia visual (memes, waifus, anime) asume ilegítimamente la forma, gobernando el apetito. Es un ciber-simulacro, donde la imagen suplanta a la realidad y el icono estético desplaza al signo sacramental. En clave ciber-tomista, podríamos decir que la red funciona como una fábrica de especies sensibles desconectadas de su objeto: se multiplican imágenes que no informan al entendimiento sino que lo deforman, abriendo la puerta a que lo verdadero y lo falso, lo cristiano y lo pagano, se perciban como intercambiables.
+El fenómeno no es meramente estético ni anecdótico: responde a una lógica propia de la era digital. En el ecosistema de redes, donde **todo se consume en scroll continuo, el alma se habitúa a la lógica de la dopamina**: concentración → catarsis → ironía → shock. Lo que en Tomás de Aquino era orden del apetito según la verdad, aquí se invierte: la forma de la doctrina se convierte en materia de pastiche, y la materia visual (memes, waifus, anime) asume ilegítimamente la forma, gobernando el apetito. Es un ciber-simulacro, donde la imagen suplanta a la realidad y el icono estético desplaza al signo sacramental. En clave ciber-tomista, podríamos decir que la red funciona como una fábrica de especies sensibles desconectadas de su objeto: se multiplican imágenes que no informan al entendimiento sino que lo deforman, abriendo la puerta a que lo verdadero y lo falso, lo cristiano y lo pagano, se perciban como intercambiables.
 
 #### @_bonaventurian: de la teología apofática a las visual novels
 
@@ -112,6 +112,12 @@ Sin embargo, al examinarlo críticamente, se notan deslizamientos problemáticos
 
 La misma cuenta intercala más waifus con frases filosóficas, **non-sequitur sobre fútbol**, las Moradas de **Santa Teresa de Jesús** o simples estados de ánimo para interactuar con seguidores. Lo que en apariencia es un esquema de formación católica queda absorbido en el mismo juego de dobles registros que antes comentamos: exotérico (seriedad escolástica, Escritura, santos) y esotérico (ironía anime, cliché _chica vulnerable y superdotada_). El peligro no es tanto el cuadro en sí -que tiene elementos aprovechables-, sino su contexto memético: relativiza la ortodoxia al presentarla como parte de un **collage cultural entre lo serio y lo irónico, lo santo y lo estético**.
 
+> Por medio de discursos hermosos seducen a los simples, pero al negar la Encarnación destruyen todo el edificio de la fe.
+
+:::{.quote-author}
+— San Ireneo (Adversus Haereses I, 11)
+:::
+
 ## II. El Fondo: Ideas Fringe que Diluyen la Ortodoxia Católica
 
 Lo que en apariencia **parece un simple juego estético** -mezclar citas de filosofía medieval con waifus, o alternar un hilo serio de historia eclesiástica con un meme nazi-anime- responde en realidad a un trasfondo doctrinal mucho más peligroso: la **infiltración de ideas esotéricas** y perennialistas en la esfera católica digital.
@@ -122,7 +128,7 @@ El perennialismo postula una **Sophia Perennis** (sabiduría eterna) común a to
 
 Este giro es precisamente lo que condenaron los papas en diversas formas:
 
-- **Pío X**, al rechazar el modernismo como "síntesis de todas las herejías"[^4], porque relativiza la Revelación en favor de una experiencia interior cambiante.
+- **San Pío X**, al rechazar el modernismo como "síntesis de todas las herejías"[^4], porque relativiza la Revelación en favor de una experiencia interior cambiante.
 - **León XIII**, al denunciar el "americanismo esotérico"[^5] que buscaba diluir el catolicismo en una ética religiosa común.
 - **Pío XI**, en Mit Brennender Sorge[^6], al condenar las ideologías raciales y neopaganas que hoy son recicladas con estética de memes.
 
@@ -150,7 +156,7 @@ El mecanismo, por tanto, no es accidental. Es esotérico en sentido estricto por
 
 ### La trampa en acción
 
- Basta un poco de curiosidad vana -ese pecado venial que abre la puerta al mal mayor- para acabar consumiendo hilos que parecen análisis serios, pero en el fondo son propaganda disfrazada, digna de cualquier cuenta _groyper_[^7].
+Basta un poco de curiosidad vana -ese pecado venial que abre la puerta al mal mayor- para acabar consumiendo hilos que parecen análisis serios, pero en el fondo son propaganda disfrazada, digna de cualquier cuenta _groyper_[^7].
 
 #### @kateofleninka: La Economía Nazi como Modelo Anti-Moderno
 
@@ -178,6 +184,12 @@ El hilo, que parte de un comentario a un post de @kateoflinka, está planteado c
 4. Trampa comparativa. El discurso opone aristocracia de sangre y suelo frente a modernización industrial nazi. Ambas posiciones son incompatibles con la doctrina cristiana, pero al contrastarlas se crea una falsa alternativa en la que Evola aparece como defensor de lo noble y espiritual contra lo vulgar e industrial.
 
 El hilo **aparenta análisis histórico, pero opera como legitimación estética y gnóstica de Evola**, introduciendo al lector católico en un espacio ambiguo: lo aristocrático-espiritual suena elevado, pero es en realidad una transposición esotérica que sustituye la universalidad cristiana por castismo racial y gnosis elitista.
+
+> Quien toma a la raza, o al pueblo, o al Estado, o la forma de Estado, o los depositarios del poder, o cualquier otro valor fundamental de la comunidad humana -ya sea de la categoría más necesaria- y los libra de aquella escala de valores terrenal, aun subordinándolos solamente a la religión, y los diviniza con culto idolátrico, pervierte y falsifica el orden creado y establecido por Dios.
+
+:::{.quote-author}
+— Pío XI, Mit Brennender Sorge (n. 8)
+:::
 
 ## III. El regreso de la anti-modernidad
 
@@ -376,6 +388,12 @@ La comparación que hace con Avicena y Santo Tomás es sintomática. Presentar a
 
 Finalmente, el relato de la propia conversión filosófica, desde Evola hasta el catolicismo, funciona como legitimación de esta síntesis híbrida. Se reconoce que la fe en la historicidad de la Resurrección rompe el esquema perennialista, pero al mismo tiempo se sigue rindiendo homenaje a las intuiciones de Evola y a su visión de la trascendencia como una especie de antesala del cristianismo. El resultado es la construcción de un puente falso: el catolicismo aparece como la culminación de un itinerario esotérico, cuando en realidad no hay continuidad posible entre ambos. La trampa está en presentar la ruptura con el error como si fuese su cumplimiento.
 
+> Los modernistas, para atraer más fácilmente y seducir a los incautos, simulan un amor sincero por la Iglesia, mas en realidad no hay nada que no intenten corromper: filosofía, teología, historia, todo está contaminado con sus errores.
+
+:::{.quote-author}
+— San Pío X, Pascendi Dominici Gregis (1907), n. 3
+:::
+
 :::{.important}
 Así opera la trampa: no negando la fe, sino reabsorbiéndola en un sistema ajeno. Lo que en apariencia es catolicismo, en el fondo es perennialismo con ropajes cristianos. Y de ahí la lección: discernir que toda gnosis que integra a Cristo en un mosaico mayor es ya, de suyo, una negación de su señorío absoluto.
 :::
@@ -386,7 +404,7 @@ Así opera la trampa: no negando la fe, sino reabsorbiéndola en un sistema ajen
 
 En el trasfondo de todo se alza un actor silencioso pero decisivo: **la inteligencia artificial**. Los algoritmos de recomendación no son neutros: **privilegian lo irónico, lo extremo y lo emotivo**. Así, la IA multiplica el alcance de cuentas que mezclan waifus y teología, porque maximizan clics y tiempo de permanencia. El resultado es una catequesis paralela, gobernada no por la Iglesia ni por la sacramentalidad, sino por el machine learning sin rostro y sin autoridad.
 
-**Estos son los rostros de las bestias que habitan los abismos del "sexto continente"**: un espacio inmenso y fascinante donde la fe puede anunciarse, pero también donde proliferan ídolos invisibles y gnosis digitales. Para comprender su poder conviene recordar la vieja paradoja física del **demonio de Maxwell**: un ser imaginario capaz de abrir y cerrar compuertas a nivel microscópico para separar las moléculas rápidas de las lentas, creando así un orden artificial sin aportar energía. La IA funciona como ese demonio: abre y cierra compuertas invisibles en el flujo de información, clasifica y separa contenidos, intensifica radicalismos y concentra la atención allí donde más emociones suscita. No crea verdad ni sentido, pero reorganiza la realidad percibida hasta fabricar micro-universos cerrados, donde los fieles creen hallar Tradición y lo que reciben es ideología.
+**Estas son las cabezas de las bestias que habitan los abismos del "sexto continente"**: un espacio inmenso y fascinante donde la fe puede anunciarse, pero también donde proliferan ídolos invisibles y gnosis digitales. Para comprender su poder conviene recordar la vieja paradoja física del **demonio de Maxwell**: un ser imaginario capaz de abrir y cerrar compuertas a nivel microscópico para separar las moléculas rápidas de las lentas, creando así un orden artificial sin aportar energía. La IA funciona como ese demonio: abre y cierra compuertas invisibles en el flujo de información, clasifica y separa contenidos, intensifica radicalismos y concentra la atención allí donde más emociones suscita. No crea verdad ni sentido, pero reorganiza la realidad percibida hasta fabricar micro-universos cerrados, donde los fieles creen hallar Tradición y lo que reciben es ideología.
 
 :::{.important}
 Así como el demonio de Maxwell violaba el segundo principio de la termodinámica en el plano físico, la IA viola el orden natural de la comunicación en el plano espiritual: no busca la verdad, sino el rendimiento algorítmico.
@@ -517,4 +535,4 @@ El círculo se cierra: serpens vetus intrat en el algoritmo que no descansa, y l
 [^19]: [Divini Redemptoris](https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html)
 [^20]: [Mensaje para la XLIII jornada mundial de las comunicaciones sociales](https://www.vatican.va/content/benedict-xvi/es/messages/communications/documents/hf_ben-xvi_mes_20090124_43rd-world-communications-day.html)
 [^21]: [What is Perennialism and Why Should we Know About It?](https://truerestoration.org/what-is-perennialism-and-why-should-we-know-about-it/), articulo del 5 de Abril de 2021.
-[^22]: En el siglo XX, [se documenta](https://www.religioperennis.org/documents/stoddart/TB.pdf) cómo el perennialista suizo Titus Burckhardt entregó a Pio XII una edición facsímil del códice medieval "Book of Kells", estableciendo una recepción cordial desde círculos culturales vaticanos.
+[^22]: En el siglo XX, [se documenta](https://www.religioperennis.org/documents/stoddart/TB.pdf) cómo el perennialista suizo Titus Burckhardt entregó a Pío XII una edición facsímil del códice medieval "Book of Kells", estableciendo una recepción cordial desde círculos culturales vaticanos.
