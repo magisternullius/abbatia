@@ -163,7 +163,7 @@ El término **nobleza de espíritu** resurgió con fuerza tras la Segunda Guerra
 
 **Thomas Mann** evocó la nobleza de espíritu como antídoto frente al naufragio cultural moderno: no se trataba de un perennialismo total, sino de rescatar ese vestigio humanista que hace civilizado al hombre. Su propuesta -**apelar al canon occidental y al cuidado del alma socrático**[^10]- es sugerente, pero deliberadamente vaga: evita definir la nobleza en términos de virtudes cardinales concretas y prescinde de la Encarnación y la economía de la Gracia. Este ideal, que parece bueno, puede deslizarse fácilmente hacia una espiritualidad vacía. No es casual que, en paralelo, **Julius Evola** intentara resucitar una idea semejante: una **aristocracia espiritual desligada de la fe**, donde el caballero se define por su apartamiento orgulloso más que por su virtud.
 
-Aunque **Mann** buscaba salvar un humanismo democrático y **Evola** encarnaba un esoterismo reaccionario, ambos coinciden en desplazar la nobleza de su terreno propio -la magnanimidad cristiana- a un horizonte meramente estético o cultural.
+Aunque **Mann** pretendía rescatar un humanismo democrático y **Evola** encarnaba un esoterismo reaccionario, ambos desplazan la nobleza de su verdadero terreno, la magnanimitas cristiana, hacia horizontes meramente culturales, raciales o estéticos.
 
 #### La hidalguía de espíritu: una propuesta hispánica
 
