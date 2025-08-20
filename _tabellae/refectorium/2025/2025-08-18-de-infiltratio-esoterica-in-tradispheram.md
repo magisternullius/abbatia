@@ -460,7 +460,7 @@ El círculo se cierra: serpens vetus intrat en el motor que no descansa, y los _
 > Christus totum donavit, por darnos nuevas vidas.  
 >
 > Ca los que van errados, buscando scientiam vanam,  
-> fallarán sombra escura, non gloriam soben ningunnmomento menciono nada deranam.  
+> fallarán sombra escura, non gloriam soberanam.  
 >
 > Guarda, frater christiano, la senda del cordero,  
 > que guía por las aguas al rebaño sincero.  
