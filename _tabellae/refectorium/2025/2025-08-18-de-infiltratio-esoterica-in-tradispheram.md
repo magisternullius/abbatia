@@ -24,62 +24,68 @@ No es casual que fenómenos del anime como **Neon Genesis Evangelion** o **Ghost
 
 Los personajes principales de **Type-Moon** condensan arquetipos universales que enlazan con la mitología clásica: **Saber**, como **Rey Arturo mesiánico** transfigurado en heroína caballeresca; **Gilgamesh**, como rey absoluto cercano al **Heracles** griego; **Arcueid**, como vampiresa pura que refleja a la **Ártemis lunar**; **Shirou**, como héroe trágico y redentor, **paralelo a Aquiles**; y **Rin**, como maga estratega en clave de **Atenea**. Esta galería de figuras articula un imaginario híbrido donde el mito antiguo se reescribe en clave estética contemporánea, sirviendo de puente entre la fantasía otaku y los relatos heroicos de la tradición occidental.
 
-En la jerga otaku, los personajes femeninos estilizados e idealizados -conocidos como **_waifus_**- funcionan como figuras aspiracionales o afectivas, no como retratos realistas, convirtiéndose en metáforas de la vulnerabilidad mística y del anhelo de lo absoluto. Sus contrapartes masculinas -los **_husbandos_**- encarnan ideales heroicos o soberanos, proyectando modelos de poder, sacrificio o redención. Este recurso actúa como un anzuelo afectivo que mezcla estética pop con resonancias pseudo-sacrales, que son remezcladas por las subculturas de Internet, especialmente dentro del mundo norteamericano organizado en foros anónimos muy activos y politizados. De ahí que surjan etiquetas como **[#rw_typemoon](https://xcancel.com/search?q=%23rw_typemoon)** (right-wing Type-Moon) o **[#rw_nasuverse](https://xcancel.com/search?q=%23rw_nasuverse)** (right-wing Nasuverse), donde anime, supremacismo y un lenguaje cuasi-teológico convergen en una estética seductora y profundamente ambigua.
-
-### Del anime al tradicionalismo pagano
-
-**En X proliferan cuentas que entremezclan anime, catolicismo, política y subcultura otaku**. A primera vista parecen un juego estético inofensivo -memes con waifus, citas de santos insertadas en escenas de _visual novels_, hilos que saltan de la liturgia a la geopolítica-, pero lo cierto es que ejercen una extraña fascinación: alternan lo ortodoxo con lo ambiguo, lo piadoso con lo desconcertante. Entre imágenes banales o humorísticas aparecen, de pronto, reflexiones serias sobre la teología o la vida espiritual: por ejemplo, cómo **Santa Teresita de Lisieux** desarmó el jansenismo con la sencillez de su confianza filial en **Cristo**. El problema es que, junto a estas intuiciones luminosas, también **se deslizan formulaciones ambiguas que rozan lo gnóstico** o lo esotérico, como la siguiente:
-
-> The Catholic Faith is sacramental. It is not a question of exoteric or esoteric.
-> It is with the visible sacraments that we see through a glass darkly. The secrets are received in and by the soul. Those who write and preach of it, can share only a shadow of what they’ve received.
-> The visible church is the sign of the invisible church.
-> Its visible head, a sign of the one who rules from the heavens.
-> Its visible bread, a sign of a body, blood, soul, and divinity which is really there.
-> Its visible teachings, writings, prayers, a sign of the beatific vision.
-
-A primera vista, es cierto que la fe católica es sacramental y que lo visible remite a lo invisible; así lo enseña la Iglesia desde siempre. Sin embargo, aunque se niegue en la primera frase, aquí **se desliza un lenguaje más propio de la iniciación esotérica**: hablar de "secretos recibidos en el alma" que solo pueden transmitirse como "sombra" sugiere que hay una doctrina oculta más allá de la Revelación pública. Además, reducir la Eucaristía a "signo de un cuerpo y sangre que están ahí" puede sonar simbólico y diluir la afirmación dogmática de la presencia real, verdadera y substancial. En resumen: hay intuiciones correctas (el carácter sacramental, la dimensión visible/invisible de la Iglesia), pero envueltas en un tono que **termina oscureciendo la claridad y universalidad de la fe católica**.
-
-Otro ejemplo ilustrativo lo encontramos en otro hilo de esta misma cuenta: partiendo de un terreno aparentemente neutro como el teorema de **Pitágoras**, termina en clave neoplatónica[^1]. La secuencia es siempre parecida: se comienza recordando la fórmula elemental de los triángulos rectángulos, se enlaza luego con la cosmología de Platón y la geometría de los sólidos regulares, y finalmente **se desemboca en una afirmación metafísica**: el mundo visible no sería más que la multiplicidad cambiante de un principio único, eterno e inmutable, accesible solo a los iniciados capaces de leer los símbolos. **Lo que empieza como divulgación matemática de instituto se convierte así en un vehículo de gnosis antigua**, donde las matemáticas son presentadas como llaves secretas del cosmos y el cristianismo queda desplazado en favor de un "Uno" impersonal que recuerda más a **Plotino** que al Dios vivo de la Revelación.
-
-**La vana curiosidad y el scroll infinito hacen el resto**. En esta extrañísima cuenta se alterna contenido aleatorio sobre fútbol y estados de ánimo adolescentes que dan una pátina de veracidad timeline. Y, de repente, **aparece un hilo que comienza citando a Platón y termina desarrollando toda una teología alternativa de la historia**. El recorrido es vertiginoso: se abre con la "participación en la Belleza absoluta", se enlaza con **Nietzsche** y su "Dios ha muerto", se pasa por **Voltaire**, por el **Catecismo** y hasta por **San Francisco de Asís**, y se concluye con la idea de que **la modernidad es una "dissociation", un _egregor_ colectivo que encarna el Anticristo**. El resultado es un collage brillante y sugestivo, donde la fe católica aparece entretejida con categorías platónicas, símbolos esotéricos y diagnósticos culturales de tono apocalíptico. **Fascina por su intensidad y su estilo, pero confunde al lector** al desplazar la claridad doctrinal hacia un lenguaje gnóstico, cargado de sombras y metáforas ambiguas, muy lejos de la sobriedad luminosa de la Revelación.
-
-_Scrolleando_ posts antiguos, topas con una waifu uniformada ilustrando una cita:
-
-> "The substance of every true and stable political organism is something resembling an Order, a Männerbünd in charge of the principle of the imperium, comprising men who see loyalty as the basis of their honor"
-> ➣ Julius Evola
-> Meine Ehre heißt Treue (Mi honor es mi lealtad)
-
-El salto resulta brutal: de **Platón** y **Santa Teresita** se pasa sin filtro al **tradicionalismo pagano y elitista de Julius Evola**, cuyo eco recuerda al lema de las SS nazis. **Aquí se muestra con claridad la disonancia característica de estas cuentas**: en un mismo hilo pueden convivir intuiciones católicas auténticas con referencias a doctrinas esotéricas o ideologías totalitarias, como si todo perteneciera a un mismo horizonte tradicional. El resultado es una amalgama que seduce por su aire de radicalidad, pero que confunde al poner al mismo nivel la Revelación de **Cristo** y los delirios gnósticos o políticos de autores condenados por la Iglesia.
-
-Otro día, te encuentras inmerso en un largo hilo que glosa con aparente neutralidad las conferencias económicas del **Tercer Reich**, citando a **Walther Funk** y presentando la economía dirigida nazi como si fuera un experimento académico comparable a la **Comunidad Económica Europea**. El tono es descriptivo, incluso pedagógico, pero la mera yuxtaposición con reflexiones espirituales o filosóficas anteriores genera un efecto inquietante: **el apabullado internauta pasa de _sexy waifus_ a la exposición detallada de la propaganda económica nacionalsocialista** sin transición alguna. Es aquí donde se ve con claridad el riesgo de estas cuentas: al no establecer jerarquías, mezclan devoción y revisionismo, tradición cristiana y totalitarismo, como si todo perteneciera al mismo horizonte cultural. El resultado es un collage confuso, seductor por lo radical, pero profundamente tóxico en su fondo.
-
 > Con palabras semejantes a las nuestras, introducen veneno mortífero.
 
 :::{.quote-author}
 — San Ireneo, Adversus Haereses I,1
 :::
 
-### De la Summa a la Cábala
+En la jerga otaku, los personajes femeninos estilizados e idealizados -conocidos como **_waifus_**- funcionan como figuras aspiracionales o afectivas, no como retratos realistas, convirtiéndose en metáforas de la vulnerabilidad mística y del anhelo de lo absoluto. Sus contrapartes masculinas -los **_husbandos_**- encarnan ideales heroicos o soberanos, proyectando modelos de poder, sacrificio o redención. Este recurso actúa como un anzuelo afectivo que mezcla estética pop con resonancias pseudo-sacrales, que son remezcladas por las subculturas de Internet, especialmente dentro del mundo norteamericano organizado en foros anónimos muy activos y politizados. De ahí que surjan etiquetas como **[#rw_typemoon](https://xcancel.com/search?q=%23rw_typemoon)** (right-wing Type-Moon) o **[#rw_nasuverse](https://xcancel.com/search?q=%23rw_nasuverse)** (right-wing Nasuverse), donde anime, supremacismo y un lenguaje cuasi-teológico convergen en una estética seductora y profundamente ambigua.
 
-Otro de esos personajes de X Este aparece como un raro híbrido: entre hilos extensos sobre mística medieval se intercala _shitposting_[^2] sobre tropos anime. Lo desconcertante es que, detrás de la estética otaku y del tono ligero, se percibe un autor real, con lecturas amplias y mucha erudición. Cita a autores como **Gershom Scholem**, **Jean Borella** o **Eric Perl**, y se mueve con soltura entre el neoplatonismo y la escolástica franciscana. Su consejo recurrente es claro: antes de leer a un autor de la Tradición Auténtica conviene pasar por determinados filtros modernos no católicos, **casi como si el acceso a la fuente tuviera que estar mediado por un itinerario previo de autores académicos y esotéricos**.
+### Del anime al tradicionalismo pagano
 
-La cuenta es relativamente popular en el mundillo tradi de X, hasta el punto de ser citado por cuentas de académicos reales e _influencers_ de filosofía medieval y escolástica. Ahí radica tanto su atractivo como su peligro: **ofrece materiales de valor**, pero **siempre en un marco ambiguo que mezcla ortodoxia y esoterismo, piedad franciscana y guiños al perennialismo**. Así, figuras como **San Buenaventura** o **Nicolás de Cusa** terminan presentadas como cumbres dentro de cordilleras perennialistas o neoplatónicas más que como doctores de la Iglesia. El resultado es un relato seductor que oscila entre la verdad católica y la gnosis, borrando las fronteras que la fe debe mantener nítidas.
+**En X proliferan cuentas que entremezclan anime, catolicismo, política y subcultura otaku**. A primera vista parecen un juego estético inofensivo -memes con waifus, citas de santos insertadas en escenas de _visual novels_, hilos que saltan de la liturgia a la geopolítica-, pero lo cierto es que ejercen una extraña fascinación: alternan lo ortodoxo con lo ambiguo, lo piadoso con lo desconcertante. Entre imágenes banales o humorísticas aparecen, de pronto, reflexiones serias sobre la teología o la vida espiritual: por ejemplo, cómo **Santa Teresita de Lisieux** desarmó el jansenismo con la sencillez de su confianza filial en **Cristo**. El problema es que, junto a estas intuiciones luminosas, también **se deslizan formulaciones ambiguas que rozan lo gnóstico** o lo esotérico, como la siguiente:
+
+> The Catholic Faith is sacramental. It is not a question of exoteric or esoteric.  
+> It is with the visible sacraments that we see through a glass darkly. The secrets are received in and by the soul. Those who write and preach of it, can share only a shadow of what they’ve received.  
+> The visible church is the sign of the invisible church.  
+> Its visible head, a sign of the one who rules from the heavens.  
+> Its visible bread, a sign of a body, blood, soul, and divinity which is really there.  
+> Its visible teachings, writings, prayers, a sign of the beatific vision.
+
+A primera vista, es cierto que la fe católica es sacramental y que lo visible remite a lo invisible; así lo enseña la Iglesia desde siempre. Sin embargo, aunque se niegue en la primera frase, aquí **se desliza un lenguaje más propio de la iniciación esotérica**: hablar de "secretos recibidos en el alma" que solo pueden transmitirse como "sombra" sugiere que hay una doctrina oculta más allá de la Revelación pública. Además, reducir la Eucaristía a "signo de un cuerpo y sangre que están ahí" puede sonar simbólico y diluir la afirmación dogmática de la presencia real, verdadera y substancial. En resumen: hay intuiciones correctas (el carácter sacramental, la dimensión visible/invisible de la Iglesia), pero envueltas en un tono que **termina oscureciendo la claridad y universalidad de la fe católica**.
+
+Otro ejemplo ilustrativo lo encontramos en otro hilo de esta misma cuenta: partiendo de un terreno aparentemente neutro como el teorema de **Pitágoras**, termina en clave neoplatónica[^1]. La secuencia es siempre parecida: se comienza recordando la fórmula elemental de los triángulos rectángulos, se enlaza luego con la cosmología de Platón y la geometría de los sólidos regulares, y finalmente **se desemboca en una afirmación metafísica**: el mundo visible no sería más que la multiplicidad cambiante de un principio único, eterno e inmutable, accesible solo a los iniciados capaces de leer los símbolos. **Lo que empieza como divulgación matemática de instituto se convierte así en un vehículo de gnosis antigua**, donde las matemáticas son presentadas como llaves secretas del cosmos y el cristianismo queda desplazado en favor de un "Uno" impersonal que recuerda más a **Plotino** que al Dios vivo de la Revelación.
+
+**La vana curiosidad y el _infinite scroll_ hacen el resto**. En esta extrañísima cuenta se alterna contenido _random_ sobre fútbol y estados de ánimo adolescentes que dan una pátina de veracidad al _timeline_. Y, de repente, **aparece un hilo que comienza citando a Platón y termina desarrollando toda una teología alternativa de la historia**. El recorrido es vertiginoso: se abre con la "participación en la Belleza absoluta", se enlaza con **Nietzsche** y su "Dios ha muerto", se pasa por **Voltaire**, por el **Catecismo** y hasta por **San Francisco de Asís**, y se concluye con la idea de que **la modernidad es una "dissociation", un _egregor_ colectivo que encarna el Anticristo**. El resultado es un collage brillante y sugestivo, donde la fe católica aparece entretejida con categorías platónicas, símbolos esotéricos y diagnósticos culturales de tono apocalíptico. **Fascina por su intensidad y su estilo, pero confunde al lector** al desplazar la claridad doctrinal hacia un lenguaje gnóstico, cargado de sombras y metáforas ambiguas, muy lejos de la sobriedad luminosa de la Revelación.
+
+_Scrolleando_ posts antiguos, topas con una waifu uniformada ilustrando una cita:
+
+> "The substance of every true and stable political organism is something resembling an Order, a Männerbünd in charge of the principle of the imperium, comprising men who see loyalty as the basis of their honor"  
+> ➣ Julius Evola  
+> Meine Ehre heißt Treue (Mi honor es mi lealtad)
+
+El salto resulta brutal: de **Platón** y **Santa Teresita** se pasa sin filtro al **tradicionalismo pagano y elitista de Julius Evola**, cuyo eco recuerda al lema de las SS nazis. **Aquí se muestra con claridad la disonancia característica de estas cuentas**: en un mismo hilo pueden convivir intuiciones católicas auténticas con referencias a doctrinas esotéricas o ideologías totalitarias, como si todo perteneciera a un mismo horizonte tradicional. El resultado es una amalgama que seduce por su aire de radicalidad, pero que confunde al poner al mismo nivel la Revelación de **Cristo** y los delirios gnósticos o políticos de autores condenados por la Iglesia.
+
+Otro día, te encuentras inmerso en un largo hilo que glosa con aparente neutralidad las conferencias económicas del **Tercer Reich**, citando a **Walther Funk** y presentando la economía dirigida nazi como si fuera un experimento académico comparable a la **Comunidad Económica Europea**. El tono es descriptivo, incluso pedagógico, pero la mera yuxtaposición con reflexiones espirituales o filosóficas anteriores genera un efecto inquietante: **el apabullado internauta pasa de _sexy waifus_ a la exposición detallada de la propaganda económica nacionalsocialista** sin transición alguna. Es aquí donde se ve con claridad el riesgo de estas cuentas: al no establecer jerarquías, **mezclan devoción y revisionismo, tradición cristiana y totalitarismo, como si todo perteneciera al mismo horizonte cultural**. El resultado es un collage confuso, seductor por lo radical, pero profundamente tóxico en su fondo.
+
+> Quien toma a la raza, o al pueblo, o al Estado, o la forma de Estado, o los depositarios del poder, o cualquier otro valor fundamental de la comunidad humana -ya sea de la categoría más necesaria- y los libra de aquella escala de valores terrenal, aun subordinándolos solamente a la religión, y los diviniza con culto idolátrico, pervierte y falsifica el orden creado y establecido por Dios.
+
+:::{.quote-author}
+— Pío XI, Mit Brennender Sorge (1937), n.8
+:::
+
+### De la erudición a la seducción
+
+Otro de estos personajes de X aparece como un raro híbrido: entre hilos extensos sobre mística medieval se intercala _shitposting_[^2] sobre tropos anime. Lo desconcertante es que, detrás de la estética otaku y del tono ligero, se percibe un autor real, con lecturas amplias y mucha erudición. Cita a autores como **Gershom Scholem**, **Jean Borella** o **Eric Perl**, y se mueve con soltura entre el neoplatonismo y la escolástica franciscana. Su consejo recurrente es claro: antes de leer a un autor de la Tradición Auténtica conviene pasar por determinados filtros modernos no católicos, **casi como si el acceso a la fuente tuviera que estar mediado por un itinerario previo de autores** antiguos y modernos.
+
+La cuenta es relativamente popular en el mundillo _tradi_ (o _TradCath_) de X, hasta el punto de ser citado por cuentas de académicos reales e _influencers_ de filosofía medieval y escolástica. Ahí radica tanto su atractivo como su peligro: **ofrece materiales de valor**, pero **siempre en un marco ambiguo que mezcla ortodoxia y esoterismo, piedad franciscana y guiños al perennialismo**. Así, figuras como **San Buenaventura** o **Nicolás de Cusa** terminan presentadas como cumbres dentro de cordilleras perennialistas o neoplatónicas más que como doctores de la Iglesia. El resultado es **un relato seductor que oscila entre la verdad católica y la gnosis, borrando las fronteras que la fe debe mantener nítidas**.
 
 Es curioso que fuera el propio **San Buenaventura** quien, cuando **Santo Tomás de Aquino** le preguntó de dónde provenía su conocimiento, señaló humildemente al crucifijo. Frente al laberinto de filtros académicos y esotéricos, el **Doctor Seráfico** recuerda que **la verdadera sabiduría no se alcanza acumulando intermediarios, sino contemplando al Cristo crucificado**, fuente inmediata y suficiente de toda luz.
 
-En otro de sus densos hilos, relata su propia _conversión filosófica_, desde **Evola** hasta el catolicismo. Esto funciona como legitimación de esta síntesis híbrida. Se reconoce que la fe en la historicidad de la Resurrección rompe el esquema perennialista, pero al mismo tiempo se sigue rindiendo homenaje a las intuiciones de **Julius Evola** y a su visión de la trascendencia como una especie de antesala del cristianismo. El resultado es la construcción de un puente falso: el catolicismo aparece como la culminación de un itinerario gnóstico, cuando en realidad no hay continuidad posible entre ambos. **La estratagema está en presentar la ruptura con el error como si fuese su cumplimiento**.
+En otro de sus densos hilos, relata su propia _conversión filosófica_, desde el ateísmo, pasando por el perennialismo de **Evola**, hasta llegar finalmente al catolicismo. Esto funciona como legitimación de esta síntesis híbrida. Se reconoce que la fe en la historicidad de la Resurrección rompe el esquema perennialista, pero al mismo tiempo se sigue rindiendo homenaje a las intuiciones de **Julius Evola** y a su visión de la trascendencia como una especie de antesala del cristianismo. El resultado es la construcción de un puente falso: el catolicismo aparece como la culminación de un itinerario gnóstico, cuando en realidad no hay continuidad posible entre ambos. **La estratagema está en presentar la ruptura con el error como si fuese su cumplimiento**.
 
 > Los modernistas, para atraer más fácilmente y seducir a los incautos, simulan un amor sincero por la Iglesia, mas en realidad no hay nada que no intenten corromper: filosofía, teología, historia, todo está contaminado con sus errores.
 
 :::{.quote-author}
-— San Pío X, Pascendi Dominici Gregis (1907), n. 3
+— San Pío X, Pascendi Dominici Gregis (1907), n.3
 :::
 
 ## II. El Fondo: Ideas Fringe que Diluyen la Ortodoxia Católica
 
 Lo que en apariencia **parece un simple juego estético** -mezclar citas de filosofía medieval con subcultura otaku, o fusionar en un hilo serio de historia eclesiástica un meme con contenido fascista- responde en realidad a un trasfondo doctrinal mucho más peligroso: la **infiltración de ideas esotéricas** y sincretistas en la esfera católica digital.
 
-El atractivo de estas enseñanzas radica en que **beben de esquemas neoplatónicos simplificados**: todo procede del Uno y retorna al Uno, de modo que las religiones no serían más que expresiones fragmentarias de una misma verdad subyacente. Para quien carece de formación filosófica o teológica, esta visión resulta embriagadora: ofrece una unidad aparente y un **lenguaje de iniciación, con jerarquías y símbolos que prometen profundidad espiritual**. Pero lo que en los Padres fue purificado y ordenado hacia el Dios Trinitario, en manos no preparadas degenera en sincretismo. La Encarnación deja de ser un **acontecimiento histórico y absoluto** para convertirse en un mito entre otros, y la gracia en un despertar interior indistinto.
+El atractivo de estas enseñanzas radica en que **beben de esquemas neoplatónicos simplificados**: todo procede del Uno y retorna al Uno, de modo que las religiones no serían más que expresiones fragmentarias de una misma verdad subyacente. **Para quien carece de formación filosófica o teológica, esta visión resulta embriagadora**: ofrece una unidad aparente y un **lenguaje de iniciación, con jerarquías y símbolos que prometen profundidad espiritual**. Pero lo que en los Padres fue purificado y ordenado hacia el Dios Trinitario, en manos no preparadas degenera en sincretismo. La Encarnación deja de ser un **acontecimiento histórico y absoluto** para convertirse en un mito entre otros, y la gracia en un despertar interior indistinto.
 
 El perennialismo postula una **Sophia Perennis** (sabiduría eterna) común a todas las religiones, que se manifestaría en símbolos y tradiciones esotéricas universales. Lo decisivo ya no sería la Revelación de **Cristo**, pública y definitiva, sino una supuesta clave oculta que permitiría leer la fe como parte de un mosaico religioso más amplio. **Cristo**, así, deja de ser el único camino (cf. Jn 14,6) para convertirse en un mero arquetipo panreligioso. **El centro de la fe deja de ser la Encarnación y pasa a ser la iniciación**.
 
@@ -113,19 +119,18 @@ El mecanismo, por tanto, no es accidental. Parasita y transforma la realidad por
 
 ## III. El regreso de la anti-modernidad
 
-Bajo la apariencia de **crítica cultural y resistencia a la modernidad**, se abre paso hoy un discurso que reinterpreta lo espiritual en clave ajena al cristianismo. La etiqueta de “nobleza de espíritu”, reciclada desde Julius Evola y difundida por cuentas digitales, funciona como antítesis del caballero cristiano medieval: no es servicio ni sacrificio, sino **afirmación de una jerarquía esotérica, racial o simbólica**.
+Bajo la apariencia de **crítica cultural y resistencia a la modernidad**, se abre paso hoy un discurso que reinterpreta lo espiritual en clave ajena al cristianismo. La etiqueta de “nobleza de espíritu”, reciclada desde **Julius Evola** y difundida por cuentas digitales, funciona como antítesis del caballero cristiano medieval: no es servicio ni sacrificio, sino **afirmación de una jerarquía esotérica, racial o simbólica**.
 
 Estos círculos construyen un imaginario de anti-modernidad que **seduce al católico tradicional por contraste**: frente al mundo líquido, ofrecen orden; frente al igualitarismo, hablan de jerarquía; frente al consumo, invocan ascetismo estético. Pero al mirar de cerca, los fundamentos revelan otra raíz: gnosis perennialista, concepción elitista del alma, rechazo del universalismo cristiano. El noble de espíritu no es **San Luis rey de Francia** ni **El Mío Cid**, sino un arquetipo abstracto, desligado de la Encarnación y de la cruz, presentado como modelo de insurrección aristocrática contra el mundo moderno.
 
 ### Los arquitectos del espejismo
 
-Los discursos y memes de X beben de viejos conocidos que han sabido adaptarse al formato del _meme que nunca muere_:
+Los posts de X beben de viejos conocidos que han sabido adaptarse al formato del _meme que nunca muere_:
 
 - **Friedrich Nietzsche** (1844–1900): profeta del nihilismo, exaltó la voluntad de poder y al Übermensch. **Peligro**: caricaturiza al santo, sustituyendo la humildad y la gracia por soberbia heroica.
 - **René Guénon** (1886–1951): habló de una Sophia Perennis que iguala todas las religiones y leyó la historia como decadencia cósmica (Kali-Yuga). **Peligro**: sustituye la gracia por la iniciación.
 - **Julius Evola** (1898–1974): exaltó el hinduismo ario y el budismo olímpico, despreció el cristianismo como religión de débiles. **Peligro**: su vitalismo pagano contradice la cruz y la universalidad de la redención.
 - **Alexander Dugin[^7]** (1962–): ideólogo ruso del Eurasianismo, mezcla ortodoxia, ocultismo y geopolítica mesiánica. **Peligro**: convierte la fe en instrumento de poder político y en mito civilizatorio, anulando la catolicidad como universalidad espiritual.
-- **Bronze Age Pervert** (seud.): voz digital que promueve vitalismo hipermasculino y desprecio del cristianismo. **Peligro**: idolatría tribal del músculo, sustituyendo la caridad por violencia.
 
 Todos ellos, en clave distinta, convergen en un cercamiento ideológico: ofrecen símbolos de fuerza y verticalidad, pero despojan al cristiano de su verdadera nobleza, que no está en la sangre ni en el músculo, sino en la filiación divina y en la cruz.
 
@@ -255,7 +260,7 @@ Poco a poco, sin apenas notarlo, uno entra en dinámicas de _groyping_[^16].
 
 El groyping es la **táctica de infiltración** popularizada por la alt-right estadounidense, cuyos militantes se autodenominaban groypers y usaban como icono una rana obesa derivada de **Pepe the Frog**. Su objetivo no era el debate abierto, sino la **colonización estética y cultural**: entrar en comunidades con mensajes aparentemente inofensivos para desplazar poco a poco el marco hacia ideas extremas.
 
-En el contexto católico-digital, este mismo patrón se traduce en contenidos meméticos y pseudo-erudición medieval o patrística. En la versión católica de los groypers -a menudo llamados cathGroypers-, la **rana Pepe** se transforma en personajes del universo **Type-Moon**, como waifus vulnerables o héroes jerárquicos de **Fate/Stay Night**.
+En el contexto católico-digital, este mismo patrón se traduce en contenidos meméticos y pseudo-erudición medieval o patrística. En la versión católica de los groypers -a menudo llamados _CathGroypers_-, la **rana Pepe** se transforma en personajes del universo **Type-Moon**, como waifus vulnerables o héroes jerárquicos de **Fate/Stay Night**.
 
 Estos símbolos pop, con su envoltorio inocente y emotiva, actúan como un guiño cultural que atrae a **jóvenes conversos descontentos con la modernidad**. Pero detrás hay una agenda: **normalizar ideas far-right identitarias disfrazadas de anti-modernismo católico**, como jerarquías espirituales elitistas o críticas a la tibieza eclesial que derivan en sincretismo pagano.
 
@@ -321,7 +326,7 @@ Lo que hoy aparece en clave iconografía digital no es más que una nueva copa p
 — San Ireneo, Adversus Haereses III,16,3
 :::
 
-### Diagnóstico ciber-tomista
+### Claves ciber-tomistas
 
 En clave ciber-tomista, puede verse cómo la red digital actúa como **mediación idolátrica**: lo que antaño se ofrecía en misterios secretos ahora se vehicula en algoritmos que seleccionan, repiten y amplifican imágenes y narrativas hasta fijarlas en el imaginario colectivo. El meme o la estética no son neutrales: constituyen causas segundas que, aunque subordinadas a la libertad del alma, predisponen sus potencias sensibles y afectivas hacia una determinada visión del mundo. Así, lo que aparece como un simple juego cultural no es sino una gnosis reempaquetada, que aprovecha la hiperrealidad digital para desplazar la fe de su fundamento en el Logos y sumergirla en la fascinación del símbolo flotante. Frente a este engaño, **el realismo de Santo Tomás recuerda que la verdad no se alcanza por acumulación de imágenes ni por intensificación afectiva, sino por adecuación del intelecto al ser** (STh I, q.16, a.1).
 
@@ -347,7 +352,7 @@ Racialismos y gnosis elitistas rompen la catolicidad: **Cristo** murió pro omni
 
 #### vi. Lex orandi, lex credendi
 
-Lo que se ora configura lo que se cree. La liturgia no es tablero de símbolos arcanos sino escuela de fe. Introducir claves ajenas deforma la confesión de fe.
+Lo que se ora configura lo que se cree. La liturgia no es tablero de símbolos arcanos sino escuela de fe. Introducir claves ajenas deforma la confesión de la fe.
 
 ### Errores formales frecuentes en cuentas CathGroyper
 
@@ -381,7 +386,7 @@ El cristiano debe recordar algunos principios básicos para no caer en estas red
 - **El camino seguro es siempre el de los pobres en espíritu**: "porque de ellos es el Reino de los Cielos" (Mt 5,3).
 
 :::{.important}
-El círculo se cierra: serpens vetus intrat en el motor que no descansa, y los cathgroypers aparecen como sus siervos, ofreciendo al Tentador la obediencia que deberían haber dado a la Verdad (cf. Ap 12,9)
+El círculo se cierra: serpens vetus intrat en el motor que no descansa, y los _CathGroypers_ aparecen como sus siervos, ofreciendo al Tentador la obediencia que deberían haber dado a la Verdad (cf. Ap 12,9)
 :::
 
 ![Spectaculum vanitatis](/instrumenta/imagines/spectaculum-vanitatis.png)
