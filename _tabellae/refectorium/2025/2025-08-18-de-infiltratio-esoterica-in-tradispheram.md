@@ -12,7 +12,7 @@ En los rincones digitales de la _**tradisfera**_ -ese ecosistema online donde se
 
 Utilizando como anzuelo la combinación de teología seria, apologética cristiana y elementos de la cultura pop como el anime, crean un puente hacia narrativas anti-modernas radicales. El resultado: una **infiltración ocultista paganizante** que, en última instancia, busca radicalizar a un público descontento con la realidad actual.
 
-El interés en introducir estas corrientes de pensamiento en el catolicismo tradicional responde a una estrategia clara: captar a quienes poseen inteligencia, inquietud filosófica y hambre de ortodoxia, para luego conducirlos hacia un terreno oscuro. La solidez de la teología escolástica o la belleza de la mística patrística sirven de señuelo; pero, poco a poco, se sugieren paralelismos con sistemas universalizantes, con la promesa de una sabiduría oculta más allá del dogma. Así, el joven que entra buscando la razón de la _philosophia perennis christiana_ o la luz de la teología mística acaba leyendo tratados de esoterismo o gnosis como si fuesen caminos paralelos. Encontrando en el anime un inesperado vehículo de seducción simbólica.
+El interés en introducir estas corrientes de pensamiento en el catolicismo tradicional responde a una estrategia clara: captar a quienes poseen inteligencia, inquietud filosófica y hambre de ortodoxia, para luego conducirlos hacia un terreno oscuro. La solidez de la teología escolástica o la belleza de la mística patrística sirven de señuelo; pero, poco a poco, se sugieren paralelismos con sistemas universalizantes, con la promesa de una sabiduría oculta más allá del dogma. Así, el joven que entra buscando la razón de la _philosophia perennis christiana_ o la luz de la teología mística acaba leyendo tratados de esoterismo o gnosis como si fuesen caminos paralelos. Encontrando en el anime un inesperado vehículo de seducción simbólica[^0].
 
 En este terreno, la cultura visual de las series y videojuegos japoneses se convierte en un aliado estratégico: su **imaginería cargada de símbolos y su potencial filosófico** ofrece un ropaje visual y narrativo idóneo para revestir de atractivo juvenil estas mismas ideas místicas. Lo que antes se transmitía en tratados arcanos ahora se difunde en forma de memes, estéticas híbridas y personajes idealizados que actúan como figuras simbólicas. Así, el esoterismo que ayer requería largas lecturas hoy se presenta en clave pop, con un lenguaje afectivo y seductor capaz de penetrar en el imaginario católico digital sin levantar sospechas inmediatas.
 
@@ -127,10 +127,14 @@ Estos círculos construyen un imaginario de anti-modernidad que **seduce al cat�
 
 Los posts de X beben de viejos conocidos que han sabido adaptarse al formato del _meme que nunca muere_:
 
-- **Friedrich Nietzsche** (1844–1900): profeta del nihilismo, exaltó la voluntad de poder y al Übermensch. **Peligro**: caricaturiza al santo, sustituyendo la humildad y la gracia por soberbia heroica.
-- **René Guénon** (1886–1951): habló de una Sophia Perennis que iguala todas las religiones y leyó la historia como decadencia cósmica (Kali-Yuga). **Peligro**: sustituye la gracia por la iniciación.
-- **Julius Evola** (1898–1974): exaltó el hinduismo ario y el budismo olímpico, despreció el cristianismo como religión de débiles. **Peligro**: su vitalismo pagano contradice la cruz y la universalidad de la redención.
-- **Alexander Dugin[^7]** (1962–): ideólogo ruso del Eurasianismo, mezcla ortodoxia, ocultismo y geopolítica mesiánica. **Peligro**: convierte la fe en instrumento de poder político y en mito civilizatorio, anulando la catolicidad como universalidad espiritual.
+- **Friedrich Nietzsche** (1844–1900): profeta del nihilismo, exaltó la voluntad de poder y al Übermensch.  
+  **_Peligro_**: caricaturiza al santo, sustituyendo la humildad y la gracia por soberbia heroica.
+- **René Guénon** (1886–1951): habló de una Sophia Perennis que iguala todas las religiones y leyó la historia como decadencia cósmica (Kali-Yuga).  
+  **_Peligro_**: sustituye la gracia por la iniciación.
+- **Julius Evola** (1898–1974): exaltó el hinduismo ario y el budismo olímpico, despreció el cristianismo como religión de débiles.  
+  **_Peligro_**: su vitalismo pagano contradice la cruz y la universalidad de la redención.
+- **Alexander Dugin[^7]** (1962–): ideólogo ruso del Eurasianismo, mezcla ortodoxia, ocultismo y geopolítica mesiánica.  
+  **_Peligro_**: convierte la fe en instrumento de poder político y en mito civilizatorio, anulando la catolicidad como universalidad espiritual.
 
 Todos ellos, en clave distinta, convergen en un cercamiento ideológico: ofrecen símbolos de fuerza y verticalidad, pero despojan al cristiano de su verdadera nobleza, que no está en la sangre ni en el músculo, sino en la filiación divina y en la cruz.
 
@@ -332,7 +336,7 @@ En clave ciber-tomista, puede verse cómo la red digital actúa como **mediació
 
 #### i. Unidad de la verdad (veritas est adaequatio rei et intellectus)
 
-La verdad revelada no se agrega en capas esotéricas; se recibe por la Tradición apostólica y el Magisterio. Añadir claves privadas equivale a postular un segundo canal de sentido.
+La verdad revelada no se agrega en capas esotéricas; se recibe por la Tradición apostólica y el Magisterio. Añadir claves privadas, por muy académicas que sean, equivale a postular un segundo canal de sentido.
 
 #### ii. Analogia entis vs. univocidad simbólica
 
@@ -361,13 +365,13 @@ Lo que se ora configura lo que se cree. La liturgia no es tablero de símbolos a
 - **Categoría desplazada**: convertir el sacramento -signum et res- en símbolo meramente transparente a un arcano interior. Se pierde la eficacia objetiva.
 - **Totalización política**: derivar de la subordinación de los bienes temporales al fin eterno una absorción del orden civil en régimen sacralista. La teología política cristiana, bien entendida, no expropia la legítima autonomía del temporal.
 - **Sincretismo solapado**: yuxtaponer Padres de la Iglesia, místicos medievales y filósofos neoplatónicos paganos como si todos hablaran de lo mismo. Se pierde la riqueza trinitaria de la fe cristiana.
-- **Analogía inflacionada**: usar términos como luz, emanación, máximo o univocidad de modo intercambiable entre Cusa, Escoto y Proclo. Se crea una falsa continuidad que borra las diferencias doctrinales.
+- **Analogía inflacionada**: usar términos como luz, emanación, máximo o univocidad de modo intercambiable entre autores paganos y católicos -sin diferenciar entre _seguros_ y heterodoxos-. Se crea una falsa continuidad que borra las diferencias doctrinales.
 - **Estética como coartada**: disfrazar tesis extremas o marginales (perennialismo, esoterismo) bajo citas latinas, cultura visual de anime o ironía erudita. Todo puede relativizarse como juego, pero el mensaje cala.
 - **Ausencia de magisterio**: citar a **Von Balthasar**, **Cusa** o **Dionisio** sin contraste con el Catecismo, Trento o **Santo Tomás**. El marco normativo de la Iglesia queda implícitamente sustituido por un canon personal y estético.
 - **Confundir debate con doctrina definida**: presenta como cuestiones abiertas lo que ya está resuelto por el Magisterio (ej. universalismo, sofianismo).
 - **Mostrar continuidad doctrinal solo parcial**: selecciona fragmentos de Padres o Escolásticos para sondear herejías, omitiendo la respuesta magisterial posterior.
-- **Enganche pseudointelectual**: presentar disputas ultraespecializadas (**Meyronnes** vs. **Damascius**) como accesibles al público, pero sin ofrecer nunca una explicación pedagógica. Se fomenta la fascinación, no la comprensión.
-- **Ironía blindada**: ante objeciones, todo puede reducirse a broma o shitpost. Así se evita el escrutinio real y se preserva la aura de insider.
+- **Enganche pseudointelectual**: presentar disputas ultraespecializadas como accesibles al público, pero sin ofrecer nunca una explicación pedagógica. Se fomenta la fascinación, no la comprensión.
+- **Ironía blindada**: ante objeciones, todo puede reducirse a broma o _shitpost_. Así se evita el escrutinio real y se preserva la aura de _insider_.
 - **Disonancia cognitiva**: intercalar contenido ortodoxo y edificante (citas de santos, oración, devociones simples) con otro hermético, cargado de anime y jerga esotérica. El contraste confunde al lector y normaliza el tránsito de lo seguro a lo ambiguo.
 
 ### Criterios de discernimiento
@@ -421,6 +425,7 @@ El círculo se cierra: serpens vetus intrat en el motor que no descansa, y los _
 — Magister Nullo
 :::
 
+[^0]:  Conviene recordar aquí la figura de Osamu Tezuka (1928–1989), pionero del manga y el anime, quien abordó explícitamente cuestiones religiosas e históricas en varias de sus obras. En "Adorufu ni tsugu" (1983–85) exploró la sombra de Hitler en el siglo XX; en "Buddha" (1972–83) reinterpretó en clave humanista la vida del fundador del budismo; y en su serie animada "In the Beginning: The Bible Stories" (1997), ofreció una versión divulgativa de episodios del Génesis hasta el nacimiento de Cristo. Estos ejemplos muestran que el medio -manga y anime- puede transmitir símbolos religiosos o morales de gran impacto.
 [^1]: No se puede negar que gran parte de la teología patrística dialogó estrechamente con el neoplatonismo. El mundo grecorromano estaba impregnado de la herencia de Platón y de Plotino, y los Padres supieron discernir qué tomar y qué rechazar. Asimismo, es cierto que Santo Tomás asume categorías neoplatónicas a través de Dionisio, pero las purifica en clave cristológica: la Encarnación no es un grado más de ascenso, sino irrupción de Dios en la historia. Allí donde el neoplatonismo habla de emanación y retorno, Tomás habla de creación y redención (cf. De Veritate, q.29, a.4, S.Th. III, q.1, a.2)
 [^2]: Shitposting: término propio de foros como 4chan o Reddit que designa la publicación deliberada de contenido absurdo, irónico o de baja calidad con el fin de provocar, saturar la conversación o marcar pertenencia a una subcultura digital. En contextos ideológicos funciona como coraza: si se cuestiona el mensaje, puede excusarse como broma.
 [^3]: Utiliza esta referencia a su encíclica [Pascendi Dominici Gregis](https://www.vatican.va/content/pius-x/es/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html), donde afirma que el modernismo constituye un sistema integrado y radical, que "recoge o sintetiza todas las herejías".
