@@ -332,6 +332,10 @@ Resulta revelador que **ninguna de estas cuentas cite jamás el magisterio tradi
 
 Y aquí resuena la **advertencia profética de Benedicto XVI**[^20] (2009): el continente digital, ese _sexto continente_ que hoy habitan millones de jóvenes, no es neutro. **Se convierte en campo de misión o en terreno de manipulación**. Estas cuentas no representan simplemente una disputa entre _la Misa de siempre_ y el _Novus Ordo_ -como muchos ingenuamente creen-, sino algo mucho más sibilino y pérfido: **una infiltración cultural que pretende desgajar al catolicismo de Roma para injertarlo en proyectos ideológicos y gnósticos** que, bajo la apariencia de tradición, **buscan en realidad vaciar la fe desde dentro**.
 
+:::{.important}
+El malestar del mundo moderno no se resuelve con una estética reaccionaria ni con una tribu digital, sino con la gracia de Cristo y la vida de la Iglesia. Todo lo demás son causas segundas, y absolutizarlas es idolatría.
+:::
+
 ## Epílogo
 
 ### La amenaza algorítmica
