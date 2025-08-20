@@ -233,7 +233,7 @@ El **ciber-tomismo** ofrece aquí la clave: la Encarnación rompe la cadena de s
 — 1 Jn 4,1
 :::
 
-## IV. La maquinaria: cuentas performativas y echo chambers
+## IV. La Máquina: cuentas performativas y echo chambers
 
 La presentación es clave. Estas cuentas no son meros perfiles anónimos, sino personajes ficticios cuidadosamente diseñados para seducir y fidelizar. Se trata de una **teatralización continua**: avatares estilizados, bios cargadas de mística ("esperando el paraíso", "enamorado de la Verdad eterna"), referencias culturales calculadas. **La máscara digital no es accidental: es la condición misma del discurso**.
 
