@@ -8,7 +8,7 @@ monastic_date: XV Kalendas Septembris, Luna XXIII
 
 > Non in disputationibus apertis, sed sub specie devotionis, serpens vetus intrat.
 
-En los rincones digitales de la _**tradisfera**_ -ese ecosistema online donde se reúnen católicos tradicionalistas, conversos entusiastas y buscadores de una fe vigorosa-, ha surgido un fenómeno sutil pero inquietante. No se trata de debates teológicos abiertos ni de críticas directas a la Iglesia posconciliar, sino de **una red de perfiles ficticios o semificticios que actúan más como personajes que como individuos reales**. Su atractivo no radica en la identidad personal del autor, sino en la puesta en escena -el tono místico, la estética cuidada, el entrelazado de referencias teológicas y formatos virales- que convierte cada publicación en un pequeño acto teatral. Estas cuentas no buscan el diálogo, sino **la fascinación y la seducción intelectual**.
+En los rincones más profundos de la caverna de la _**tradisfera**_ -ese ecosistema online donde se reúnen católicos tradicionalistas, conversos entusiastas y buscadores de una fe vigorosa-, ha surgido un fenómeno sutil pero inquietante. No se trata de debates teológicos abiertos ni de críticas directas a la Iglesia posconciliar, sino de **una red de perfiles ficticios o semificticios que actúan más como personajes que como individuos reales**. Su atractivo no radica en la identidad personal del autor, sino en la puesta en escena -el tono místico, la estética cuidada, el entrelazado de referencias teológicas y formatos virales- que convierte cada publicación en un pequeño acto teatral. Estas cuentas no buscan el diálogo, sino **la fascinación y la seducción intelectual**.
 
 Utilizando como anzuelo la combinación de teología seria, apologética cristiana y elementos de la cultura pop como el anime, crean un puente hacia narrativas anti-modernas radicales. El resultado: una **infiltración ocultista paganizante** que, en última instancia, busca radicalizar a un público descontento con la realidad actual.
 
@@ -96,7 +96,7 @@ En otro de sus densos hilos, relata su propia _conversión filosófica_, desde e
 — San Pío X, Pascendi Dominici Gregis (1907), n.3
 :::
 
-## II. El Fondo: Ideas Fringe que Diluyen la Ortodoxia Católica
+## II. El Fondo: ideas fringe que diluyen la ortodoxia católica
 
 Lo que en apariencia **parece un simple juego estético** -mezclar citas de filosofía medieval con subcultura otaku, o fusionar en un hilo serio de historia eclesiástica un meme con contenido fascista- responde en realidad a un trasfondo doctrinal mucho más peligroso: la **infiltración de ideas esotéricas** y sincretistas en la esfera católica digital.
 
@@ -134,7 +134,7 @@ El mecanismo, por tanto, no es accidental. Parasita y transforma la realidad por
 5. **Vende** la historia como fin de ciclo gnóstico-perennialista en vez de como historia de salvación.
 6. **Confunde** el orden de las causas: sustituye la causa eficiente (Dios que obra en los sacramentos) por la causa formal de un símbolo que solo representa, reduciendo la salvación a un juego de imágenes, no a la operación real de la gracia.
 
-## III. El regreso de la anti-modernidad
+## III. La Deriva: el regreso de la anti-modernidad
 
 Bajo la apariencia de **crítica cultural y resistencia a la modernidad**, se abre paso hoy un discurso que reinterpreta lo espiritual en clave ajena al cristianismo. La etiqueta de “nobleza de espíritu”, reciclada desde **Julius Evola** y difundida desde redes sociales y medios digitales, funciona como antítesis del caballero cristiano medieval: no es servicio ni sacrificio, sino **afirmación de una jerarquía esotérica, racial o simbólica**.
 
@@ -233,7 +233,7 @@ El **ciber-tomismo** ofrece aquí la clave: la Encarnación rompe la cadena de s
 — 1 Jn 4,1
 :::
 
-## IV. La Forma: Cuentas Performativas y Amplificación Mutua
+## IV. La maquinaria: cuentas performativas y echo chambers
 
 La presentación es clave. Estas cuentas no son meros perfiles anónimos, sino personajes ficticios cuidadosamente diseñados para seducir y fidelizar. Se trata de una **teatralización continua**: avatares estilizados, bios cargadas de mística ("esperando el paraíso", "enamorado de la Verdad eterna"), referencias culturales calculadas. **La máscara digital no es accidental: es la condición misma del discurso**.
 
@@ -313,7 +313,7 @@ En un mundo donde el groyping católico usa anime y teología para radicalizar, 
 — 1 Tim 6,20
 :::
 
-## V. El Objetivo: Construir un Puente Hacia la Anti-Modernidad Radical
+## V. El Objetivo: fabricar un puente hacia el radicalismo
 
 El propósito subyacente no es solo debatir teología o compartir anime, sino establecer un puente hacia una anti-modernidad radical que resuena en las redes: **Aleksandr Dugin**, con su visión de una multipolaridad contra Occidente liberal, atravesada de ecos esotéricos y apocalípticos; **Julius Evola**, con su rechazo frontal al cristianismo débil y su propuesta de una espiritualidad aristocrática y guerrera; o el anónimo **Bronze Age Pervert**, que recicla en clave digital el vitalismo hipermasculino como respuesta a la degeneración igualitaria. Usando los anzuelos mencionados -descontento, sensación de fin de ciclo, tibieza eclesial, hambre de vigor teológico-, **estas cuentas radicalizan de forma sutil a un público joven y desilusionado**.
 
