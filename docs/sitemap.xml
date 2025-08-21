@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://abbatia.aquinas.lol/</loc>
-    <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://abbatia.aquinas.lol/refectorium/</loc>
-    <changefreq>monthly</changefreq>
+    <lastmod>2025-08-18</lastmod>
+  </url>
+  <url>
+    <loc>https://abbatia.aquinas.lol/refectorium/opera/2025-08-18-de-infiltratio-esoterica-in-tradispheram.html</loc>
+    <lastmod>2025-08-21</lastmod>
   </url>
   <url>
     <loc>https://abbatia.aquinas.lol/refectorium/opera/2025-04-25-de-audacia-fera.html</loc>
@@ -18,11 +21,9 @@
   </url>
   <url>
     <loc>https://abbatia.aquinas.lol/oratorium/</loc>
-    <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://abbatia.aquinas.lol/hortus/</loc>
-    <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://abbatia.aquinas.lol/hortus/opera/2025-05-19-sex-luces-extintae-sunt.html</loc>
@@ -38,14 +39,8 @@
   </url>
   <url>
     <loc>https://abbatia.aquinas.lol/bibliotheca/</loc>
-    <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://abbatia.aquinas.lol/scriptorium/</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://abbatia.aquinas.lol/scriptorium/opera/2025-04-25-inceptum-scripturae.html</loc>
-    <lastmod>2025-04-25</lastmod>
   </url>
 </urlset>
