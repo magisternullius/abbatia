@@ -1,46 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
   <url>
     <loc>https://abbatia.aquinas.lol/</loc>
+    <lastmod>2025-05-16T08:15:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://abbatia.aquinas.lol/refectorium/</loc>
-    <lastmod>2025-08-18</lastmod>
+    <lastmod>2025-08-18T12:30:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://abbatia.aquinas.lol/refectorium/opera/2025-08-18-de-infiltratio-esoterica-in-tradispheram.html</loc>
-    <lastmod>2025-08-21</lastmod>
+    <lastmod>2025-08-21T09:45:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://abbatia.aquinas.lol/refectorium/opera/2025-04-25-de-audacia-fera.html</loc>
-    <lastmod>2025-04-25</lastmod>
+    <lastmod>2025-04-25T14:20:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://abbatia.aquinas.lol/refectorium/opera/2025-04-30-sicut-equa-fera.html</loc>
-    <lastmod>2025-04-30</lastmod>
+    <lastmod>2025-04-30T11:10:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://abbatia.aquinas.lol/oratorium/</loc>
+    <lastmod>2025-05-16T10:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://abbatia.aquinas.lol/hortus/</loc>
+    <lastmod>2025-05-16T16:40:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://abbatia.aquinas.lol/hortus/opera/2025-05-19-sex-luces-extintae-sunt.html</loc>
-    <lastmod>2025-05-19</lastmod>
+    <lastmod>2025-05-19T07:55:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://abbatia.aquinas.lol/hortus/opera/2025-05-15-persona-liquefacta.html</loc>
-    <lastmod>2025-05-15</lastmod>
+    <lastmod>2025-05-15T19:05:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://abbatia.aquinas.lol/hortus/opera/2025-04-29-de-tenebris-improvisis.html</loc>
-    <lastmod>2025-04-29</lastmod>
+    <lastmod>2025-04-29T21:25:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://abbatia.aquinas.lol/bibliotheca/</loc>
+    <lastmod>2025-05-16T13:35:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://abbatia.aquinas.lol/scriptorium/</loc>
+    <lastmod>2025-05-16T23:15:00+00:00</lastmod>
   </url>
 </urlset>
