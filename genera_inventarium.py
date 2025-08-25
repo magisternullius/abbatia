@@ -136,7 +136,7 @@ def main():
 
     with open(ROBOTS_PATH, "w", encoding="utf-8") as f:
         f.write("User-agent: *\n")
-        f.write("Disallow:\n\n")
+        f.write("Disallow: /\n")
         f.write(f"Sitemap: {SITE_URL}/sitemap.xml\n")
 
 if __name__ == "__main__":
