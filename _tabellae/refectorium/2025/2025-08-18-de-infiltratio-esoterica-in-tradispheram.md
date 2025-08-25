@@ -473,6 +473,7 @@ El cristiano debe recordar algunos principios básicos para no caer en estas red
 - **La tradición se vive en obediencia, no en tribus digitales**. La comunión de los santos es real y sacramental, no una iniciación tribal en un grupo de suscriptores a un canal. Las tribus digitales son simulacros de comunión; la Iglesia visible es la única garantía de la catolicidad.
 - **El camino seguro es siempre el de los pobres en espíritu**: "porque de ellos es el Reino de los Cielos" (Mt 5,3). Quien ama a María, ora sincera y confiadamente al Dios Uno y Trino y recibe los sacramentos con frecuencia, no se condenará. Basta con eso.
 - **Lo que es legítimo para un estudiante de filosofía es innecesario** y peligroso para el fiel común. No todos tienen la vocación ni la preparación para estudiar a **Proclo**, **Böhme** o **Evola**; para la gran mayoría basta y sobra con el Catecismo, el Magisterio, los Padres y Doctores de la Iglesia, que transmiten la sabiduría sin riesgo de desviación.
+- **El creyente puede y debe estudiar**, pero no puede admitir una hermenéutica que disuelva la Resurrección en mito. Ahí está la frontera. Porque _"vana sería nuestra predicación, vana también vuestra fe"_ (1 Cor 15,14).
 - **Una afición nunca debe desplazar ni el estudio ni la oración**. Porque lo último que quiere el demonio es que recemos las Completas… y lo primero que quiere es que nos quedemos viendo un capítulo más de **One Piece**  
   ٩(◕‿◕)۶ (凸ಠ益ಠ)凸
 
