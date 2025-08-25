@@ -443,12 +443,12 @@ Estos errores formales se repiten tanto en discursos eruditos (p. ej. exégesis 
 - **Estética como coartada**: disfrazar tesis extremas o marginales (perennialismo, esoterismo, cábala) bajo citas latinas, cultura visual impactante o erudición impecable. Todo puede relativizarse como juego o necesidad académica.
 - **Ausencia de magisterio**: se citan Padres, místicos o filósofos sin contraste con el Catecismo, Trento o **Santo Tomás**. El marco normativo de la Iglesia queda sustituido por un canon personal, estético o académico.
 - **Confundir debate con doctrina** definida: presenta como cuestiones abiertas lo que ya está resuelto por el Magisterio (ej. universalismo, historicidad de **Jesucristo**).
-- **Mostrar continuidad doctrinal solo parcial**: selecciona fragmentos de crónicas históticas, Padres o Doctores para sondear herejías, omitiendo la respuesta magisterial posterior.
+- **Mostrar continuidad doctrinal solo parcial**: selecciona fragmentos de crónicas históricas, Padres o Doctores para sondear herejías, omitiendo la respuesta magisterial posterior.
 - **Enganche pseudointelectual**: presentar disputas ultraespecializadas como accesibles al público, pero sin ofrecer nunca una explicación pedagógica. Se fomenta la fascinación, no la comprensión.
 - **Ironía blindada**: ante objeciones, todo puede reducirse a broma o _shitpost_. Así se evita el escrutinio real y se preserva la aura de _insider_.
-- **Disonancia cognitiva**: intercalar contenido ortodoxo y edificante (citas de santos, oración, devociones simples) con otro hermético, cargado de anime y jerga esotérica. El contraste confunde al lector y normaliza el tránsito de lo seguro a lo ambiguo.
+- **Disonancia cognitiva**: alternar contenido académico o piadoso (citas de santos, devociones sencillas) con mensajes herméticos cargados de jerga esotérica y referencias culturales digitales. El contraste desorienta al lector y normaliza el paso inadvertido de la ortodoxia a la ambigüedad.
 
-Por más que ciertos hilos destilen lecturas de aparente provecho, lo hacen fuera del cauce de la Tradición viva: no hay maestro, sino máscara; no hay formación, sino acumulación. Conviene, pues, distinguir el filosofar asistido por un guía fiel a la verdad del diletantismo digital, que desemboca, tarde o temprano, en la espiral de la curiositas:
+Por más que ciertos hilos o vídeos destilen contenido de aparente provecho, lo hacen fuera del cauce de la Tradición viva: no hay maestro, sino máscara; no hay formación, sino acumulación. Conviene, pues, distinguir el filosofar asistido por un guía fiel a la verdad del diletantismo digital, que desemboca, tarde o temprano, en la espiral de la curiositas:
 
 > Studiositas est virtus per quam aliquis moderate ad scientiam ordinatur; curiositas autem est vitium, cum aliquis inordinate ad scientiam tendit
 
