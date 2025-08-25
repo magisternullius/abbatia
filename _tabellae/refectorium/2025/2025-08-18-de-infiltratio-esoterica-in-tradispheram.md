@@ -377,7 +377,7 @@ El **Dr. James Tabor** (1946), representante de la exégesis liberal anglosajona
 — Benedicto XVI, Jesús de Nazaret, Introducción (La Esfera de los Libros, 2007)
 :::
 
-Por su parte, el **Dr. Justin Sledge**, filósofo de impecable formación académica e _influencer_ del esoterismo y las artes ocultas, se ha declarado en uno de sus vídeos[^j]  "admirador del Dr. Tabor". Desde esa clave, ofrece en su canal una lectura abiertamente gnóstica y comparatista de la religión. En sus exposiciones, la fe cristiana aparece situada al mismo nivel que el neoplatonismo, el hermetismo renacentista o la cábala judía[^k].
+Por su parte, el **Dr. Justin Sledge**, filósofo de impecable formación académica e _influencer_ del esoterismo y las artes ocultas, se ha declarado en uno de sus vídeos[^j]  "admirador del Dr. Tabor". Desde esa clave, ofrece en su canal -que ronda el millón de suscriptores- una lectura abiertamente gnóstica y comparatista de la religión. En sus exposiciones, la fe cristiana aparece situada al mismo nivel que el neoplatonismo, el hermetismo renacentista o la cábala judía[^k].
 
 Su estrategia retórica apela a **una pretendida compasión por el "Jesús fracasado"**: hijo ilegítimo convertido en profeta y _miracle worker_, que habría seguido a **Juan Bautista** como maestro, y asumido el rol de mesías político en clave apocalíptica contra Roma y contra las élites religiosas del Segundo Templo. Finalmente, habría muerto en la cruz como líder derrotado, abandonado por Dios -reinterpretando de manera torticera el grito del Salmo 21: _"Dios mío, Dios mío, ¿por qué me has abandonado?"_. En boca de Sledge, este clamor ya **no es el comienzo de un salmo de esperanza cumplido en Cristo, sino la confesión amarga de un fracaso definitivo**.
 
@@ -396,7 +396,7 @@ El riesgo pastoral y doctrinal es evidente: **incluso católicos bien formados p
 > Lo que los apóstoles predicaron en un principio, lo transmitieron después por escrito, por voluntad de Dios, para que fuese fundamento y columna de nuestra fe.
 
 :::{.quote-author}
-— San Ireneo, Adversus Haereses III,3,1 (en castellano, de la edición BAC, nº 155, trad. de C. del Valle, 1952):
+— San Ireneo, Adversus Haereses III,3,1
 :::
 
 ### A la luz del ciber-tomismo
