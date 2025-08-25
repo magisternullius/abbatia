@@ -31,6 +31,8 @@ El laico -padre, artesano, jornalero- no necesita perseguir afectos que no le so
 
 Ser _amicus Sponsi_ es una santidad humilde y viril: no consiste en arrebatos, sino en la perseverancia silenciosa. Es cuidar la viña al caer la tarde, no dejar solo al Señor en el campo de este mundo, seguirlo como discípulo y como soldado. Morir con Él, por Él y para Él cuando llegue la hora. Pero sobre todo vivir cada día desde su gracia: aceptar ser nada para que Jesucristo lo sea todo; esperar sin sentir, creer sin ver. Sólo entonces la amistad se vuelve pura, porque ya no descansa en nosotros, sino en la fidelidad inquebrantable del Esposo.
 
+Participar de esta amistad es compartir también su sed. En la Cruz, el Esposo clamó: _"Sitio"_ (Jn 19,28). Esa sed no era sólo física, sino deseo ardiente de nuestra salvación. El amicus Sponsi se deja herir por esa misma sed: ansiar que Cristo reine, que su Corazón sea amado, que ninguna hora pase sin velar junto a Él. No es un enamoramiento, sino la comunión profunda con el Corazón traspasado, donde el amor se hace fidelidad, sacrificio y espera perseverante.
+
 > Et cum aurora surrexerit, inveniat me Dominus vigilante.
 
 :::{.quote-author}
