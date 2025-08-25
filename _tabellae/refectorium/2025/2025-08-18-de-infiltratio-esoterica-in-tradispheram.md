@@ -477,7 +477,7 @@ El cristiano debe recordar algunos principios básicos para no caer en estas red
   ٩(◕‿◕)۶ (凸ಠ益ಠ)凸
 
 :::{.important}
-Lo que hemos visto en estas cuentas es sólo un ejemplo: la lógica de la gnosis digital afecta a todo nivel de cultura visual. No sólo a otakus o académicos, también a boomers que leen prensa católica, a jóvenes con TikTok devocional, e incluso a ambientes académicos que confunden erudición con fe.  
+Lo que hemos visto en estas cuentas es sólo un ejemplo: la lógica de la gnosis digital afecta a todo nivel de cultura visual. No sólo a otakus o tradis; también a boomers que leen prensa católica, a jóvenes con TikTok devocional, e incluso a ambientes académicos que confunden erudición con fe.  
 
 Quien acepte ese veneno, aunque sea disfrazado de belleza o erudición, ya ha abierto la puerta al antiguo engañador. Y en esa grieta, como un murmullo constante, resuena todavía la advertencia del Apóstol: "vendrá un tiempo en que no soportarán la sana doctrina" (2 Tim 4,3). Ese tiempo no está lejos: es ahora.
 :::
