@@ -209,13 +209,13 @@ Este código caballeresco muestra que **la nobleza medieval era inseparable de l
 
 El católico tradicional que busca profundizar en su fe se encuentra hoy con un escenario nuevo: **la hiperrealidad digital**. Allí proliferan cuentas performativas que, con estética medievalizante o referencias eruditas, parecen custodiar la tradición, pero en realidad la distorsionan.
 
-Memes con santos mezclados con símbolos paganos, **citas truncadas de Santo Tomás** adornadas con runas nórdicas, **pseudónimos que combinan Padres de la Iglesia con iconografía anime o synth-pop fascista**: todo ello produce una falsificación atractiva. Se ofrece verticalidad estética, pero sin arraigo sacramental; se promete identidad fuerte, pero sin obediencia eclesial; se imita la auctoritas de la Tradición, pero se sustituye por el guiño irónico y la iniciación tribal.
+Memes con santos mezclados con símbolos paganos, **citas truncadas de Santo Tomás** adornadas con runas nórdicas, **pseudónimos que combinan Padres de la Iglesia con iconografía anime o _synth-wave_ fascista**: todo ello produce una falsificación atractiva. Se ofrece verticalidad estética, pero sin arraigo sacramental; se promete identidad fuerte, pero sin obediencia eclesial; se imita la auctoritas de la Tradición, pero se sustituye por el guiño irónico y la iniciación tribal.
 
 En el fondo, estas redes funcionan como una **gnosis pixelada**: ofrecen a unos pocos iniciados las claves ocultas para descifrar símbolos y pertenecer a una élite. No se trata ya de vivir la gracia, sino de descifrar un código secreto de signos y estéticas compartidas, donde **Cristo** es apenas un símbolo más en un ovillo enmarañado. Uno acaba invirtiendo más horas en descifrar imágenes oscuras que en rezar el Santo Rosario.
 
 Aquí aparece la gran trampa de la hiperrealidad: **un laberinto de signos sin sustancia que se multiplican infinitamente**, como ya advertía **Jean Baudrillard** (1929-2007). El verdadero problema es que la anti-modernidad estética en versión digital repite el esquema gnóstico. El cristiano corre el riesgo de confundir la representación con la verdad. **Donde la fe pide presencia real -Cristo en la Eucaristía, la gracia en los sacramentos- el universo virtual ofrece sombras interminables**, espejismos sin vida.
 
-Podríamos compararlos con los **juglares bufones** que, en las plazas medievales, caricaturizaban a los caballeros. Hoy estos juglares digitales imitan la armadura y el lenguaje del miles Christi, pero **reducen la nobleza espiritual a un carnaval de símbolos vacíos**. Tras el yelmo del caballero, **no hay cruz ni servicio, sólo ironía y tribalismo**. Así, la Comunión de los Santos se ve sustituida por su parodia: **tribus digitales que prometen fraternidad, pero sólo ofrecen segregación estética y pertenencia artificial**.
+Podríamos compararlos con los **juglares bufones** que, en las plazas medievales, caricaturizaban a los caballeros. Hoy estos juglares digitales imitan la armadura y el lenguaje del miles Christi, pero **reducen la nobleza espiritual a un carnaval de símbolos vacíos**. Bajo el yelmo del caballero, **no hay cruz ni servicio, sólo ironía y tribalismo**. Así, la Comunión de los Santos se ve sustituida por su parodia: **tribus digitales que prometen fraternidad, pero sólo ofrecen segregación estética y pertenencia artificial**.
 
 **Desenmascaremos esta lógica**: la fe no se sostiene en iconos digitales, sino en la gracia recibida en los sacramentos; no se robustece en comunidades virtuales anónimas, sino en la comunión real de la Iglesia; no florece en símbolos desarraigados, sino en la Tradición viva que nos vincula con Cristo y sus santos.
 
@@ -283,7 +283,7 @@ Los actores digitales de hoy juegan la misma carta: **ofrecer al católico desco
 — San Agustín, De Moribus Manichaeorum, I.1
 :::
 
-### Para los usuarios de redes sociales: del tradi a CathGroyper
+### Para los usuarios de redes sociales: de tradi a CathGroyper
 
 Es importante **advertir a los católicos con inclinaciones tradicionales** que simplemente entran en redes buscando contenidos de fe. La trampa suele empezar por lo más inocente: un meme simpático con una cita patrística, un retuit de un _influencer tradi_, una lista de "cuentas católicas recomendadas", un hilo aparentemente erudito sobre **Santo Tomás**.
 
@@ -291,9 +291,7 @@ Poco a poco, sin apenas notarlo, uno entra en dinámicas de _groyping_[^16].
 
 El groyping es la **táctica de infiltración** popularizada por la alt-right estadounidense, cuyos militantes se autodenominaban groypers y usaban como icono una rana obesa derivada de **Pepe the Frog**. Su objetivo no era el debate abierto, sino la **colonización estética y cultural**: entrar en comunidades con mensajes aparentemente inofensivos para desplazar poco a poco el marco hacia ideas extremas.
 
-En el contexto católico-digital, este mismo patrón se traduce en contenidos meméticos y pseudo-erudición medieval o patrística. En la versión católica de los groypers -a menudo llamados _CathGroypers_-, la **rana Pepe** se transforma en personajes del universo **Type-Moon**, como waifus vulnerables o héroes jerárquicos de **Fate/Stay Night**.
-
-Estos símbolos pop, con su envoltorio inocente y emotiva, actúan como un guiño cultural que atrae a **jóvenes conversos descontentos con la modernidad**. Pero detrás hay una agenda: **normalizar ideas far-right identitarias disfrazadas de anti-modernismo católico**, como jerarquías espirituales elitistas o críticas a la tibieza eclesial que derivan en sincretismo pagano.
+En el contexto católico-digital, este mismo patrón se traduce en contenidos meméticos y pseudo-erudición medieval o patrística. En la versión católica de los groypers -a menudo llamados _CathGroypers_-, la **rana Pepe** se transforma en signos de cultura visual digital memética. Estos símbolos pop, con su envoltorio inocente y emotiva, actúan como un guiño cultural que atrae a **jóvenes conversos descontentos con la modernidad**. Pero detrás hay una agenda: **normalizar ideas identitarias disfrazadas de anti-modernismo católico**, como jerarquías espirituales elitistas o críticas a la tibieza eclesial que derivan en sincretismo pagano.
 
 La dinámica del groyping suele seguir tres pasos:
 
@@ -336,6 +334,8 @@ El malestar del mundo moderno no se resuelve con una estética reaccionaria ni c
 :::
 
 ## Epílogo: más allá de las waifus
+
+No es la primera vez que la gnosis se disfraza de sabiduría y seduce a incautos. San Ireneo ya la combatió en el siglo II, Santo Tomás la desarmó en el XIII, y la Iglesia ha sabido siempre reconocer al viejo enemigo bajo nuevos ropajes.
 
 ### La amenaza algorítmica
 
@@ -430,6 +430,10 @@ Racialismos y gnosis elitistas rompen la catolicidad: **Cristo** murió pro omni
 #### vi. Lex orandi, lex credendi
 
 Lo que se ora configura lo que se cree. La liturgia no es tablero de símbolos arcanos sino escuela de fe. Introducir claves ajenas deforma la confesión de la fe.
+
+:::{.important}
+No se trata de pesimismo, sino de fidelidad. Jeremías no fue optimista, pero fue verdadero: denunció la mentira de los falsos profetas que repetían "paz, paz" (Jer 6,14). La esperanza cristiana no es anestesia, sino Cruz y Vida Eterna.
+:::
 
 ### Errores formales frecuentes
 
