@@ -267,6 +267,12 @@ Aquí el ciber-tomismo debe advertir: **la verdad no se transmite por acumulaci�
 
 En definitiva, la forma misma es ya un mensaje: no se trata sólo de lo que dicen, sino de cómo se presentan. El avatar, la performatividad, la red de amplificación y la estética calculada conforman un dispositivo de seducción. Es la lógica del espectáculo aplicada al catolicismo: una fe transfigurada en aura digital, que cautiva a los descontentos de la tradición, pero los conduce a un espejismo. **Lo que parecía tradición es en realidad esoterismo**: no comunión, sino iniciación; no revelación, sino secreto; no Iglesia, sino círculo.
 
+> Evita las palabrerías vacías y las objeciones de la falsa ciencia
+
+:::{.quote-author}
+— 1 Tim 6,20
+:::
+
 ### Advertencia pastoral: gnosis disfrazada de tradición y memes
 
 Lo decisivo no es sólo lo que estas cuentas dicen, sino el modo en que lo hacen. Bajo la fachada estética -anime, citas medievales, ironía juvenil- late un viejo veneno: **la tentación gnóstica**.
@@ -289,30 +295,6 @@ Los actores digitales de hoy juegan la misma carta: **ofrecer al católico desco
 
 :::{.quote-author}
 — San Agustín, De Moribus Manichaeorum, I.1
-:::
-
-### Para los usuarios de redes sociales: de tradi a CathGroyper
-
-Es importante **advertir a los católicos con inclinaciones tradicionales** que simplemente entran en redes buscando contenidos de fe. La trampa suele empezar por lo más inocente: un meme simpático con una cita patrística, un retuit de un _influencer tradi_, una lista de "cuentas católicas recomendadas", un hilo aparentemente erudito sobre **Santo Tomás**. Poco a poco, sin apenas notarlo, uno entra en dinámicas de _groyping_[^16].
-
-En el contexto católico-digital, este mismo patrón se traduce en contenidos meméticos _basados_ y pseudo-erudición medieval o patrística. En la versión católica de los groypers -a menudo llamados _CathGroypers_-, la **rana Pepe** se transforma en signos de cultura visual digital. Estos símbolos pop, con su envoltorio inocente y emotiva, actúan como un guiño cultural que atrae a **jóvenes conversos descontentos con la modernidad**. Pero detrás hay una agenda: **normalizar ideas identitarias disfrazadas de anti-modernismo católico**, como jerarquías espirituales elitistas o críticas a la tibieza eclesial que derivan en sincretismo pagano.
-
-La dinámica del groyping suele seguir tres pasos:
-
-1. **Conectar** mediante una estética compartida de nicho.
-2. **Normalizar** ideas radicales, presentándolas como humor o cultura alternativa o debates sobre realismo étnico se disfrazan de vigor teológico.
-3. **Reclutar** a quienes muestran curiosidad, conduciéndolos a foros cerrados, canales privados o literatura esotérica.
-
- **No se trata de mero entretenimiento, sino de una sustitución estética y cultural**: del nihilismo sarcástico de la alt-right al anti-modernismo pagano que seduce a jóvenes católicos con símbolos falsamente tradicionales. **El anime funciona como vehículo de transmisión de un simulacro de pureza e inocencia, al tiempo que esconde bajo su capa un veneno doctrinal** que deriva a una pretendida sabiduría primordial superior.
-
-Como yo mismo he experimentado, estas cuentas ofrecen vana curiosidad: horas de lectura de hilos densos y seductores, que dan la ilusión de aprendizaje y comunidad, pero que en realidad **vacían la vida de oración de sencillas devociones por interminables discusiones**. El miles Christi no se mide por acumular claves ocultas, sino por perseverar en la oración humilde, en la obediencia a la Iglesia y en la vida sacramental.
-
-En un mundo donde el groyping católico usa anime y teología para radicalizar, recordemos que la verdadera tradición no necesita puentes iniciáticos: se ancla en la Cruz, no en memas ni en jerarquías indefinidas.
-
-> Evita las palabrerías vacías y las objeciones de la falsa ciencia
-
-:::{.quote-author}
-— 1 Tim 6,20
 :::
 
 ## V. El Objetivo: fabricar un puente hacia el radicalismo
