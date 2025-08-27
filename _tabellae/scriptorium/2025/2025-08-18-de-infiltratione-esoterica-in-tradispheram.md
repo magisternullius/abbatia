@@ -26,7 +26,7 @@ Muy distinto es el perennialismo de ciertos autores heterodoxos del siglo XX, qu
 
 El interés en introducir estas corrientes de pensamiento en el catolicismo tradicional responde a una estrategia clara: **captar a quienes poseen inteligencia, inquietud filosófica y hambre de ortodoxia**, para luego conducirlos hacia un terreno oscuro. La solidez de la teología escolástica o la belleza de la mística de los monjes medievales sirven de señuelo; pero, poco a poco, se sugieren paralelismos con sistemas universalizantes, con la promesa de una sabiduría oculta más allá del dogma.
 
-Así, el joven que entra buscando la _Sapientia Perennis Christiana_ a la luz de la teología mística acaba leyendo tratados heterodoxos antiguos y modernos, como si fuesen caminos paralelos. Lo más sorprendente del fenómeno que se analiza en este sobrio refectorium es que esas doctrinas, que en su momento se transmitían en revistas esotéricas o en círculos gnósticos restringidos, hoy circulan en clave de memes, trivializadas pero no menos peligrosas, envueltas en un lenguaje estético accesible, irónico y hasta cómplice. Encontrando en el anime un inesperado vehículo de seducción simbólica, al ser actualmente un código compartido por la práctica totalidad de las generaciones nacidas a partir del cambio de milenio, los llamados _nativos digitales_.
+Así, el joven que entra buscando la _Sapientia Perennis Christiana_ a la luz de la teología mística acaba leyendo tratados heterodoxos antiguos y modernos, como si fuesen caminos paralelos. Lo más sorprendente del fenómeno que se analiza en este sobrio scriptoriu es que esas doctrinas, que en su momento se transmitían en revistas esotéricas o en círculos gnósticos restringidos, hoy circulan en clave de memes, trivializadas pero no menos peligrosas, envueltas en un lenguaje estético accesible, irónico y hasta cómplice. Encontrando en el anime un inesperado vehículo de seducción simbólica, al ser actualmente un código compartido por la práctica totalidad de las generaciones nacidas a partir del cambio de milenio, los llamados _nativos digitales_.
 
 En este terreno, la cultura visual de las series y videojuegos japoneses se convierte en un aliado estratégico: su **imaginería cargada de símbolos y su potencial filosófico** ofrece un ropaje visual y narrativo idóneo para revestir de atractivo juvenil estas mismas ideas místicas. Lo que antes se transmitía en tratados arcanos ahora se difunde en forma de memes, estéticas híbridas y personajes idealizados que actúan como figuras simbólicas. Así, el esoterismo que ayer requería largas lecturas hoy se presenta en clave pop, con un lenguaje afectivo y seductor capaz de penetrar en el imaginario católico digital sin levantar sospechas inmediatas.
 
@@ -85,6 +85,12 @@ Otro de estos personajes de X aparece como un raro híbrido: entre hilos extenso
 La cuenta es relativamente popular en el mundillo _tradi_ (o _TradCath_) de X, hasta el punto de ser citado por cuentas de académicos reales e _influencers_ de filosofía medieval y escolástica. Ahí radica tanto su atractivo como su peligro: **ofrece materiales de valor**, pero **siempre en un marco ambiguo que mezcla ortodoxia y esoterismo, piedad franciscana y guiños al perennialismo**. Así, figuras como **San Buenaventura** o **Nicolás de Cusa** terminan presentadas como cumbres dentro de cordilleras perennialistas o neoplatónicas más que como doctores de la Iglesia. El resultado es **un relato seductor que oscila entre la verdad católica y la gnosis, borrando las fronteras que la fe debe mantener nítidas**.
 
 Es curioso que fuera el propio **San Buenaventura** quien, cuando **Santo Tomás de Aquino** le preguntó de dónde provenía su conocimiento, señaló humildemente al crucifijo. Frente al laberinto de filtros académicos y esotéricos, el **Doctor Seráfico** recuerda que **la verdadera sabiduría no se alcanza acumulando intermediarios, sino contemplando al Cristo crucificado**, fuente inmediata y suficiente de toda luz.
+
+> Studiositas est virtus per quam aliquis moderate ad scientiam ordinatur; curiositas autem est vitium, cum aliquis inordinate ad scientiam tendit
+
+:::{.quote-author}
+— STh II-II, q.167, a.1
+:::
 
 En otro de sus densos hilos, relata su propia _conversión filosófica_, desde el ateísmo, pasando por el perennialismo de **Evola**, hasta llegar finalmente al catolicismo. Esto funciona como legitimación de esta síntesis híbrida. Se reconoce que la fe en la historicidad de la Resurrección rompe el esquema perennialista, pero al mismo tiempo se sigue rindiendo homenaje a las intuiciones de **Julius Evola** y a su visión de la trascendencia como una especie de antesala del cristianismo. El resultado es la construcción de un puente falso: el catolicismo aparece como la culminación de un itinerario gnóstico, cuando en realidad no hay continuidad posible entre ambos. **La estratagema está en presentar la ruptura con el error como si fuese su cumplimiento**.
 
@@ -425,66 +431,136 @@ Lo más peligroso de estos discursos no es la blasfemia abierta, sino su envoltu
 — San Ireneo, Adversus Haereses III,3,1
 :::
 
-### A la luz del ciber-tomismo
+## Apéndice: A la luz del ciber-tomismo
 
-En clave ciber-tomista, puede verse cómo la red digital actúa como **mediación idolátrica**: lo que antaño se ofrecía en misterios secretos ahora se vehicula en algoritmos que seleccionan, repiten y amplifican imágenes y narrativas hasta fijarlas en el imaginario colectivo. El meme o la estética no son neutrales: constituyen causas segundas que, aunque subordinadas a la libertad del alma, predisponen sus potencias sensibles y afectivas hacia una determinada visión del mundo.
+En clave ciber-tomista, puede verse cómo **la red digital actúa como mediación idolátrica**: lo que antaño se ofrecía en secreto, ahora se vehicula en algoritmos que seleccionan, repiten y amplifican imágenes y narrativas hasta fijarlas en el imaginario colectivo. El meme o la estética no son neutrales: constituyen causas segundas que, aunque subordinadas a la libertad del alma, predisponen sus potencias sensibles y afectivas hacia una determinada visión del mundo.
 
-Así, lo que aparece como un simple juego cultural no es sino una gnosis reempaquetada, que aprovecha la hiperrealidad digital para desplazar la fe de su fundamento en el Logos y sumergirla en la fascinación del símbolo flotante. Frente a este engaño, **el realismo de Santo Tomás recuerda que la verdad no se alcanza por acumulación de imágenes ni por intensificación afectiva, sino por adecuación del intelecto al ser** (STh I, q.16, a.1).
+Así, lo que aparece como un simple juego cultural no es sino una gnosis reempaquetada, que aprovecha la hiperrealidad digital para desplazar la fe de su fundamento en el Logos y sumergirla en la fascinación del símbolo flotante. **Esta gnosis puede tomar ropajes distintos: esotérico (sapientia oculta), tribal (sangre y etnia), o progresista (género e identidad autoconstruida)**. En todos los casos, el mecanismo es idéntico: sustituir el orden del amor por un absolutismo ideológico. Frente a este engaño, **el realismo de Santo Tomás recuerda que la verdad no se alcanza por acumulación de imágenes ni por intensificación afectiva, sino por adecuación del intelecto al ser** (STh I, q.16, a.1).
 
 #### i. Unidad de la verdad (veritas est adaequatio rei et intellectus)
 
-La verdad revelada no se agrega en capas esotéricas; se recibe por la Tradición apostólica y el Magisterio. Añadir claves privadas, por muy académicas que sean, equivale a postular un segundo canal de sentido.
+La verdad revelada no se agrega en capas esotéricas, tribales o identitarias; se recibe por la Tradición apostólica y el Magisterio. Añadir claves privadas, ya sea gnósticas, raciales o ideológicas, equivale a postular un segundo canal de sentido.
 
 #### ii. Analogia entis vs. univocidad simbólica
 
-Los sacramentos son signos eficaces (no meros símbolos) que causan la gracia como instrumentos vivos de **Cristo**. El esoterismo trata el signo como cifra arbitraria que despierta una gnosis. Es categoría distinta.
+Los sacramentos son signos eficaces (no meros símbolos) que causan la gracia como instrumentos vivos de Cristo.
+
+- El esoterismo los reduce a claves arcanas.
+- El tribalismo los convierte en ritos culturales de pertenencia.
+- El progresismo los diluye en símbolos de inclusión.
+
+Todos son reduccionismos que niegan su eficacia objetiva.
 
 #### iii. Gracia y naturaleza (gratia non tollit naturam, sed perficit)
 
-El esoterismo promete salto de nivel por atajo iniciático; la Iglesia enseña camino real: conversión, sacramentos, virtud, cruz.
+El esoterismo promete un salto iniciático, el tribalismo una pureza de sangre, y el progresismo una autoafirmación sin límites. La Iglesia, en cambio, enseña el camino real: conversión, sacramentos, virtud, cruz.
 
 #### iv. Causa final y orden de caridad
 
-El finis ultimus es la visión de Dios. Toda política es penúltima. Cuando la estética política se absolutiza (totalitas), asalta el lugar del fin último.
+El finis ultimus es la visión de Dios. Toda política es penúltima.
+
+- El gnóstico absolutiza el conocimiento.
+- El tribalista absolutiza la nación o la sangre.
+- El progresista absolutiza la autodeterminación subjetiva.
+
+En todos los casos, la estética política o cultural usurpa el lugar del fin último.
 
 #### v. Universalidad de la redención y dignidad personal
 
-Racialismos y gnosis elitistas rompen la catolicidad: **Cristo** murió pro omnibus en su suficiente obrar redentor; la salvación se ofrece sin acepción de personas.
+Racialismos, gnosis elitistas y políticas de identidad rompen la catolicidad: **Cristo murió pro multis** en su suficiente obrar redentor; la salvación se ofrece sin acepción de personas, ni de raza, ni de sexo, ni de condición.
 
 #### vi. Lex orandi, lex credendi
 
-Lo que se ora configura lo que se cree. La liturgia no es tablero de símbolos arcanos sino escuela de fe. Introducir claves ajenas deforma la confesión de la fe.
+Lo que se ora configura lo que se cree.
+
+- El gnóstico convierte la liturgia en tablero de símbolos arcanos.
+- El tribalista en rito nacional.
+- El progresista en performance inclusiva.
+
+En todos los casos, introducir claves ajenas deforma la confesión de la fe.
 
 :::{.important}
-No se trata de pesimismo, sino de fidelidad. Jeremías no fue optimista, pero fue verdadero: denunció la mentira de los falsos profetas que repetían "paz, paz" (Jer 6,14). La esperanza cristiana no es anestesia, sino Cruz y Vida Eterna.
+No se trata de pesimismo, sino de fidelidad. Jeremías no fue optimista, pero fue verdadero: denunció la mentira de los falsos profetas que repetían "paz, paz" (Jer 6,14).  
+  
+La esperanza cristiana no es anestesia ideológica, sino Cruz y Vida Eterna:
+contra la gnosis, contra la tribu y contra el wokismo, permanece el Reinado de Cristo.
 :::
 
-### Errores formales frecuentes
+### Errores formales frecuentes (y sus disfraces)
 
-Estos errores formales se repiten tanto en discursos eruditos (p. ej. exégesis historicistas) como en narrativas digitales con imaginería impactante. Ambas responden a la misma lógica gnóstica de sustitución de la Revelación por claves privadas o estéticas.
+Por más que ciertos hilos o vídeos destilen contenido de aparente provecho, lo hacen fuera del cauce de la Tradición viva: no hay maestro, sino máscara; no hay formación, sino acumulación. La misma lógica se repite en el diletantismo digital esotérico, tribal o woke: abundancia de símbolos, consignas o slogans que fascinan, pero que nunca ordenan al alma hacia el fin último.
 
-- **Equivocación conceptual**: confundir la _ascensión del alma a lo Uno_ propia del neoplatonismo con la unión con Dios por la gracia en **Cristo**. Este trasvase ilegítimo abre la puerta a pensar el cristianismo como una etapa superior dentro de la misma escalera mística neoplatónica, cuando en realidad la Encarnación rompe esa lógica ascendente e introduce la novedad absoluta de la Revelación.
-- **Categoría desplazada**: convertir el sacramento -signum et res- en símbolo meramente transparente a un arcano interior. Se pierde la eficacia objetiva.
-- **Totalización política**: derivar de la subordinación de los bienes temporales al fin eterno una absorción del orden civil en régimen sacralista. La teología política cristiana, bien entendida, no expropia la legítima autonomía del temporal.
-- **Sincretismo solapado**: yuxtaponer Padres de la Iglesia, místicos medievales y escuelas filosóficas esotéricas como si todos hablaran de lo mismo. Se pierde la riqueza trinitaria de la fe cristiana.
-- **Analogía inflacionada**: usar términos como luz, emanación, máximo o univocidad de modo intercambiable entre autores paganos y católicos -sin diferenciar entre _seguros_ y heterodoxos-. Se crea una falsa continuidad que borra las diferencias doctrinales.
-- **Estética como coartada**: disfrazar tesis extremas o marginales (perennialismo, esoterismo, cábala) bajo citas latinas, cultura visual impactante o erudición impecable. Todo puede relativizarse como juego o necesidad académica.
-- **Ausencia de magisterio**: se citan Padres, místicos o filósofos sin contraste con el Catecismo, Trento o **Santo Tomás**. El marco normativo de la Iglesia queda sustituido por un canon personal, estético o académico.
-- **Confundir debate con doctrina** definida: presenta como cuestiones abiertas lo que ya está resuelto por el Magisterio (ej. universalismo, historicidad de **Jesucristo**).
-- **Mostrar continuidad doctrinal solo parcial**: selecciona fragmentos de crónicas históricas, Padres o Doctores para sondear herejías, omitiendo la respuesta magisterial posterior.
-- **Enganche pseudointelectual**: presentar disputas ultraespecializadas como accesibles al público, pero sin ofrecer nunca una explicación pedagógica. Se fomenta la fascinación, no la comprensión.
-- **Ironía blindada**: ante objeciones, todo puede reducirse a broma o _shitpost_. Así se evita el escrutinio real y se preserva la aura de _insider_.
-- **Disonancia cognitiva**: alternar contenido académico o piadoso (citas de santos, devociones sencillas) con mensajes herméticos cargados de jerga esotérica y referencias culturales digitales. El contraste desorienta al lector y normaliza el paso inadvertido de la ortodoxia a la ambigüedad.
+#### Equivocación conceptual
 
-Por más que ciertos hilos o vídeos destilen contenido de aparente provecho, lo hacen fuera del cauce de la Tradición viva: no hay maestro, sino máscara; no hay formación, sino acumulación. Conviene, pues, distinguir el filosofar asistido por un guía fiel a la verdad del diletantismo digital, que desemboca, tarde o temprano, en la espiral de la curiositas:
+- **Gnóstico**: confundir la ascensión al Uno con la gracia en Cristo.
+- **Identitario**: confundir linaje de sangre con filiación bautismal.
+- **Woke**: confundir identidad subjetiva (género, deseo, narrativa) con la dignidad ontológica recibida de Dios.
 
-> Studiositas est virtus per quam aliquis moderate ad scientiam ordinatur; curiositas autem est vitium, cum aliquis inordinate ad scientiam tendit
+#### Categoría desplazada
 
-:::{.quote-author}
-— STh II-II, q.167, a.1
-:::
+- **Gnóstico**: el sacramento reducido a símbolo de arcano interior.
+- **Identitario**: los sacramentos sustituidos por “ritos culturales” (bandera, lengua, sangre).
+- **Woke**: la liturgia desplazada por “rituales seculares” (protesta, banderas arcoíris, performances).
 
-La primera abre a la verdad con humildad; la segunda dispersa en novedades, memes y símbolos oscuros.
+#### Totalización política
+
+- **Gnóstico**: absorción del orden civil en un régimen sacralista-esotérico.
+- **Identitario**: absorción de la fe en el proyecto nacional-racial.
+- **Woke**: absorción de lo humano en la ingeniería social y la política de identidad.
+
+#### Sincretismo solapado
+
+- **Gnóstico**: Padres y Doctores de la Iglesia y heterodoxos en un mismo plano.
+- **Identitario**: santos y cruzadas mezclados con Evola o supremacismo.
+- **Woke**: Evangelio yuxtapuesto con feminismo radical, queer theory o activismo climático.
+
+#### Analogía inflacionada
+
+- **Gnóstico**: "luz", "emanación", "Uno" usados sin distinción.
+- **Identitario**: "cruzada", "cristiandad", "hispanidad", "comunión" aplicados a tribus y partidos.
+- **Woke**: "inclusión", "amor", "justicia" aplicados a agendas ideológicas sin referencia a la gracia.
+
+#### Estética como coartada
+
+- **Gnóstico**: citas latinas y estética medieval junto a símbolos arcanos.
+- **Identitario**: iconografía histórica, banderas y memes guerreros.
+- **Woke**: iconografía de colores, slogans, hashtags y performances militantes.
+
+#### Ausencia de magisterio
+
+- **Gnóstico**: nunca citan Trento ni el Catecismo.
+- **Identitario**: nunca citan Mit Brennender Sorge ni las condenas al racismo.
+- **Woke** nunca citan la doctrina sobre familia, matrimonio o moral sexual.
+
+#### Confundir debate con doctrina definida
+
+- **Gnóstico**: presentar como abierto lo ya definido (unicidad de Cristo).
+- **Identitario**: presentar la inmigración o la mezcla de pueblos como cuestión dogmática.
+- **Woke**: presentar el género o la autodeterminación como derechos absolutos.
+
+#### Continuidad doctrinal parcial
+
+- **Gnóstico**: seleccionar místicos y omitir la rectificación magisterial.
+- **Identitario**: glorificar Reconquista/imperio sin horizonte católico-universal.
+- **Woke**: citar a Jesús como "inclusivo" omitiendo su palabra sobre cruz, pecado y conversión.
+
+#### Enganche pseudointelectual
+
+- **Gnóstico**: disputas esotéricas complejas disfrazadas de escolástica.
+- **Identitario**: revisionismo histórico y épica tribal.
+- **Woke**: papers de _cultural studies_ presentados como ciencia dura.
+
+#### Ironía blindada
+
+- **Gnóstico**: todo reducido a estética o juego erudito.
+- **Identitario**: todo reducido a broma racial o sarcasmo tribal.
+- **Woke**: todo blindado por lenguaje inclusivo o acusación de opresor.
+
+#### Disonancia cognitiva
+
+- **Gnóstico**: santos junto a esoterismo.
+- **Identitario**: rosarios junto a supremacismo o paganismo.
+- **Woke**: caridad social junto a aborto e ideología de género.
 
 ### Criterios de discernimiento
 
@@ -498,12 +574,14 @@ El cristiano debe recordar algunos principios básicos para no caer en estas red
 
 - **El centro no es el símbolo, sino el sacramento**. **Cristo** está realmente presente en la Eucaristía, no en memes o signos ocultos.
 - **La fe es pública, no secreta**. No hay claves reservadas para unos pocos: todo lo necesario para la salvación ya ha sido revelado en **Cristo** y transmitido por la Iglesia.
-- **La tradición se vive en obediencia, no en tribus digitales**. La comunión de los santos es real y sacramental, no una iniciación tribal en un grupo de suscriptores a un canal. Las tribus digitales son simulacros de comunión; la Iglesia visible es la única garantía de la catolicidad.
+- **La tradición se vive en obediencia, no en tribus digitales**. La comunión de los santos es real y sacramental, no una iniciación tribal en un grupo de suscriptores a un canal o a un _hashtag_. Las tribus digitales son simulacros de comunión; la Iglesia visible es la única garantía de la catolicidad.
 - **El camino seguro es siempre el de los pobres en espíritu**: "porque de ellos es el Reino de los Cielos" (Mt 5,3). Quien ama a María, ora sincera y confiadamente al Dios Uno y Trino y recibe los sacramentos con frecuencia, no se condenará. Basta con eso.
-- **Lo que es legítimo para un estudiante de filosofía es innecesario** y peligroso para el fiel común. No todos tienen la vocación ni la preparación para estudiar a **Proclo**, **Böhme** o **Evola**; para la gran mayoría basta y sobra con el Catecismo, el Magisterio, los Padres y Doctores de la Iglesia, que transmiten la sabiduría sin riesgo de desviación.
+- **Lo que es legítimo para un estudiante de Filosofía es innecesario** y peligroso para el fiel común. No todos tienen la vocación ni la preparación para estudiar a **Proclo**, **Böhme** o **Evola**; para la gran mayoría basta y sobra con el Catecismo, el Magisterio, los Padres y Doctores de la Iglesia, que transmiten la sabiduría sin riesgo de desviación.
 - **El creyente puede y debe estudiar**, pero no puede admitir una hermenéutica que disuelva la Resurrección en mito. Ahí está la frontera. Porque _"vana sería nuestra predicación, vana también vuestra fe"_ (1 Cor 15,14).
 - **Una afición nunca debe desplazar ni el estudio ni la oración**. Porque lo último que quiere el demonio es que recemos las Completas… y lo primero que quiere es que nos quedemos viendo un capítulo más de **One Piece**  
   ٩(◕‿◕)۶ (凸ಠ益ಠ)凸
+
+Estos criterios no son un añadido opcional, sino la brújula que nos preserva en la Tradición viva. Porque la batalla de hoy no se libra solo en la calle o en las urnas, sino en el imaginario digital donde la fe puede diluirse en símbolos huecos o brillar con la claridad de Cristo.
 
 :::{.important}
 Lo que hemos visto en estas cuentas es sólo un ejemplo: la lógica de la gnosis digital afecta a todo nivel de cultura visual. No sólo a otakus o tradis de la generación Z; también a boomers que leen prensa católica, a jóvenes con TikTok devocional, e incluso a ambientes académicos que confunden erudición con fe.  
