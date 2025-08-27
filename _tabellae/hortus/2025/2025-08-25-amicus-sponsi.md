@@ -6,18 +6,18 @@ date: 2025-08-25
 monastic_date: VIII Kalendas Septembris, Luna I
 ---
 
-> Qui habet sponsam, sponsus est: amicus autem sponsi, qui stat, et audit eum, gaudio gaudet propter vocem sponsi. Hoc ergo gaudium meum impletum est.
-
-:::{.quote-author}
-— Jn 3,29
-:::
-
-Hay almas a quienes el Señor concede arder en amores como mies encendida. Otras son llamadas a secarse al sol del mediodía, como tierra cuarteada que aguarda la lluvia. Pero sobre ambas resplandece la gracia. La acedia no está en no sentir, sino en cerrar el corazón al don que siempre se nos ofrece. Como el joven rico que, llamado a la Vida, se volvió hacia la tristeza.
-
 > Sitivit anima mea ad Deum vivum: quando veniam et apparebo ante faciem Dei?
 
 :::{.quote-author}
 — Sal 41, 3
+:::
+
+Hay almas a quienes el Señor concede arder en amores como mies encendida. Otras son llamadas a secarse al sol del mediodía, como tierra cuarteada que aguarda la lluvia. Pero sobre ambas resplandece la gracia. La acedia no está en no sentir, sino en cerrar el corazón al don que siempre se nos ofrece. Como el joven rico que, llamado a la Vida, se volvió hacia la tristeza.
+
+> Qui habet sponsam, sponsus est: amicus autem sponsi, qui stat, et audit eum, gaudio gaudet propter vocem sponsi. Hoc ergo gaudium meum impletum est.
+
+:::{.quote-author}
+— Jn 3,29
 :::
 
 El laico -padre, artesano, jornalero- no necesita perseguir afectos que no le son dados. Su camino es otro: ser _amicus Sponsi_, amigo fiel como el Bautista, que no buscó nada para sí, sino que se alegró en la voz del Esposo. Amigo que no huye de Getsemaní, ni abandona la Cruz, aunque tiemble su carne. No amante extático, sino compañero constante, dispuesto a vivir y morir por su Señor y Rey. A quien todo le debe.
