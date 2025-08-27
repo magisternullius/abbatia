@@ -12,7 +12,7 @@ monastic_date: VIII Kalendas Septembris, Luna I
 — Jn 3,29
 :::
 
-Hay almas a quienes el Señor concede arder en amores como mies encendida. Otras son llamadas a secarse al sol, como tierra cuarteada que aguarda la lluvia. Pero sobre ambas resplandece la gracia. La acedia no está en no sentir, sino en cerrar el corazón al don que siempre llega.
+Hay almas a quienes el Señor concede arder en amores como mies encendida. Otras son llamadas a secarse al sol del mediodía, como tierra cuarteada que aguarda la lluvia. Pero sobre ambas resplandece la gracia. La acedia no está en no sentir, sino en cerrar el corazón al don que siempre llega.
 
 > Sitivit anima mea ad Deum vivum: quando veniam et apparebo ante faciem Dei?
 
