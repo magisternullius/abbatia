@@ -343,7 +343,7 @@ Y aquí resuena la **advertencia profética de Benedicto XVI**[^20] (2009): el c
 El malestar del mundo moderno no se resuelve con una estética reaccionaria ni con una tribu digital, sino con la gracia de Cristo y la vida de la Iglesia. Todo lo demás son causas segundas, y absolutizarlas es idolatría.
 :::
 
-## Epílogo: más allá de las waifus
+## Epílogo: más allá del meme
 
 No es la primera vez que la gnosis se disfraza de sabiduría y seduce a incautos. San Ireneo ya la combatió en el siglo II, Santo Tomás la desarmó en el XIII, y la Iglesia ha sabido siempre reconocer al viejo enemigo bajo nuevos ropajes.
 
