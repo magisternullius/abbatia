@@ -239,9 +239,13 @@ El **ciber-tomismo** ofrece aquí la clave: la Encarnación rompe la cadena de s
 
 La presentación es clave. Estas cuentas no son meros perfiles anónimos, sino personajes ficticios cuidadosamente diseñados para seducir y fidelizar. Se trata de una **teatralización continua**: avatares estilizados, bios cargadas de mística ("esperando el paraíso", "enamorado de la Verdad eterna"), referencias culturales calculadas. **La máscara digital no es accidental: es la condición misma del discurso**.
 
-En la tradición cristiana, la liturgia oculta al hombre y deja hablar a la Iglesia, con el sacerdote como _alter Christus_. Aquí sucede lo contrario: **la máscara digital amplifica el yo y lo multiplica, generando una ilusión de autoridad**. El avatar no refleja la persona, sino la inviste de una auctoritas artificial.
+En la tradición cristiana, la liturgia oculta al hombre y deja hablar a la Iglesia, con el sacerdote como _alter Christus_. Aquí sucede lo contrario: **la máscara digital amplifica el yo y lo multiplica, generando una ilusión de autoridad**. La imagen del perfil no refleja la persona, sino la inviste de una auctoritas artificial.
 
-Los avatares de la animación japonesa -waifus de expresiones inocentes o heroínas estilizadas, husbandos sensibles y valientes- operan como anzuelo estético. Su dulzura suaviza la crudeza del contenido _fringe_: en un mismo _timeline_ se yuxtaponen vidas de santos, reflexiones sobre la Eucaristía, citas eruditas y **shitposting** sobre el Real Madrid. Esta alternancia genera un ritmo adictivo, una **dialéctica entre alta cultura y cultura basura que se percibe como autenticidad juvenil, cuando en realidad es cálculo teatralizado**.
+Los avatares de la animación japonesa -waifus de expresiones inocentes, heroínas estilizadas, héroes sensibles y valientes- funcionan como anzuelo estético. Su dulzura suaviza la crudeza del contenido fringe: en un mismo timeline se yuxtaponen vidas de santos, reflexiones sobre la Eucaristía, citas eruditas, shitposting sobre el Real Madrid, e incluso iconografía de carácter totalitario. Lo mismo aparecen templarios estetizados en clave fascista, bustos de César o Augusto usados como memes de autoridad, imágenes de soldados de la Wehrmacht retocadas con filtros synth-wave, o referencias a la rana Pepe transformada en soldado de los Tercios Viejos. **Esta amalgama construye un collage visual que alterna devoción, ironía y propaganda velada, produciendo un ritmo adictivo y seductor**.
+
+:::{.important}
+Una dialéctica entre alta cultura, cultura basura y estética radical que se percibe como autenticidad de la generación Z, cuando en realidad responde a un cálculo teatralizado.
+:::
 
 Así, **la estética compartida no eleva la mirada hacia lo real, sino que la sustituye por un simulacro límbico auto-referencial**, fabricado para activar el deseo y fidelizar la atención. Se pierde la apertura al ser, quedando el alma encerrada en un bucle de imágenes que se consumen a sí mismas.
 
