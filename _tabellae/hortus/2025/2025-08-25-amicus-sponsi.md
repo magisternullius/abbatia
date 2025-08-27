@@ -12,7 +12,7 @@ monastic_date: VIII Kalendas Septembris, Luna I
 — Jn 3,29
 :::
 
-Hay almas a quienes el Señor concede arder en amores como mies encendida. Otras son llamadas a secarse al sol del mediodía, como tierra cuarteada que aguarda la lluvia. Pero sobre ambas resplandece la gracia. La acedia no está en no sentir, sino en cerrar el corazón al don que siempre llega.
+Hay almas a quienes el Señor concede arder en amores como mies encendida. Otras son llamadas a secarse al sol del mediodía, como tierra cuarteada que aguarda la lluvia. Pero sobre ambas resplandece la gracia. La acedia no está en no sentir, sino en cerrar el corazón al don que siempre se nos ofrece. Como el joven rico que, llamado a la Vida, se volvió hacia la tristeza.
 
 > Sitivit anima mea ad Deum vivum: quando veniam et apparebo ante faciem Dei?
 
@@ -29,14 +29,22 @@ El laico -padre, artesano, jornalero- no necesita perseguir afectos que no le so
 — Jn 15, 14-15
 :::
 
-Ser _amicus Sponsi_ es una santidad humilde y viril: no consiste en arrebatos, sino en la perseverancia silenciosa. Es cuidar la viña al caer la tarde, no dejar solo al Señor en el campo de este mundo, seguirlo como discípulo y como soldado. Morir con Él, por Él y para Él cuando llegue la hora. Pero sobre todo vivir cada día desde su gracia: aceptar ser nada para que Jesucristo lo sea todo; esperar sin sentir, creer sin ver. Sólo entonces la amistad se vuelve pura, porque ya no descansa en nosotros, sino en la fidelidad inquebrantable del Esposo.
+Ser _amicus Sponsi_ es una santidad humilde y viril: no consiste en arrebatos, sino en la perseverancia silenciosa. Es cuidar la viña al caer la tarde, no dejar solo al Señor en el campo de este mundo, seguirlo como discípulo y como soldado. Morir con Él, por Él y para Él cuando llegue la hora. Pero sobre todo vivir cada esfuerzo y cada alegría desde su gracia: aceptar ser nada para que Jesucristo lo sea todo; esperar sin sentir, creer sin ver. Sólo entonces la amistad se vuelve pura, porque ya no descansa en nosotros, sino en la fidelidad inquebrantable del Esposo.
 
 Participar de esta amistad es compartir también su sed. En la Cruz, el Esposo clamó: _"Sitio"_ (Jn 19,28). Esa sed no era sólo física, sino deseo ardiente de nuestra salvación. El _amicus Sponsi_ se deja herir por esa misma sed: ansiar que Cristo reine, que su Corazón sea amado, que ninguna hora pase sin velar junto a Él. No es un enamoramiento, sino la comunión profunda con el Corazón traspasado, donde el amor se hace fidelidad, sacrificio y espera perseverante.
 
-> Et cum aurora surrexerit, inveniat me Dominus vigilante.
+Esta sed no se colmará del todo en la tierra; sólo en la aurora sin ocaso, cuando el Amigo vea al Esposo cara a cara, se apagará el ardor y se cumplirá la promesa:
+
+>Ego sitienti dabo de fonte aquae vivae gratis
+
+:::{.quote-author}
+— Ap 21,6
+:::
+
+![Amic Amat](/instrumenta/imagines/amic-amat.png)
+
+>Et cum aurora surrexerit, inveniat me Dominus vigilante.
 
 :::{.quote-author}
 — Magister Nullo
 :::
-
-![Amic Amat](/instrumenta/imagines/amic-amat.png)
