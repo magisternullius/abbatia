@@ -138,7 +138,7 @@ El mecanismo, por tanto, no es accidental. Parasita y transforma la realidad por
 
 ## III. La Deriva: el regreso de la anti-modernidad
 
-Bajo la apariencia de **crítica cultural y resistencia a la modernidad**, se abre paso hoy un discurso que reinterpreta lo espiritual en clave ajena al cristianismo. La etiqueta de “nobleza de espíritu”, reciclada desde **Julius Evola** y difundida desde redes sociales y medios digitales, funciona como antítesis del caballero cristiano medieval: no es servicio ni sacrificio, sino **afirmación de una jerarquía esotérica, racial o simbólica**.
+Bajo la apariencia de **crítica cultural y resistencia a la modernidad**, se abre paso hoy un discurso que reinterpreta lo espiritual en clave ajena al cristianismo. La etiquetas de "nobleza de espíritu" o "estoicismo" son difundidas desde redes sociales y medios digitales. Funcionan como antítesis del caballero cristiano medieval: no es servicio ni sacrificio, sino **afirmación de una jerarquía esotérica, racial o simbólica**.
 
 Estos círculos construyen un imaginario de anti-modernidad que **seduce al católico tradicional por contraste**: frente al mundo líquido, ofrecen orden; frente al igualitarismo, hablan de jerarquía; frente al consumo, invocan ascetismo estético. Pero al mirar de cerca, los fundamentos revelan otra raíz: gnosis perennialista, concepción elitista del alma, rechazo del universalismo cristiano.
 
