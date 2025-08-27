@@ -261,7 +261,7 @@ Desde una mirada ciber-tomista, **este mecanismo reproduce la lógica de la soph
 
 Se trata de lo que **Guy Debord** (1931-1994) llamó la sociedad del espectáculo: la forma misma, al volverse espectáculo, anula la verdad de lo dicho y lo convierte en una puesta en escena. Todo ello puede estar potenciado por herramientas de inteligencia artificial, capaces de generar hilos densos y aparentemente orgánicos.
 
-El resultado es un flujo constante de contenido que imita la voz de un erudito o la del guerrero cultural, pero que en realidad responde a la lógica del simulacro: atraer, retener y desplazar el marco doctrinal hacia narrativas híbridas -ya sean esotéricas o identitarias- donde lo cristiano queda reducido a simple ropaje simbólico.
+**El identitarismo no es simplemente política, sino un esoterismo en clave tribal**. Su dinámica es la misma que la del perennialismo: ofrecer una clave secreta que sustituye a la revelación pública. Donde el perennialista promete acceso a la Tradición primordial, el identitario promete acceso al mito de sangre, tierra y raza; en ambos casos, lo cristiano queda reducido a un ropaje simbólico. La fe ya no se vive como gracia sacramental, sino como pertenencia a un círculo de iniciados que descifran símbolos -ya sean cruces templarias estetizadas, mapas genéticos o revisionismos históricos- que otorgan identidad y sentido de misión. Se trata, por tanto, de una gnosis política, donde la salvación no pasa por la cruz, sino por el mito.
 
 Aquí el ciber-tomismo debe advertir: **la verdad no se transmite por acumulación de signos, sino por la gracia de la Palabra revelada**. Cuando la lógica del algoritmo sustituye la lógica de la Verdad, la forma devora el fondo.
 
