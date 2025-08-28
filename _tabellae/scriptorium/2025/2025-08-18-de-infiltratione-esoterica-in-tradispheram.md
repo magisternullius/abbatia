@@ -125,7 +125,7 @@ El resultado es un catolicismo diluido en la batidora cultural del capitalismo t
 
 - **Memética** que normaliza una estética totalitaria disfrazada de ironía.
 - **Discusiones** que introducen un racialismo contrario al dogma de la universalidad de la salvación.
-- La **crítica a partidos políticos** de la derecha liberal conservadora o identitaria como tibios prepara el terreno para una alternativa donde la fe queda subsumida en la geopolítica y se convierte en un mero barniz espiritual de **proyectos de poder**. La Tradición ya no se entiende como depósito revelado y custodiado por la Iglesia, sino como un **arsenal simbólico al servicio de una cruzada civilizatoria**.
+- La **crítica a partidos políticos** de la derecha liberal conservadora o identitaria como tibios prepara el terreno para una alternativa post-cristiana donde la fe queda subsumida en la geopolítica y se convierte en un mero barniz espiritual de **proyectos de poder**. La Tradición ya no se entiende como depósito revelado y custodiado por la Iglesia, sino como un **arsenal simbólico al servicio de una cruzada civilizatoria**.
 
 El mecanismo, por tanto, no es accidental. Parasita y transforma la realidad porque:
 
@@ -311,7 +311,7 @@ Bajo estas mismas coordenadas, incluso un autor profundamente cristiano como **J
 
 El **martinismo soterrado** actúa como pegamento: un **retorno a lo oculto** (iniciación, jerarquías arcanas, metafísica secreta) disfrazado de tradición vigorosa, que allana el terreno para un sincretismo pagano. Con aparente fidelidad a un discurso filosófico dizque católico, se normalizan categorías contrarias a la fe: destino cíclico frente a providencia, raza frente a filiación bautismal, fuerza frente a gracia. **El objetivo final no es otro que erosionar la ortodoxia católica**, empujando a conversos y jóvenes practicantes hacia un tradicionalismo anti-católico que justifique extremismos políticos (jerarquías raciales, anti-occidentalismo, paganismo redivivo).
 
-En España -con su memoria de imperio católico generador (s XVI), nacional-catolicismo (s XX) y crisis del régimen de 1978- esta deriva puede incubar una nueva _derecha woke_ que, lejos de la catolicidad del **Reinado Social de Cristo**, se inspire en **Dugin** o **Evola** para **construir una falsa España Eterna opuesta a la modernidad, pero también a Roma**. Es un proyecto de sustitución: cambiar la Tradición por un sucedáneo gnóstico, **la Cruz por el mito, la fe en Cristo por la épica de un paganismo reinventado**.
+En España -con su memoria de imperio católico generador (s XVI), nacional-catolicismo (s XX) y crisis del régimen de 1978- esta deriva puede incubar una nueva _derecha post-cristiana_ que, lejos de la catolicidad del **Reinado Social de Cristo**, se inspire en **Dugin** o **Evola** para **construir una falsa España Eterna opuesta a la modernidad, pero también a Roma**. Es un proyecto de sustitución: cambiar la Tradición por un sucedáneo gnóstico, **la Cruz por el mito, la fe en Cristo por la épica de un paganismo reinventado**.
 
 :::{.important}
 El Ordo Amoris se sustituye por la pertenencia de sangre.  
@@ -335,7 +335,7 @@ el **Reinado Social de Cristo**, que devuelve al hombre y a los pueblos
 su lugar en la historia de la salvación.
 :::
 
-**No se trata de conspiración, sino de un patrón observable en la nueva derecha tribal**: el _TradCath_ como puerta de entrada, **el anime o cualquier otro código compartido** como gancho cultural, y el perennialismo o el identitarismo como puentes a sistemas de pensamiento que la Iglesia ha condenado repetidamente. El peligro pastoral es evidente: lo que empieza como una búsqueda legítima de firmeza doctrinal acaba en una traición silenciosa a la única roca que permanece, que es **Cristo y su Iglesia**.
+**No se trata de conspiración, sino de un patrón observable en la nueva derecha tribal post-cristiana**: el _TradCath_ como puerta de entrada, **el anime o cualquier otro código compartido** como gancho cultural, y el perennialismo o el identitarismo como puentes a sistemas de pensamiento que la Iglesia ha condenado repetidamente. El peligro pastoral es evidente: lo que empieza como una búsqueda legítima de firmeza doctrinal acaba en una traición silenciosa a la única roca que permanece, que es **Cristo y su Iglesia**.
 
 Y aquí resuena la **advertencia profética de Benedicto XVI**[^20] (2009): el continente digital, ese _sexto continente_ que hoy habitan millones de jóvenes, no es neutro. **Se convierte en campo de misión o en terreno de manipulación**. Estas cuentas no representan simplemente una disputa entre _la Misa de siempre_ y el _Novus Ordo_ -como muchos ingenuamente creen-, sino algo mucho más sibilino y pérfido: **una infiltración cultural que pretende desgajar al catolicismo de Roma para injertarlo en proyectos ideológicos y gnósticos** que, bajo la apariencia de tradición, **buscan en realidad vaciar la fe desde dentro**.
 
