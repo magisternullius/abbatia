@@ -112,7 +112,7 @@ Este giro es precisamente lo que condenaron los papas en diversas formas:
 - **León XIII**, al denunciar el americanismo[^4] que buscaba diluir el catolicismo en una ética religiosa común.
 - **Pío XI**, en Mit Brennender Sorge[^5], al condenar las ideologías raciales y neopaganas que hoy son recicladas con estética de memes.
 - **Pío XII**, en Humani Generis[^a], donde se advierte contra el sincretismo filosófico y el desprecio de la metafísica.
-- **Card. Ratzinger (CDF)**: Dominus Iesus[^b], que condena explícitamente la relativización de Cristo como un símbolo, entre otras desviaciones.
+- **Card. Joseph Ratzinger**: Dominus Iesus[^b], que condena explícitamente la relativización de Cristo como un símbolo, entre otras desviaciones.
 
 Bajo esta lógica, las cuentas que analizamos introducen un doble nivel de lectura:
 
