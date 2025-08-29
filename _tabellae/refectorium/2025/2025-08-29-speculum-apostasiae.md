@@ -83,7 +83,7 @@ Y en plena continuidad, el Concilio Vaticano II enseñó en Ad Gentes[^ag] (2): 
 
 En una de las luces de su pontificado, Pablo VI nos exhorta a construir la _"civilización del amor"_ [^pviamor], pero no como consigna sociológica, sino como cumplimiento del mandamiento supremo: _"En esto conocerán todos que sois mis discípulos, si os amáis los unos a los otros"_ (Jn 13,35). Esa civilización no es ideología nueva, sino pura vida evangélica que ordena la sociedad según la caridad, la justicia y el ordo amoris.
 
-Por tanto, evangelizar inmigrantes -católicos tibios, apóstatas, evangélicos, musulmanes o gentes sin fe- no es proselitismo anticristiano, como a veces se dice, sino la expresión más fiel de nuestra identidad. Negarles el anuncio sería caer en la cultura del descarte, privándolos del don mayor: Cristo mismo.
+Por tanto, evangelizar inmigrantes, católicos tibios, apóstatas, evangélicos, musulmanes o gentes sin fe; no es proselitismo anticristiano, como a veces se dice, sino la expresión más fiel de nuestra identidad. Negarles el anuncio sería caer en la cultura del descarte, privándolos del don mayor: Cristo mismo.
 
 ## ✠ Conclusio
 
