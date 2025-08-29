@@ -85,7 +85,7 @@ En una de las luces de su pontificado, Pablo VI nos exhorta a construir la _"civ
 
 Por tanto, evangelizar inmigrantes, católicos tibios, apóstatas, evangélicos, musulmanes o gentes sin fe; no es proselitismo anticristiano, como a veces se dice, sino la expresión más fiel de nuestra identidad. Negarles el anuncio sería caer en la cultura del descarte, privándolos del don mayor: Cristo mismo.
 
-## ✠ Conclusio
+## ✠ Glossa prophetica
 
 La Hispanidad es hoy espejo de nuestras corrupciones. No será salvada por fronteras de hierro ni posts _basados_, sino por la conversión del corazón.
 
