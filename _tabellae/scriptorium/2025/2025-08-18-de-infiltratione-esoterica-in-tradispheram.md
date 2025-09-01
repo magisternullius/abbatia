@@ -49,7 +49,7 @@ Desde hace unos años, **en X proliferan cuentas que entremezclan catolicismo, p
 
 A primera vista, la afirmación de que lo visible remite a lo invisible es auténticamente católica (CEC 1131). Sin embargo, expresiones como "secretos recibidos en el alma" o "solo una sombra de lo recibido" **evocan un esoterismo elitista, como si hubiera doctrinas ocultas más allá de la Revelación pública**.
 
-Más grave aún: llamar a la Eucaristía únicamente "signo de un cuerpo y sangre realmente ahí" deja en la penumbra la doctrina tridentina: **Cristo está presente real, verdadera y substancialmente** (DS 1651). Dicho lenguaje se presta a entender que el pan visible solo significa a Cristo, en lugar de ser sustancialmente transformado en Él. Es la misma ambigüedad que encontramos en **Lutero** ("in, cum et sub pane"), en **Zwinglio** (mera figura) o en teologías modernas que diluyen el dogma.
+Más grave aún: llamar a la Eucaristía únicamente "signo de un cuerpo y sangre realmente ahí" deja en la penumbra la doctrina tridentina: **Cristo está presente real, verdadera y substancialmente** (DS 1651). Dicho lenguaje se presta a entender que el pan visible solo significa a Cristo, en lugar de ser sustancialmente transformado en Él. Es la misma ambigüedad que encontramos en **Berengario** ("mystice non realiter"), **Lutero** ("in, cum et sub pane"), **Zwinglio** ("mera figura") o en teologías modernas que diluyen el dogma.
 
 :::{.important}
 El sacramento es "signo de la cosa sagrada, en cuanto que santifica al hombre" (STh III q.60 a.2)  
