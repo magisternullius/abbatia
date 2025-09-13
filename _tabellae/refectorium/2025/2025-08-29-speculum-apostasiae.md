@@ -83,7 +83,16 @@ Y en plena continuidad, el Concilio Vaticano II enseñó en Ad Gentes[^ag] (2): 
 
 En una de las luces de su pontificado, Pablo VI nos exhorta a construir la _"civilización del amor"_ [^pviamor], pero no como consigna sociológica, sino como cumplimiento del mandamiento supremo: _"En esto conocerán todos que sois mis discípulos, si os amáis los unos a los otros"_ (Jn 13,35). Esa civilización no es ideología nueva, sino pura vida evangélica que ordena la sociedad según la caridad, la justicia y el ordo amoris.
 
-Por tanto, evangelizar inmigrantes, católicos tibios, apóstatas, evangélicos, musulmanes o gentes sin fe; no es proselitismo anticristiano, como a veces se dice, sino la expresión más fiel de nuestra identidad. Negarles el anuncio sería caer en la cultura del descarte, privándolos del don mayor: Cristo mismo.
+Esta expresión parece haber querido integrar el anhelo tradicional del Reinado Social de Cristo y del triunfo de su Sagrado Corazón, tan viva en el magisterio preconciliar. Lejos de contradecirlas, la "civilización del amor" puede entenderse como una forma catequética de expresar, en términos accesibles al hombre moderno, la misma doctrina que enseñaron León XIII (_Annum Sacrum_, 1899)[^annumsacrum] y Pío XI (_Quas Primas_, 1925)[^quasprimas]: que la sociedad entera ha de reconocer la soberanía de Jesucristo, principio de unidad, de paz y de verdadera libertad.
+
+> Por tanto, a todos los hombres se extiende el dominio de nuestro Redentor, como lo afirman estas palabras de nuestro predecesor, de feliz memoria, León XIII, las cuales hacemos con gusto nuestras:  
+> "El imperio de Cristo se extiende no sólo sobre los pueblos católicos y sobre aquellos que habiendo recibido el bautismo pertenecen de derecho a la Iglesia, aunque el error los tenga extraviados o el cisma los separe de la caridad, sino que comprende también a cuantos no participan de la fe cristiana, de suerte que bajo la potestad de Jesús se halla todo el género humano".
+
+:::{.quote-author}
+— Quas Primas, n. 15
+:::
+
+Por tanto, evangelizar inmigrantes, católicos tibios, apóstatas, evangélicos, musulmanes o gentes sin fe; no es proselitismo anticristiano, como a veces se dice, sino la expresión más fiel de nuestra identidad bautismal. Negarles el anuncio sería, en cambio, caer en la verdadera _cultura del descarte_, privándolos del don mayor: Cristo mismo.
 
 ## ✠ Glossa prophetica
 
@@ -181,3 +190,5 @@ Pero aun en medio del juicio, no se apaga la esperanza:
 [^ep]: [Evangelii Praecones](https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones.html) (1951)
 [^ag]: [Ad Gentes](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_sp.html) (1965)
 [^pviamor]: [Pablo VI y la civilización del amor](https://www.fpablovi.org/miradas-sobre-pablo-vi/889-pablo-vi-y-la-civilizacion-del-amor). Esto nos lo recordó también San Juan Pablo II en la [Audiencia General del 15 de diciembre de 1999](https://www.vatican.va/content/john-paul-ii/es/audiences/1999/documents/hf_jp-ii_aud_15121999.html).
+[^annumsacrum]: [Annum Sacrum](https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_25051899_annum-sacrum.html) (León XIII, 1899)
+[^quasprimas]: [Quas Primas](https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html) (Pío XI, 1925)
