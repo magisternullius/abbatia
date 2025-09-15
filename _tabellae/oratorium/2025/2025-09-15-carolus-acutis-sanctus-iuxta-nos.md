@@ -6,7 +6,7 @@ date: 2025-09-15
 monastic_date: XVII Kalendas Octobris, Luna XXII
 ---
 
-## El Santo de lo básico
+## El Santo de al lado
 
 De él se dice a menudo que fue un "genio de la informática". La verdad es más sencilla: Carlo era un muchacho curioso, algo _geek_, inquieto. Hizo páginas web, sí, pero no fue un visionario técnico ni un pionero digital. Y quizá ahí está precisamente su grandeza: no hace falta ser un genio para ser santo.
 
