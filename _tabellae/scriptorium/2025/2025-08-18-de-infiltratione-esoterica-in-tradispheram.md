@@ -14,10 +14,10 @@ Utilizando como anzuelo la combinación de teología seria, apologética cristia
 
 ### Sapientia perennis, perennialismo gnóstico y cultura visual
 
-> Con palabras semejantes a las nuestras, introducen veneno mortífero.
+> No es fácil descubrir el error por sí mismo, pues no lo presentan desnudo, ya que entonces se comprendería, sino adornado con una máscara engañosa y persuasiva; a tal punto que, aun cuando sea ridículo decirlo, hacen parecer su discurso más verdadero que la verdad.(…) ellos, mediante sus artes verbales hacen que una pieza de vidrio parezca idéntica a una preciosa esmeralda, hasta que se encuentra alguno que pueda probarlo y delatar que se trata de un artificio fabricado con fraude. Cuando se mezcla bronce con la plata, ¿quién entre la gente sencilla puede probar el engaño?
 
 :::{.quote-author}
-— San Ireneo, Adversus Haereses I,1
+— San Ireneo, Adversus Haereses I, Pr.2
 :::
 
 Conviene distinguir con rigor el uso católico clásico de **sapientia perennis** del llamado **perennialismo gnóstico** de raíz esotérica, también llamado -de manera equívoca y astuta- _tradicionalismo filosófico_. En el magisterio de **León XIII** (Aeterni Patris, 1879)[^c], **la sapientia perennis designa la continuidad de la filosofía verdadera a través de los siglos, que encuentra en Santo Tomás de Aquino su culmen y expresión más pura**; se trata, por tanto, de la filosofía perenne como patrimonio de la razón iluminada por la fe.
@@ -52,7 +52,7 @@ A primera vista, la afirmación de que lo visible remite a lo invisible es auté
 Más grave aún: llamar a la Eucaristía únicamente "signo de un cuerpo y sangre realmente ahí" deja en la penumbra la doctrina tridentina: **Cristo está presente real, verdadera y substancialmente** (DS 1651). Dicho lenguaje se presta a entender que el pan visible solo significa a Cristo, en lugar de ser sustancialmente transformado en Él. Es la misma ambigüedad que encontramos en **Berengario** ("mystice non realiter"), **Lutero** ("in, cum et sub pane"), **Zwinglio** ("mera figura") o en teologías modernas que diluyen el dogma.
 
 :::{.important}
-El sacramento es "signo de la cosa sagrada, en cuanto que santifica al hombre" (STh III q.60 a.2)  
+_"Se llama sacramento lo que es signo de una realidad sagrada que santifica a los hombres"_ (STh III q.60 a.2, resp.)  
 Es decir: no es un signo cualquiera, sino signo _eficaz_, que contiene y causa la gracia.
 :::
 
@@ -68,18 +68,18 @@ El salto resulta brutal: de **Platón** y **Santa Teresita** se pasa sin filtro 
 
 Otro día, te encuentras inmerso en un largo hilo que glosa con aparente neutralidad las conferencias económicas del **Tercer Reich**, citando a **Walther Funk** (1890-1960) y presentando la economía dirigida nazi como si fuera un experimento académico comparable a la **Comunidad Económica Europea**. El tono es descriptivo, incluso pedagógico, pero la mera yuxtaposición con reflexiones espirituales o filosóficas anteriores genera un efecto inquietante: **el apabullado internauta pasa de _sexy waifus_ a la exposición detallada de la propaganda económica nacionalsocialista** sin transición alguna. Es aquí donde se ve con claridad el riesgo de estas cuentas: al no establecer jerarquías, **mezclan devoción y revisionismo, tradición cristiana y totalitarismo, como si todo perteneciera al mismo horizonte cultural**. El resultado es un collage confuso, seductor por lo radical, pero profundamente tóxico en su fondo.
 
-> Quien toma a la raza, o al pueblo, o al Estado, o la forma de Estado, o los depositarios del poder, o cualquier otro valor fundamental de la comunidad humana -ya sea de la categoría más necesaria- y los libra de aquella escala de valores terrenal, aun subordinándolos solamente a la religión, y los diviniza con culto idolátrico, pervierte y falsifica el orden creado y establecido por Dios.
+> Si la raza o el pueblo, si el Estado o una forma determinada del mismo, si los representantes del poder estatal u otros elementos fundamentales de la sociedad humana tienen en el orden natural un puesto esencial y digno de respeto, con todo, quien los arranca de esta escala de valores terrenales elevándolos a suprema norma de todo, aun de los valores religiosos, y, divinizándolos con culto idolátrico, pervierte y falsifica el orden creado e impuesto por Dios, está lejos de la verdadera fe y de una concepción de la vida conforme a ésta.
 
 :::{.quote-author}
-— Pío XI, Mit Brennender Sorge (1937), n.8
+— Pío XI, Mit Brennender Sorge (1937), n.12
 :::
 
 ### De la erudición a la seducción
 
-> La estudiosidad es la virtud por la cual uno se ordena moderadamente hacia el conocimiento; la curiosidad, en cambio, es el vicio por el cual uno tiende desordenadamente hacia el conocimiento.
+> La estudiosidad no dice relación a la misma ciencia, sino al apetito y al interés por adquirirla. (…) El conocimiento de la verdad es esencialmente bueno, pero el deseo de conocer puede ser recto o perverso.
 
 :::{.quote-author}
-— STh II-II, q.167, a.1
+— STh II-II, q.167, a.1, resp.
 :::
 
 Otro de estos personajes de X aparece como un raro híbrido: entre hilos extensos sobre mística medieval se intercala _shitposting_[^2] sobre tropos anime. Lo desconcertante es que, detrás de la estética otaku y del tono ligero, se percibe un autor real, con lecturas amplias y mucha erudición. Cita a autores como **Gershom Scholem**[^f], **Jean Borella** o **Bernard McGinn**, y se mueve con soltura entre el neoplatonismo[^1] y la escolástica franciscana. Su consejo recurrente es claro: antes de leer a un autor de la Tradición Auténtica conviene pasar por determinados filtros no católicos, **casi como si el acceso a la fuente tuviera que estar mediado por un itinerario previo de autores** antiguos y modernos.
@@ -92,10 +92,10 @@ En otro de sus densos hilos, relata su propia _conversión filosófica_, desde e
 
 No se trata de prohibir a nadie el acceso a la filosofía -la Iglesia siempre ha custodiado y transmitido ese tesoro-, sino de recordar que fuera del orden, del maestro y de la obediencia, la afición digital se convierte en curiositas peligrosa. En gula intelectual. No hay vetos arbitrarios, sino la advertencia del buen pedagogo: no todo alimento es para todos los estómagos.
 
-> Los modernistas, para atraer más fácilmente y seducir a los incautos, simulan un amor sincero por la Iglesia, mas en realidad no hay nada que no intenten corromper: filosofía, teología, historia, todo está contaminado con sus errores.
+>(…) Y mientras persiguen por mil caminos su nefasto designio, su táctica es la más insidiosa y pérfida. Amalgamando en sus personas al racionalista y al católico, lo hacen con habilidad tan refinada, que fácilmente sorprenden a los incautos.
 
 :::{.quote-author}
-— San Pío X, Pascendi Dominici Gregis (1907), n.3
+— San Pío X, Pascendi Dominici Gregis (1907), n.2
 :::
 
 ## II. El Fondo: ideas fringe que diluyen la ortodoxia católica
@@ -190,7 +190,7 @@ El estoico soporta; el santo ofrece. El uno se endurece; el otro se entrega. Ah�
 La tradición católica va más allá. La nobleza última del hombre no se funda en linaje humano ni en aristocracia moral, sino en la dignidad bautismal. Tampoco somos hidalgos _fijos d'algo terreno_, sino hijos de Dios:
 
 - "Ved qué amor nos ha mostrado el Padre en que **seamos llamados hijos de Dios**; y lo somos" (1 Jn 3,1).
-- Para **Santo Tomás**, la gracia eleva la naturaleza y nos hace **partícipes de la vida divina** (STh I-II q. 110 a. 2).
+- Para Santo Tomás, **la gracia eleva la naturaleza** (STh I-II, q.110, a.2) **y nos hace partícipes de la naturaleza divina** (STh I-II, q.110, a.3).
 - **Benedicto XVI** lo expresó así: la verdadera nobleza del hombre es **ser criatura amada y redimida por Dios, llamada a la santidad**[^13].
 
 Aquí se cumple el ideal caballeresco medieval: **el miles Christi combate, no por orgullo de sangre ni por gnosis de iniciados, sino por fidelidad a su Rey Eterno**. Así, la verdadera nobleza es la caridad como forma de las virtudes (STh II-II q.23 a.8).
@@ -369,10 +369,10 @@ Incluso se intentó legitimar estas corrientes desde Roma: **Frithjof Schuon** (
 
 Lo que hoy aparece en clave iconografía digital no es más que una nueva copa para ese mismo veneno: **ayer bajo el nombre de martinismo, guenonismo o _arte sacro universal_, hoy bajo la estética digital**. Cambian las formas, pero la tentación es idéntica: sustituir la Revelación por una supuesta luz escondida; un itinerario de iniciación ocultista para católicos inquietos.
 
-> Ellos intentan mezclar el vino de Dios con el agua de su doctrina
+> Ellos hablan de manera semejante a los fieles; pero entienden las cosas de modo no sólo distinto, sino opuesto;(…) Mezclan perversamente el yeso con la leche de Dios.
 
 :::{.quote-author}
-— San Ireneo, Adversus Haereses III,16,3
+— San Ireneo, Adversus Haereses III,17,4
 :::
 
 En clave de filosofía política, **Voegelin View** dedica tres posts[^n] (2017) a analizar el resurgimiento del pensamiento reaccionario en el siglo XXI, explorando su auge en movimientos como el _alt-right_, el populismo de Brexit y Trump, y la filosofía neorreaccionaria (NRx) de figuras como **Mencius Moldbug** (1973) y **Nick Land** (1962). Estos artículos interpretan el fenómeno como una reacción al caos percibido de la modernidad, utilizando el concepto de _metaxy_[^o] de **Eric Voegelin** (1901-1985) para describir **una cultura atrapada entre el cinismo posmoderno y el anhelo de narrativas grandiosas**, donde el reaccionario busca recuperar un pasado idealizado mediante ideales monárquicos, fascistas o nietzscheanos reinterpretados, rechazando el progresismo y abrazando visiones jerárquicas o post-humanas que reflejan un deseo apocalíptico de reiniciar la historia frente a la revolución social y tecnológica.
@@ -383,20 +383,20 @@ Un fenómeno paralelo, más respetable en su apariencia pero no menos pernicioso
 
 El **Dr. James Tabor** (1946), representante de la exégesis liberal anglosajona, ha sostenido con insistencia la posibilidad de que Jesús fuese fruto de una violación[^h] y que su resurrección no sea más que un mito comunitario elaborado por sectores mesiánicos del judaísmo del siglo I. En esta perspectiva, el cristianismo mismo no sería sino el resultado de la reelaboración teológica de **Saulo de Tarso**, convertido en **Pablo apóstol**, más que el fruto del Misterio Pascual[^i].
 
-> El Jesús de los Evangelios es el Jesús real, el Jesús histórico en el verdadero sentido. Estoy convencido de que precisamente este Jesús -el de los Evangelios- es una figura históricamente sensata y convincente.
+>(…) he intentado presentar al Jesús de los Evangelios como el Jesús real, como el "Jesús histórico" en sentido propio y verdadero.(…) Pienso que precisamente este Jesús -el de los Evangelios- es una figura históricamente sensata y convincente.
 
 :::{.quote-author}
-— Benedicto XVI, Jesús de Nazaret, Introducción (La Esfera de los Libros, 2007)
+— Benedicto XVI, Jesús de Nazaret, Introducción (2007)
 :::
 
 Por su parte, el **Dr. Justin Sledge**, filósofo de impecable formación académica e _influencer_ del esoterismo y las artes ocultas, se ha declarado en uno de sus vídeos[^j]  "admirador del Dr. Tabor". Desde esa clave, ofrece en su canal -que ronda el millón de suscriptores- una lectura abiertamente gnóstica y comparatista de la religión. En sus exposiciones, la fe cristiana aparece situada al mismo nivel que el neoplatonismo, el hermetismo renacentista o la cábala judía[^k].
 
 Su estrategia retórica apela a **una pretendida compasión por el "Jesús fracasado"**: hijo ilegítimo convertido en profeta y _miracle worker_, que habría seguido a **Juan Bautista** como maestro, y asumido el rol de mesías político en clave apocalíptica contra Roma y contra las élites religiosas del Segundo Templo. Finalmente, habría muerto en la cruz como líder derrotado, abandonado por Dios -reinterpretando de manera torticera el grito del Salmo 21: _"Dios mío, Dios mío, ¿por qué me has abandonado?"_. En boca de Sledge, este clamor ya **no es el comienzo de un salmo de esperanza cumplido en Cristo, sino la confesión amarga de un fracaso definitivo**.
 
-> El Señor no clama en vano estas palabras: no expresan desesperación, sino que introducen todo el salmo, el cual concluye con la certeza de la victoria y la alabanza. Quiso así tomar sobre sí nuestra angustia para transformarla en confianza.
+> Del principio de este salmo vienen las palabras que él gritó cuando pendía de la cruz, pues conservaba asimismo el papel del hombre viejo, con cuya condición mortal cargó. (…) Esto haces no para que yo ignore sino, más bien, para que sepa cómo quieres que grite: no con las palabras de los delitos, (…) sino con las palabras de la conversión a ti, para la vida eterna.
 
 :::{.quote-author}
-— San Agustín, Enarrationes in Psalmos 21,1
+— San Agustín, Enarrationes in Psalmos 21,1.3
 :::
 
 Tal perversión del texto bíblico, envuelta en aparente empatía, puede sacudir incluso a creyentes formados, porque **presenta la Cruz no como misterio redentor, sino como prueba de que Dios habría callado y abandonado para siempre a su Hijo**. Bajo esa envoltura compasiva, lo que se ofrece no es veneración del Redentor, sino la reducción de Cristo a un personaje trágico de la historia judía, despojado de la Resurrección y de su divinidad.
@@ -409,17 +409,17 @@ El riesgo pastoral y doctrinal es evidente: **incluso católicos bien formados p
 
 Lo más peligroso de estos discursos no es la blasfemia abierta, sino su envoltura seductora. **El tono ameno, casi _ASMR_[^l], que relaja y atrae, funciona como la danza de la cobra antes de inyectar el veneno**. Así, lo que parece divulgación neutral termina siendo un corrosivo espiritual. No es un recurso nuevo: **el demonio mismo tentó a Cristo en el desierto citando la Escritura** (Mt 4,6), no para confesar la verdad, sino para torcerla. De igual modo, estos discursos disfrazan la duda bajo un barniz de erudición y calma, inoculando la sospecha de que Jesús no es más que uno entre tantos candidatos a Mesías.
 
-> Lo que los apóstoles predicaron en un principio, lo transmitieron después por escrito, por voluntad de Dios, para que fuese fundamento y columna de nuestra fe.
+> Lo que los apóstoles primero predicaron, lo transmitieron luego, por voluntad de Dios, por escrito, para que fuese fundamento y columna de nuestra fe.
 
 :::{.quote-author}
-— San Ireneo, Adversus Haereses III,3,1
+— San Ireneo, Adversus Haereses III,1.1
 :::
 
 ## Apéndice: Summa Finalis
 
 En clave ciber-tomista, puede verse cómo **la red digital actúa como mediación idolátrica**: lo que antaño se ofrecía en secreto, ahora se vehicula en algoritmos que seleccionan, repiten y amplifican imágenes y narrativas hasta fijarlas en el imaginario colectivo. El meme o la estética no son neutrales: constituyen causas segundas que, aunque subordinadas a la libertad del alma, predisponen sus potencias sensibles y afectivas hacia una determinada visión del mundo.
 
-Así, lo que aparece como un simple juego cultural no es sino una gnosis reempaquetada, que aprovecha la hiperrealidad digital para desplazar la fe de su fundamento en el Logos y sumergirla en la fascinación del símbolo flotante. **Esta gnosis puede tomar ropajes distintos: esotérico (sapientia oculta), tribal (sangre y etnia), o progresista (género e identidad autoconstruida)**. En todos los casos, el mecanismo es idéntico: sustituir el orden del amor por un absolutismo ideológico. Frente a este engaño, **el realismo de Santo Tomás recuerda que la verdad no se alcanza por acumulación de imágenes ni por intensificación afectiva, sino por adecuación del intelecto al ser** (STh I, q.16, a.1).
+Así, lo que aparece como un simple juego cultural no es sino una gnosis reempaquetada, que aprovecha la hiperrealidad digital para desplazar la fe de su fundamento en el Logos y sumergirla en la fascinación del símbolo flotante. **Esta gnosis puede tomar ropajes distintos: esotérico (sapientia oculta), tribal (sangre y etnia), o progresista (género e identidad autoconstruida)**. En todos los casos, el mecanismo es idéntico: sustituir el orden del amor por un absolutismo ideológico. Frente a este engaño, el realismo de Santo Tomás recuerda que **la verdad no consiste en la intensidad del sentimiento ni en la proliferación de imágenes, sino en la _adaequatio intellectus et rei_**, la conformidad del entendimiento con el ser (STh I, q.16, a.1).
 
 #### i. Unidad de la verdad (veritas est adaequatio rei et intellectus)
 
