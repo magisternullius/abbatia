@@ -10,7 +10,7 @@ monastic_date: XVII Kalendas Octobris, Luna XXII
 
 De él se dice a menudo que fue un "genio de la informática". La verdad es más sencilla: Carlo era un muchacho curioso, algo _geek_, inquieto. Hizo páginas web, sí, pero no fue un visionario técnico ni un pionero digital. Y quizá ahí está precisamente su grandeza: no hace falta ser un genio para ser santo.
 
-En Carlo descubrimos al santo de lo básico: de la misa diaria, del rosario, de la devoción a la Eucaristía. Su teclado y su pantalla fueron solo instrumentos. Lo esencial estaba en el centro: Cristo realmente presente.
+En Carlo descubrimos al _santo de lo básico_: de la misa diaria, del rosario, de la devoción a la Eucaristía. Su teclado y su pantalla fueron solo instrumentos. Lo esencial estaba en el centro: Cristo realmente presente.
 
 Por eso, Carlo no es solo patrimonio de los jóvenes, sino de todos nosotros que habitamos este vasto claustro llamado Internet. Él nos enseñó a usar la red _ad maiorem Dei gloriam_ y a no quedar atrapados en su espejismo. Carlo es la realidad de la Eucaristía frente a la hiperrealidad de las redes: allí donde todo es reflejo, comentario, espectáculo, él nos devolvió a lo sólido, a lo verdadero, a lo que no pasa.
 
@@ -21,10 +21,6 @@ Muchos se escandalizan de su falta de heroicidad, como si la santidad debiera me
 Es cierto que provenía de familia acomodada, como tantos otros (Tomás de Aquino, Francisco, Luis Gonzaga, Isabel de Hungría…). Y no es secreto que la canonización requiere medios humanos, influencia, apoyo económico. Pero la Providencia se sirve de esas mediaciones para mostrar en cada tiempo los modelos que la Iglesia necesita. La gloria de Carlo no es su familia, ni su canonización rápida, sino que en un mundo de espejismos él eligió lo más humilde y lo más real: la Eucaristía como centro de la vida.
 
 ![Sanctus Carolus Acutis](/instrumenta/imagines/sanctus-carolus-aqutis.png)
-
-:::{.important}
-Un santo sencillo para el resto de nosotros.
-:::
 
 ### ✠ Oratio brevis ad Sanctum Carolum Acutis ✠
 
