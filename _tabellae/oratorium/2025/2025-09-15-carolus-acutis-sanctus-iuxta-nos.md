@@ -27,7 +27,7 @@ Al explorar las ruinas de su página web personal, ya casi perdida, aparece la i
 ### ✠ Oratio brevis ad Sanctum Carolum Acutis ✠
 
 > San Carlo, enséñanos que la Eucaristía y los sacramentos son nuestra única ancla en lo real.  
-> Haz que no nos perdamos en los espejismos de las redes, sino que vivamos de la Presencia de Cristo. 
+> Haz que no nos perdamos en la vanidad de las redes, sino que vivamos de la Presencia de Cristo. 
 >
 > Sancte Carole Acutis, ora pro nobis.
 
