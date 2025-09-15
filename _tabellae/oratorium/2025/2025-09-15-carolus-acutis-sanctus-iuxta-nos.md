@@ -31,10 +31,6 @@ Al explorar las ruinas de su página web personal, ya casi perdida, aparece la i
 >
 > Sancte Carole Acutis, ora pro nobis.
 
-:::{.quote-author}
-— Frater Lucius Scriptor
-:::
-
 ## Post-scriptum: El legado digital de Carlo
 
 La web personal de Carlo Acutis solo sobrevive en un _snapshot_ de Wayback Machine de septiembre de 2008, ya posterior a su muerte (2006) y con añadidos post-mortem relativos a [testimonios](https://web.archive.org/web/20080313223559/http://www.carloacutis.org/pages/testimonianze.html) y a la causa de beatificación.
