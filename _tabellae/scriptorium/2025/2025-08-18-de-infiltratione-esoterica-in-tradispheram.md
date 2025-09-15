@@ -12,13 +12,13 @@ En los rincones más profundos de la caverna de la _**tradisfera**_ -ese ecosist
 
 Utilizando como anzuelo la combinación de teología seria, apologética cristiana y elementos de la cultura pop como el anime, crean un puente hacia narrativas anti-modernas radicales. El resultado: una **infiltración ocultista paganizante** que, en última instancia, busca radicalizar a un público descontento con la realidad actual.
 
-### Sapientia perennis, perennialismo gnóstico y cultura visual
-
 > No es fácil descubrir el error por sí mismo, pues no lo presentan desnudo, ya que entonces se comprendería, sino adornado con una máscara engañosa y persuasiva; a tal punto que, aun cuando sea ridículo decirlo, hacen parecer su discurso más verdadero que la verdad.(…) ellos, mediante sus artes verbales hacen que una pieza de vidrio parezca idéntica a una preciosa esmeralda, hasta que se encuentra alguno que pueda probarlo y delatar que se trata de un artificio fabricado con fraude. Cuando se mezcla bronce con la plata, ¿quién entre la gente sencilla puede probar el engaño?
 
 :::{.quote-author}
 — San Ireneo, Adversus Haereses I, Pr.2
 :::
+
+### Sapientia perennis, perennialismo gnóstico y cultura visual
 
 Conviene distinguir con rigor el uso católico clásico de **sapientia perennis** del llamado **perennialismo gnóstico** de raíz esotérica, también llamado -de manera equívoca y astuta- _tradicionalismo filosófico_. En el magisterio de **León XIII** (Aeterni Patris, 1879)[^c], **la sapientia perennis designa la continuidad de la filosofía verdadera a través de los siglos, que encuentra en Santo Tomás de Aquino su culmen y expresión más pura**; se trata, por tanto, de la filosofía perenne como patrimonio de la razón iluminada por la fe.
 
