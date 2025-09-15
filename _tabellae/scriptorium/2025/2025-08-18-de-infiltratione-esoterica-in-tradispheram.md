@@ -470,7 +470,7 @@ contra la gnosis, contra la tribu y contra el wokismo, permanece el Reinado de C
 
 ### Errores formales frecuentes (y sus disfraces)
 
-Por más que ciertos hilos o vídeos destilen contenido de aparente provecho, lo hacen fuera del cauce de la Tradición viva: no hay maestro, sino máscara; no hay formación, sino acumulación. La misma lógica se repite en el diletantismo digital esotérico, tribal o woke: abundancia de símbolos, consignas o slogans que fascinan, pero que nunca ordenan al alma hacia el fin último.
+Por más que ciertos hilos o vídeos destilen contenido de aparente provecho, lo hacen fuera del cauce de la Tradición viva: no hay maestro, sino máscara; no hay formación, sino acumulación. La misma lógica se repite en el diletantismo digital esotérico, tribal o progresista _woke_: abundancia de símbolos, consignas o slogans que fascinan, pero que nunca ordenan al alma hacia el fin último.
 
 #### Equivocación conceptual
 
