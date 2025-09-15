@@ -45,7 +45,7 @@ Se conservan, sin embargo, algunos retazos de la web original, como sus famosos 
 
 De su sección de milagros eucarísticos no queda nada del código original: únicamente lo que Wayback Machine [logró capturar](https://web.archive.org/web/20080919220647/https://www.miracolieucaristici.org/) en ese mismo período, cuando ya se había iniciado la reelaboración devocional. Algo de la parte en Flash puede todavía verse y escucharse en el archivo, pero la mayor parte se ha perdido. El sitio utilizaba además PHP, lo que hacía que buena parte del contenido dinámico no quedara archivado[^lostmedia].
 
-Lo que circula hoy en dominios como [miracolieucaristici.org](https://www.miracolieucaristici.org/) o [carloacutis.com](https://carloacutis.com/es/association) son versiones retocadas y ampliadas tras su muerte.  
+Lo que circula hoy en dominios como [miracolieucaristici.org](https://www.miracolieucaristici.org/) o [carloacutis.com](https://carloacutis.com/es/association) son versiones retocadas y ampliadas tras su muerte[^dominios].
 
 Así, del trabajo original de Carlo apenas restan fragmentos obsoletos, como de un códice roto del que sobreviven unos folios roídos: testimonio suficiente para mostrar su santa inquietud, pero muy lejos de convertirlo en _El influencer de Dios_. En vida, Carlo fue un programador web autodidacta: un _webmaster_. Y para tener sólo 15 años en 2006 no era poca cosa saber desenvolverse en PHP y Flash, lenguajes entonces comunes pero nada triviales.
 
@@ -64,3 +64,4 @@ Al comenzar esta investigación era escéptico: veía en Carlo Acutis un santo p
 :::
 
 [^lostmedia]: Lo confirma incluso una discusión reciente en [r/lostmedia](https://www.reddit.com/r/lostmedia/comments/1k4psip/partially_lost_the_original_url_and_website_of/), donde varios usuarios intentaron reconstruir los enlaces originales y concluyen que buena parte del material auténtico de Carlo "parece haberse perdido por descuido".
+[^dominios]: El dominio [carloacutis.org](http://carloacutis.org) estuvo activo hasta 2021, pasando de ser la web personal de Carlo hasta la página de la asociación para la causa de su beatificación (2020). A partir de 2022-2023 aparece aparcado bajo el registrador austríaco Key-Systems, sin relación aparente con la familia Acutis o los sites oficiales. Por su parte, [carloacutis.net](http://carloacutis.net) redirige a carloacutis.com.
