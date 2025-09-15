@@ -55,7 +55,7 @@ El HTML se corrompe, el Flash muere, el PHP envejece. Pero la gracia que escribi
 
 ### Glosa marginalis
 
-Al comenzar esta investigación era escéptico: veía en Carlo Acutis un santo prefabricado por los medios. Mas fue él mismo, con sus huellas humildes -un _sito in costruzione_ en una web perdida, la fidelidad al Rosario y a la Eucaristía- quien me salió al encuentro, alegre y sencillo. Y en ese hallazgo discreto nació la amistad: ahora sé que quiero ir con él hasta la muerte, porque me ha enseñado a mirar lo real y a amar a Cristo en lo esencial.
+Al comenzar esta investigación era escéptico: veía en Carlo Acutis un santo prefabricado por los medios. Mas fue él mismo, con sus huellas humildes -un _sito in costruzione_ en una web perdida, la fidelidad al Rosario y a la Eucaristía- quien me salió al encuentro, alegre y sencillo. Y en ese hallazgo discreto nació la amistad: ahora sé que quiero ir con él hasta la muerte, porque me ha enseñado su verdadero código fuente: mirar lo real y a amar a Cristo en lo esencial.
 
 > Yo me quedaba a unos metros y lo observaba: se ponía delante del sagrario como si alguien lo esperara allí.
 
