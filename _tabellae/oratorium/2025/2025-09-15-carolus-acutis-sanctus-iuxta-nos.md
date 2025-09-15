@@ -39,7 +39,7 @@ Al explorar las ruinas de su página web personal, ya casi perdida, aparece la i
 
 La web personal de Carlo Acutis solo sobrevive en un _snapshot_ de Wayback Machine de septiembre de 2008, ya posterior a su muerte (2006) y con añadidos post-mortem relativos a [testimonios](https://web.archive.org/web/20080313223559/http://www.carloacutis.org/pages/testimonianze.html) y a la causa de beatificación.
 
-Al leer algunos de estos testimonios, en contraste con la palabrería mediática, los testigos directos no lo describen como un "modelo de santidad juvenil", sino como un adolescente normal, sociológicamente indistinguible, que puso todo en lo esencial: Eucaristía, María, confesión, oración. Más cercano a la tradición de Dominguito Savio o de Teresita que a la del supuesto "evangelizador digital".
+Al leer algunos de estos testimonios, en contraste con la palabrería mediática, los testigos directos no lo describen como un "modelo de santidad juvenil", sino como un adolescente normal, alegre, sociológicamente indistinguible, que puso todo en lo esencial: Eucaristía, María, confesión, oración. Más cercano a la tradición de Dominguito Savio o de Teresita que a la del supuesto "evangelizador digital".
 
 Se conservan, sin embargo, algunos retazos de la web original, como sus famosos [_secretos especialísimos para llegar rápidamente a la santidad_](https://web.archive.org/web/20080315001848/http://www.carloacutis.org/pages/amis.html), que recuerdan a las [cuatro resoluciones](https://donbosconorte.org.ar/domingo-savio-la-grandeza-lo-pequeno/) que Santo Domingo Savio tomó el día de su Primera Comunión.
 
