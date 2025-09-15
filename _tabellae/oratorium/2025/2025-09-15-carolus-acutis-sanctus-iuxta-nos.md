@@ -16,11 +16,11 @@ Por eso, Carlo no es solo patrimonio de los jóvenes, sino de todos nosotros que
 
 Muchos se escandalizan de su falta de heroicidad, como si la santidad debiera medirse en gestas colosales. Pero la perfección no es una acrobacia espiritual. Es dejar que la gracia nos lleve como a un niño que apenas sabe dar un paso. Santa Teresita lo entendió: "Levantaré mi piececico aunque no pueda subir el primer escalón; Cristo mismo me tomará en brazos".
 
-¿Y acaso ella convirtió a alguien en vida? Ninguna misión cumplida, ningún logro visible… y sin embargo la Iglesia la proclamó Patrona de las Misiones. Con Carlo sucede lo mismo: se le juzga injustamente por no haber hecho "grandes obras". La verdad es otra: la santidad se mide por la docilidad al Espíritu, no por la espectacularidad de los resultados. Porque ser santo es tan fácil que nos asusta, y por miedo a lo sencillo, nos refugiamos en complicaciones que nos pierden.
+¿Y acaso ella convirtió a alguien en vida? Ninguna misión cumplida, ningún logro visible… y sin embargo la Iglesia la proclamó Patrona de las Misiones. Con Carlo sucede lo mismo: se le juzga injustamente por no haber hecho grandes obras. La verdad es otra: la santidad se mide por la docilidad al Espíritu, no por la espectacularidad de los resultados. Porque ser santo es tan fácil que nos asusta, y por miedo a lo sencillo, nos refugiamos en complicaciones que nos pierden.
 
 Es cierto que provenía de familia acomodada, como tantos otros (Tomás de Aquino, Francisco, Luis Gonzaga, Isabel de Hungría…). Y no es secreto que la canonización requiere medios humanos, influencia, apoyo económico. Pero la Providencia se sirve de esas mediaciones para mostrar en cada tiempo los modelos que la Iglesia necesita. La gloria de Carlo no es su familia, ni su canonización rápida, sino que en un mundo de espejismos él eligió lo más humilde y lo más real: la Eucaristía como centro de la vida.
 
-Al entrar en los retazos de su página web, ya perdida, aparece la inscripción humilde: _Sito in costruzione_. Y uno no puede dejar de leer en ello un signo: "Santo in costruzione". La obra de Carlo estaba en ciernes, como su vida truncada, como su santidad. Y aquello que en la red quedó incompleto, Dios lo llevó a plenitud en la Eternidad.
+Al explorar las ruinas de su página web personal, ya casi perdida, aparece la inscripción humilde: _Sito in costruzione_. Y uno no puede dejar de leer en ello un signo: "Santo in costruzione". La obra de Carlo estaba en ciernes, como su vida truncada, como su santidad. Y aquello que en la red quedó incompleto, Dios lo llevó a plenitud en la Eternidad.
 
 ![Sanctus Carolus Acutis](/instrumenta/imagines/sanctus-carolus-aqutis.png)
 
