@@ -20,11 +20,11 @@ Muchos se escandalizan de su falta de heroicidad, como si la santidad debiera me
 
 Es cierto que provenía de familia acomodada, como tantos otros (Tomás de Aquino, Francisco, Luis Gonzaga, Isabel de Hungría…). Y no es secreto que la canonización requiere medios humanos, influencia, apoyo económico. Pero la Providencia se sirve de esas mediaciones para mostrar en cada tiempo los modelos que la Iglesia necesita. La gloria de Carlo no es su familia, ni su canonización rápida, sino que en un mundo de espejismos él eligió lo más humilde y lo más real: la Eucaristía como centro de la vida.
 
+![Sanctus Carolus Acutis](/instrumenta/imagines/sanctus-carolus-aqutis.png)
+
 :::{.important}
 Un santo sencillo para el resto de nosotros.
 :::
-
-![Sanctus Carolus Acutis](/instrumenta/imagines/sanctus-carolus-aqutis.png)
 
 ### ✠ Oratio brevis ad Sanctum Carolum Acutis ✠
 
