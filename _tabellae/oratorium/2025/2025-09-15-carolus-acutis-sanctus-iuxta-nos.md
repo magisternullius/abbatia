@@ -53,4 +53,14 @@ Así, del trabajo original de Carlo apenas restan fragmentos obsoletos, como de 
 El HTML se corrompe, el Flash muere, el PHP envejece. Pero la gracia que escribió Cristo en su vida no tiene "End Of Life".
 :::
 
+### Glosa marginalis
+
+Al comenzar esta investigación era escéptico: veía en Carlo Acutis un santo prefabricado por los medios. Mas fue él mismo, con sus huellas humildes -un _sito in costruzione_ en una web perdida, la fidelidad al Rosario y a la Eucaristía- quien me salió al encuentro, alegre y sencillo. Y en ese hallazgo discreto nació la amistad: ahora sé que quiero ir con él hasta la muerte, porque me ha enseñado a mirar lo real y a amar a Cristo en lo esencial.
+
+> Yo me quedaba a unos metros y lo observaba: se ponía delante del sagrario como si alguien lo esperara allí.
+
+:::{.quote-author}
+— Rajesh Mohur, cuidador de Carlo Acutis, [Infovaticana](https://infovaticana.com/2025/09/08/el-cuidador-de-carlo-acutis-yo-me-quedaba-a-unos-metros-y-lo-observaba-se-ponia-delante-del-sagrario-como-si-alguien-lo-esperara-alli/), 8 de Septiembre de 2025
+:::
+
 [^lostmedia]: Lo confirma incluso una discusión reciente en [r/lostmedia](https://www.reddit.com/r/lostmedia/comments/1k4psip/partially_lost_the_original_url_and_website_of/), donde varios usuarios intentaron reconstruir los enlaces originales y concluyen que buena parte del material auténtico de Carlo "parece haberse perdido por descuido".
