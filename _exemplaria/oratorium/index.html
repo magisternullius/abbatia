@@ -28,6 +28,19 @@
         <p>In silentio cordis, resonat vox Spiritus; oratio secreta ad Dominum tollitur sicut incensum mane surgens in templo vetusto.</p>
         <p>Fiat ut oratorium hoc sit fons gratiae et quietis, ut peregrini inveniant quietem inter fluctus saeculi.</p>
         <p class="back-to-index"><a href="/">← Revertere ad Claustrum</a></p>
+
+        $for(years)$
+          <h3>Anno Domini $years.roman_year$</h3>
+          <ul class="opera-list">
+            $for(years.entries)$
+            <li>
+              <a href="/oratorium/opera/$years.entries.url$">$years.entries.title$ — $years.entries.title2$</a>
+              <div class="date">$years.entries.monastic_date$</div>
+            </li>
+            $endfor$
+          </ul>
+        $endfor$
+        <p class="back-to-index"><a href="/">← Revertere ad Claustrum</a></p>
       </article>
     </section>
   </div>
