@@ -35,6 +35,8 @@ Al explorar las ruinas de su página web personal, ya casi perdida, aparece la i
 
 ## Post-scriptum: El legado digital de Carlo
 
+#### Proyectos personales
+
 La web personal de Carlo Acutis solo sobrevive en un _snapshot_ de Wayback Machine de Marzo de 2008, ya posterior a su muerte (2006) y con añadidos post-mortem relativos a [testimonios](https://web.archive.org/web/20080314232401/http://www.carloacutis.org/pages/testimonianze.html) y a la causa de beatificación.
 
 Al leer algunos de estos testimonios, en contraste con la palabrería mediática, los testigos directos no lo describen como un "modelo de santidad juvenil", sino como un adolescente normal, alegre, sociológicamente indistinguible, que puso todo en lo esencial: Eucaristía, María, confesión, oración. Más cercano a la tradición de Dominguito Savio o de Teresita que a la del supuesto "evangelizador digital".
@@ -47,7 +49,23 @@ Una búsqueda limitada en Google [entre 2000 y 2005](https://www.google.com/sear
 
 Lo que circula hoy en dominios como [miracolieucaristici.org](https://www.miracolieucaristici.org/) o [carloacutis.com](https://carloacutis.com/es/association) son versiones retocadas y ampliadas tras su muerte[^dominios].
 
-Así, del trabajo original de Carlo apenas restan fragmentos obsoletos, como de un códice roto del que sobreviven unos folios roídos: testimonio suficiente para mostrar su santa inquietud, pero muy lejos de convertirlo en _El influencer de Dios_. En vida, Carlo fue un programador web autodidacta: un _webmaster_. Y para tener sólo 15 años en 2006 no era poca cosa saber desenvolverse en PHP y Flash, lenguajes entonces comunes pero nada triviales.
+#### En su parroquia
+
+Desde 2004, Carlo dejó también su huella en la [web de Santa Maria Segreta](https://web.archive.org/web/20041211144026/http://www.santamariasegreta.it:80/), construida con tablas, menús con imágenes y hasta animaciones en Flash. Muy _amateur_ y sencilla, en el estilo de su página personal.
+
+#### En su colegio
+
+En sus años escolares, al parecer dejó también rastro en el portal del Istituto Leone XIII, cuya [web oficial](https://web.archive.org/web/20060103010356/http://www.leonexiii.it/) en 2006 llevaba la firma de un ingeniero profesional como [webmaster](https://web.archive.org/web/20060105234559/http://www.leonexiii.it/credits.htm). Carlo no fue autor técnico del sitio, pero pudo colaborar en contenidos visuales, sobre todo en las [actividades de voluntariado](https://web.archive.org/web/20060105234716/http://www.leonexiii.it/volontariatoalunni.htm), reflejo de su deseo de unir estudio y fe.
+
+#### En el Vaticano
+
+Algunos repiten que Carlo "organizó" la web de la _Pontificia Academia Cultorum Martyrum_. En realidad, aquel portal creado en 2003 y [todavía online](https://www.vatican.va/roman_curia/pontifical_academies/cult-martyrum/index.htm) seguía el estilo oficial del Vaticano, sobrio y rígido. Más probable es que aportara [materiales sobre mártires](https://www.vatican.va/roman_curia/pontifical_academies/cult-martyrum/martiri/index.html) a través de su madre, que [trabajaba en la Academia](https://www.vatican.va/roman_curia/pontifical_academies/cult-martyrum/documents/rc_pa_martyrum_20020924_direttivo_en.html), mientras su propio sitio personal mostraba un estilo juvenil y casero, ésta sería la única página aún viva que conserva material original generado por Carlo, aunque inserto en un marco institucional y no personal.
+
+#### Su legado
+
+Así, del trabajo original de Carlo apenas restan fragmentos obsoletos, como de un códice roto del que sobreviven unos folios roídos: testimonio suficiente para mostrar su santa inquietud, pero muy lejos de convertirlo en _El influencer de Dios_. En vida, Carlo fue un programador web autodidacta: un _webmaster_. Y para tener sólo 15 años en 2006 no era poca cosa saber desenvolverse como lo hizo Carlo con aquellos lenguajes y herramientas.
+
+Sin embargo, toda su producción dependía de tecnologías efímeras -DreamWeaver, FrontPage, Flash, PHP básico- lo cual explica que casi nada haya sobrevivido y refuerza la metáfora de la fragilidad de su legado digital.
 
 :::{.important}
 El HTML se corrompe, el Flash muere, el PHP envejece. Pero la gracia que escribió Cristo en su vida no tiene "End Of Life".
