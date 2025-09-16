@@ -59,7 +59,7 @@ En sus años escolares, al parecer dejó también rastro en el portal del Istitu
 
 #### En el Vaticano
 
-Algunos repiten que Carlo "organizó" la web de la _Pontificia Academia Cultorum Martyrum_. En realidad, aquel portal creado en 2003 y [todavía online](https://www.vatican.va/roman_curia/pontifical_academies/cult-martyrum/index.htm) seguía el estilo oficial del Vaticano, sobrio y rígido. Más probable es que aportara [materiales sobre mártires](https://www.vatican.va/roman_curia/pontifical_academies/cult-martyrum/martiri/index.html) a través de su madre, que [trabajaba en la Academia](https://www.vatican.va/roman_curia/pontifical_academies/cult-martyrum/documents/rc_pa_martyrum_20020924_direttivo_en.html). Sea como fuere, ésta sería la única página aún viva que conserva material original generado por Carlo, aunque inserto en un marco institucional y no personal.
+Algunos repiten que Carlo "organizó" la web de la _Pontificia Academia Cultorum Martyrum_. En realidad, aquel portal creado en 2003 y [todavía online](https://www.vatican.va/roman_curia/pontifical_academies/cult-martyrum/index.htm) seguía el estilo oficial del Vaticano, sobrio y rígido. Más probable es que aportara [materiales sobre mártires](https://www.vatican.va/roman_curia/pontifical_academies/cult-martyrum/martiri/index.html) a través de su madre, que [trabajaba en la Academia](https://www.vatican.va/roman_curia/pontifical_academies/cult-martyrum/documents/rc_pa_martyrum_20020924_direttivo_en.html). Esta sería la única página aún viva que conserva material original generado por Carlo, aunque inserto en un marco institucional y no personal.
 
 #### Su legado
 
