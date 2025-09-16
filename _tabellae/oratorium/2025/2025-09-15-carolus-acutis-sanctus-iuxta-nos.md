@@ -55,7 +55,7 @@ El HTML se corrompe, el Flash muere, el PHP envejece. Pero la gracia que escribi
 
 ### Glosa marginalis
 
-Al comenzar esta investigación, era escéptico: veía en Carlo Acutis un santo prefabricado por los medios. Un santo vendido como _ciberapóstol_, empaquetado en "kits de santidad" y programas de marketing pastoral. Pero ese Carlo mediático poco tiene que ver con el adolescente que se sentaba en silencio ante el Sagrario _"como si alguien lo esperara allí"_[^cuidador]. Al rebajar su figura a método o eslogan, se corre el riesgo de vaciarla de lo único esencial que él vivió: la gracia.
+Al comenzar esta investigación, era escéptico: veía en Carlo Acutis un santo prefabricado por los medios. Un santo vendido como _ciberapóstol_ y _gamer_, empaquetado en "kits de santidad" y programas de marketing pastoral. Pero ese Carlo mediático poco tiene que ver con el adolescente que se sentaba en silencio ante el Sagrario _"como si alguien lo esperara allí"_[^cuidador]. Al rebajar su figura a método o eslogan, se corre el riesgo de vaciarla de lo único esencial que él vivió: la gracia.
 
 Pero fue él mismo, con sus huellas humildes -un _sito in costruzione_ en una web perdida, la fidelidad al Rosario y a la Eucaristía- quien me salió al encuentro, alegre y sencillo. Y en ese hallazgo discreto nació la amistad: ahora sé que quiero perseverar como él hasta el término de esta vida, porque me ha enseñado su verdadero código fuente: mirar lo real y a amar a Cristo en lo esencial.
 
