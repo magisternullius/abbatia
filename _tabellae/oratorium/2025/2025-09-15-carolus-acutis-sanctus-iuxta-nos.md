@@ -20,7 +20,7 @@ Muchos se escandalizan de su falta de heroicidad, como si la santidad debiera me
 
 Es cierto que provenía de familia acomodada, como tantos otros (Tomás de Aquino, Francisco, Luis Gonzaga, Isabel de Hungría…). Y no es secreto que la canonización requiere medios humanos, influencia, apoyo económico. Pero la Providencia se sirve de esas mediaciones para mostrar en cada tiempo los modelos que la Iglesia necesita. La gloria de Carlo no es su familia, ni su canonización rápida, sino que en un mundo de simulacros él eligió lo más humilde y lo más real: la Eucaristía como centro de la vida.
 
-Carlo llamaba _adoración eucarística_ a lo más sencillo: estar en silencio junto al Sagrario, como quien se sabe esperado por el Amigo. Ninguna necesidad de espectáculos devocionales, tan frecuentes hoy en día. En él continúa la tradición más antigua: basta con entrar en la iglesia y recogerse ante el Tabernáculo, porque allí estaba Cristo vivo. Su contemplación era escondida, sin ornamentos.
+Carlo llamaba _adoración eucarística_ a lo más sencillo: estar en silencio junto al Sagrario, como quien se sabe esperado por el Amigo. Ninguna necesidad de espectáculos devocionales, tan frecuentes hoy en día. En él continúa la tradición más antigua: basta con entrar en la iglesia y recogerse ante el Tabernáculo, porque allí está Cristo vivo. Su contemplación era escondida, sin ornamentos.
 
 Al explorar las ruinas de su página web personal, ya casi perdida, aparece la inscripción humilde: _Sito in costruzione_. Y uno no puede dejar de leer en ello un signo: "Santo in costruzione". La obra de Carlo estaba en ciernes, como su vida truncada, como su santidad. Y aquello que en la red quedó incompleto, Dios lo llevó a plenitud en la Eternidad.
 
