@@ -39,7 +39,9 @@ Al leer algunos de estos testimonios, en contraste con la palabrería mediática
 
 Se conservan, sin embargo, algunos retazos de la web original, como sus famosos [_secretos especialísimos para llegar rápidamente a la santidad_](https://web.archive.org/web/20080315001848/http://www.carloacutis.org/pages/amis.html), que recuerdan a las [cuatro resoluciones](https://donbosconorte.org.ar/domingo-savio-la-grandeza-lo-pequeno/) que Santo Domingo Savio tomó el día de su Primera Comunión.
 
-De su sección de milagros eucarísticos no queda nada del código original: únicamente lo que Wayback Machine [logró capturar](https://web.archive.org/web/20080919220647/https://www.miracolieucaristici.org/) en ese mismo período, cuando ya se había iniciado la reelaboración devocional. Algo de la parte en Flash puede todavía verse y escucharse en el archivo, pero la mayor parte se ha perdido. El sitio utilizaba además PHP, lo que hacía que buena parte del contenido dinámico no quedara archivado[^lostmedia].
+De su sección de milagros eucarísticos no queda nada del código original: únicamente lo que Wayback Machine [logró capturar](https://web.archive.org/web/20080919220647/https://www.miracolieucaristici.org/) en ese mismo período, cuando ya se había iniciado la reelaboración devocional. Algo de la parte en Flash puede todavía verse y escucharse en el archivo, pero la mayor parte se ha perdido. El sitio utilizaba además PHP, lo que hacía que buena parte del contenido dinámico no quedara archivado[^lostmedia] ni indexado en buscadores.
+
+Una búsqueda limitada en Google [entre 2000 y 2005](https://www.google.com/search?q=%22miracoli+eucaristici%22&hl=es&lr=&as_qdr=all&tbs=cdr:1,cd_min:1/1/2000,cd_max:12/31/2005) no arroja resultados para la página de milagros eucarísticos. Esto sugiere que Carlo no la concibió como un proyecto evangelizador de masas, sino como un espacio personal de piedad. Más que un _influencer_, Carlo fue un adolescente que programaba para orar y contemplar, no para acumular visitas.
 
 Lo que circula hoy en dominios como [miracolieucaristici.org](https://www.miracolieucaristici.org/) o [carloacutis.com](https://carloacutis.com/es/association) son versiones retocadas y ampliadas tras su muerte[^dominios].
 
@@ -51,7 +53,7 @@ El HTML se corrompe, el Flash muere, el PHP envejece. Pero la gracia que escribi
 
 ### Glosa marginalis
 
-Al comenzar esta investigación era escéptico: veía en Carlo Acutis un santo prefabricado por los medios. Un santo vendido como _ciberapóstol_, empaquetado en "kits de santidad" y programas de marketing pastoral. Pero ese Carlo mediático poco tiene que ver con el adolescente que se sentaba en silencio ante el Sagrario _"como si alguien lo esperara allí"_[^cuidador]. Al rebajar su figura a método o eslogan, se corre el riesgo de vaciarla de lo único esencial que él vivió: la gracia.
+Al comenzar esta investigación, era escéptico: veía en Carlo Acutis un santo prefabricado por los medios. Un santo vendido como _ciberapóstol_, empaquetado en "kits de santidad" y programas de marketing pastoral. Pero ese Carlo mediático poco tiene que ver con el adolescente que se sentaba en silencio ante el Sagrario _"como si alguien lo esperara allí"_[^cuidador]. Al rebajar su figura a método o eslogan, se corre el riesgo de vaciarla de lo único esencial que él vivió: la gracia.
 
 Pero fue él mismo, con sus huellas humildes -un _sito in costruzione_ en una web perdida, la fidelidad al Rosario y a la Eucaristía- quien me salió al encuentro, alegre y sencillo. Y en ese hallazgo discreto nació la amistad: ahora sé que quiero perseverar como él hasta el término de esta vida, porque me ha enseñado su verdadero código fuente: mirar lo real y a amar a Cristo en lo esencial.
 
