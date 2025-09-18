@@ -51,7 +51,7 @@ Lo que circula hoy en dominios como [miracolieucaristici.org](https://www.miraco
 
 #### En su parroquia
 
-Desde 2004, Carlo dejó también su huella en la [web de Santa Maria Segreta](https://web.archive.org/web/20041211144026/http://www.santamariasegreta.it:80/), construida con tablas, menús con imágenes y hasta animaciones en Flash. Muy _amateur_ y sencilla, en el estilo de su página personal.
+Desde 2004, Carlo dejó también su huella en la [web de Santa Maria Segreta](https://web.archive.org/web/20041211144026/http://www.santamariasegreta.it:80/), construida con iframes, menús con imágenes y hasta animaciones en Flash. Muy _amateur_ y sencilla, en el estilo de su página personal.
 
 #### En su colegio
 
