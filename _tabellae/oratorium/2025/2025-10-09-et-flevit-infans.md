@@ -143,15 +143,24 @@ Cuidar la liturgia no es expulsar la vida real del templo, sino elevarla, transf
 
 Cuando un niño llora durante la Misa, el cielo no se turba. Tal vez, en ese momento, Dios está mostrando, de forma desconcertante, el verdadero espíritu del culto: la ofrenda humilde, real, frágil y pura. Y a nosotros, que a menudo callamos por frialdad o vergüenza ajena, nos recuerda que hemos dejado de llorar ante el Calvario.
 
+Y aún hoy, algunos sacerdotes perciben en el llanto de los pequeños un eco del Calvario. Así lo expresaba un dominico contemporáneo:
+
+> Every time I celebrate Mass, I pray that God will allow a little child to cry - lest I should ever lose sight of the mystery which I am consummating.”
+
+:::{.quote-author}
+— Fr. Ryan Erlenbush, Crying children call to mind the mystery of the Mass[^crying]
+:::
+
 > Lacrimae infantium vox altaris.
 
 :::{.quote-author}
 — Magister Nullo
 :::
 
-[^3años]: Sin menoscabo de formar a los niños en el respeto litúrgico, como enseña la tradición. Sin embargo, la Tradición no enseña a callar forzosamente a una niña de 3 años, que aún no puede razonar plenamente. La mejor catequesis es la Misa y la oración en familia. Cf. Pío XII, Mediator Dei, nn. 119, 200, donde se insta a que los niños y jóvenes participen activamente, ofreciendo su inocencia con celo y reverencia, bajo la guía formativa de los pastores y padres. La tradición equilibra la misericordia con la disciplina.
+[^3años]: Sin menoscabo de formar a los niños en el respeto litúrgico, como enseña la tradición. Sin embargo, la Tradición no enseña a callar forzosamente a una niña de 3 años, que aún no puede razonar plenamente. La mejor catequesis es la Misa y la oración en familia. Cf. Pío XII, [Mediator Dei](https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_20111947_mediator-dei.html), nn. 119, 200, donde se insta a que los niños y jóvenes participen activamente, ofreciendo su inocencia con celo y reverencia, bajo la guía formativa de los pastores y padres. La tradición equilibra la misericordia con la disciplina.
 [^calvario]: cf. Catecismo de la Iglesia Católica, n.1367
 [^hijas]: cf. Lc 23,28
 [^dejadquelosniños]:cf. Mc 10,16
 [^pequeños]: cf. 1 Cor 1,27
 [^ironia]: Hay una ironía evidente en no pocas "misas tradicionales": se toleran micrófonos, respuestas dialogadas en latín macarrónico y el seguir todo con misales de mano. Prácticas nacidas del movimiento reformador del siglo XX que, en no poca medida, desembocarían en la reforma posterior del Novus Ordo. Pues bien; el llanto del niño es más tradicional que todos esos añadidos. Pertenece a la tradición viva del culto: la vida que se ofrece tal cual es. Si la Misa es sacrificio, lo que sobra no es el niño, sino la pretensión de control acústico y emocional que confunde ars celebrandi con perfeccionismo.
+[^crying]: cf. [The New Theological Movement](https://newtheologicalmovement.blogspot.com/2012/04/crying-children-call-to-mind-mystery-of.html) (2012)
