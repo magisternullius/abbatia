@@ -143,18 +143,18 @@ Cuidar la liturgia no es expulsar la vida real del templo, sino elevarla, transf
 
 Cuando un niño llora durante la Misa, el cielo no se turba. Tal vez, en ese momento, Dios está mostrando, de forma desconcertante, el verdadero espíritu del culto: la ofrenda humilde, real, frágil y pura. Y a nosotros, que a menudo callamos por frialdad o vergüenza ajena, nos recuerda que hemos dejado de llorar ante el Calvario.
 
-Y aún hoy, algunos sacerdotes perciben en el llanto de los pequeños un eco del Calvario. Así lo expresaba un dominico contemporáneo:
-
-> Every time I celebrate Mass, I pray that God will allow a little child to cry - lest I should ever lose sight of the mystery which I am consummating.”
-
-:::{.quote-author}
-— Fr. Ryan Erlenbush, Crying children call to mind the mystery of the Mass[^crying]
-:::
-
 > Lacrimae infantium vox altaris.
 
 :::{.quote-author}
 — Magister Nullo
+:::
+
+Y aún hoy, algunos sacerdotes perciben en el llanto de los pequeños un eco del Calvario. Así lo expresaba un dominico contemporáneo:
+
+> Every time I celebrate Mass, I pray that God will allow a little child to cry - lest I should ever lose sight of the mystery which I am consummating.
+
+:::{.quote-author}
+— Fr. Ryan Erlenbush, Crying children call to mind the mystery of the Mass[^crying]
 :::
 
 [^3años]: Sin menoscabo de formar a los niños en el respeto litúrgico, como enseña la tradición. Sin embargo, la Tradición no enseña a callar forzosamente a una niña de 3 años, que aún no puede razonar plenamente. La mejor catequesis es la Misa y la oración en familia. Cf. Pío XII, [Mediator Dei](https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_20111947_mediator-dei.html), nn. 119, 200, donde se insta a que los niños y jóvenes participen activamente, ofreciendo su inocencia con celo y reverencia, bajo la guía formativa de los pastores y padres. La tradición equilibra la misericordia con la disciplina.
