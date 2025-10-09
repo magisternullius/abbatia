@@ -157,7 +157,7 @@ Y aún hoy, algunos sacerdotes perciben en el llanto de los pequeños un eco del
 — Fr. Ryan Erlenbush, Crying children call to mind the mystery of the Mass[^crying]
 :::
 
-[^3años]: Sin menoscabo de formar a los niños en el respeto litúrgico, como enseña la tradición. Sin embargo, la Tradición no enseña a callar forzosamente a una niña de 3 años, que aún no puede razonar plenamente. La mejor catequesis es la Misa y la oración en familia. Cf. Pío XII, [Mediator Dei](https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_20111947_mediator-dei.html), nn. 119, 200, donde se insta a que los niños y jóvenes participen activamente, ofreciendo su inocencia con celo y reverencia, bajo la guía formativa de los pastores y padres. La tradición equilibra la misericordia con la disciplina.
+[^3años]: Sin menoscabo de formar a los niños en el respeto litúrgico, como enseña la tradición. Sin embargo, la Tradición no enseña a callar forzosamente a una niña de 3 años, que aún no puede razonar plenamente. La mejor catequesis es la Misa y la oración en familia. Cf. Pío XII, [Mediator Dei](https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_20111947_mediator-dei.html), nn. 37, 147, 250 donde se insta a que los niños y jóvenes participen activamente, ofreciendo su inocencia con celo y reverencia, bajo la guía formativa de los pastores y padres. La tradición equilibra la misericordia con la disciplina.
 [^calvario]: cf. Catecismo de la Iglesia Católica, n.1367
 [^hijas]: cf. Lc 23,28
 [^dejadquelosniños]:cf. Mc 10,16
