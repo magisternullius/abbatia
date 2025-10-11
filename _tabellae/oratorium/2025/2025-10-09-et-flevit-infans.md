@@ -129,7 +129,7 @@ En definitiva, el niño que llora pone a prueba nuestra fe. Nos recuerda que:
 
 Podría pensarse que este problema es propio de ambientes modernos y sensibleros. Pero la realidad demuestra que incluso en muchas comunidades apegadas a la Misa tradicional (la del misal de 1962 o anteriores), esta misma mentalidad ha penetrado, aunque con otro ropaje.
 
-Allí donde la Misa es vivida más como quien custodia joya de valor incalculable, se escucha con frecuencia:
+Allí donde la Misa es vivida más como quien custodia una joya de valor incalculable, se escucha con frecuencia:
 
 > El niño que llore, que salga fuera con su papá o mamá. El precepto se cumple igual.
 
