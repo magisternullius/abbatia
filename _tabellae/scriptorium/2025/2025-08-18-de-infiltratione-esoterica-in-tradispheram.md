@@ -110,7 +110,7 @@ Este giro es precisamente lo que condenaron los papas en diversas formas:
 - **León XIII**, al denunciar el americanismo[^4] que buscaba diluir el catolicismo en una ética religiosa común.
 - **Pío XI**, en Mit Brennender Sorge[^5], al condenar las ideologías raciales y neopaganas que hoy son recicladas con estética de memes.
 - **Pío XII**, en Humani Generis[^a], donde se advierte contra el sincretismo filosófico y el desprecio de la metafísica.
-- **Card. Joseph Ratzinger**: Dominus Iesus[^b], que condena explícitamente la relativización de Cristo como un símbolo, entre otras desviaciones.
+- **Joseph Card. Ratzinger**: Dominus Iesus[^b], que condena explícitamente la relativización de Cristo como un símbolo, entre otras desviaciones.
 
 Bajo esta lógica, las cuentas que analizamos introducen un doble nivel de lectura:
 
@@ -150,7 +150,7 @@ Estas cuentas de X beben de viejos conocidos que han sabido adaptarse al formato
   **_Peligro_**: caricaturiza al santo, sustituyendo la humildad y la gracia por soberbia heroica.
 - **René Guénon** (1886–1951): habló de una Sophia Perennis que iguala todas las religiones y leyó la historia como decadencia cósmica (Kali-Yuga).  
   **_Peligro_**: sustituye la gracia por la iniciación.
-- **Julius Evola** (1898–1974): exaltó el hinduismo ario y el budismo olímpico, despreció el cristianismo como religión de débiles.  
+- **Julius Evola** (1898–1974): exaltó el hinduismo ario y el budismo aristocrático, despreció el cristianismo como religión de débiles.  
   **_Peligro_**: su vitalismo pagano contradice la cruz y la universalidad de la redención.
 - **Alexander Dugin[^7]** (1962–): ideólogo ruso del Eurasianismo, mezcla ortodoxia, ocultismo y geopolítica mesiánica.  
   **_Peligro_**: convierte la fe en instrumento de poder político y en mito civilizatorio, anulando la catolicidad como universalidad espiritual.
