@@ -106,7 +106,7 @@ El perennialismo postula una **Sophia Perennis** (sabiduría eterna) común a to
 
 Este giro es precisamente lo que condenaron los papas en diversas formas:
 
-- **San Pío X**, al rechazar el modernismo como "síntesis de todas las herejías"[^3], porque relativiza la fe ilumidada por la razón en favor de una experiencia interior cambiante.
+- **San Pío X**, al rechazar el modernismo como "síntesis de todas las herejías"[^3], porque relativiza la fe iluminada por la razón en favor de una experiencia interior cambiante.
 - **León XIII**, al denunciar el americanismo[^4] que buscaba diluir el catolicismo en una ética religiosa común.
 - **Pío XI**, en Mit Brennender Sorge[^5], al condenar las ideologías raciales y neopaganas que hoy son recicladas con estética de memes.
 - **Pío XII**, en Humani Generis[^a], donde se advierte contra el sincretismo filosófico y el desprecio de la metafísica.
@@ -235,6 +235,8 @@ El **ciber-tomismo** ofrece aquí la clave: la Encarnación rompe la cadena de s
 
 ## IV. La Máquina: cuentas performativas y echo chambers
 
+### La teatralización de los perfiles digitales
+
 La presentación es clave. Estas cuentas no son meros perfiles anónimos, sino personajes ficticios cuidadosamente diseñados para seducir y fidelizar. Se trata de una **teatralización continua**: avatares estilizados, bios cargadas de mística ("esperando el paraíso", "enamorado de la Verdad eterna"), referencias culturales calculadas. **La máscara digital no es accidental: es la condición misma del discurso**.
 
 En la tradición cristiana, la liturgia oculta al hombre y deja hablar a la Iglesia, con el sacerdote como _alter Christus_. Aquí sucede lo contrario: **la máscara digital amplifica el yo y lo multiplica, generando una ilusión de autoridad**. La imagen del perfil no refleja la persona, sino la inviste de una auctoritas artificial.
@@ -251,11 +253,19 @@ La amplificación mutua refuerza este artificio. Perfiles aparentemente independ
 
 Lo que empieza como un hilo sobre **San Bernardo de Claraval**, termina derivando en una exaltación de las Cruzadas, vira hacia un mensaje anti-inmigración y desemboca en una defensa racial ilustrada con mapas genéticos de la Edad del Bronce. El puente entre lo católico y lo identitario no se tiende ya con la **rana Pepe** -símbolo del nihilismo memético de 4chan[^15]-, sino con las heroínas de anime y templarios estetizados, que permiten mutar hacia un anti-modernismo pagano de estética jerárquica y legendaria.
 
+### El caso Hastings y el revisionismo simbólico
+
 Un ejemplo reciente lo ilustra bien: la BBC presentó en una serie un soldado anglosajón subsahariano en la Batalla de Hastings (1066). La reacción en redes osciló entre la indignación por la manipulación histórica y el sarcasmo tribal de los memes. En ambos casos, se reproduce la misma lógica de la hiperrealidad: **la historia deja de ser un dato de salvación o de cultura cristiana, y se convierte en campo de batalla simbólico**, donde unos absolutizan el multiculturalismo y otros absolutizan la identidad étnica. La Tradición queda así desplazada por un espectáculo de simulacros enfrentados.
 
-Este ecosistema está diseñado para **evitar el escrutinio**. El bajo _engagement_ en las respuestas -monólogos en lugar de diálogos- reduce la posibilidad de ser corregidos o cuestionados. La ironía, en cambio, funciona como coraza: **todo puede ser defendido como broma si alguien denuncia la deriva ideológica**. Se normaliza así lo extremo bajo la apariencia de un intrascendencia estética.
+### Del revisionismo histórico al marketing límbico
 
-Desde una mirada ciber-tomista, **este mecanismo reproduce la lógica de la sophistica**: abundancia de palabras en unos casos, exceso de ironía y sarcasmo en otros, que generan apariencia de sabiduría o de valentía combativa, pero sin verdadero acto de enseñanza (docere). **Santo Tomás enseña que la claridad es signo de verdad**, pues lo verdadero, en cuanto proporcionado al intelecto, puede ser expuesto en un orden inteligible. Allí donde la complejidad se convierte en blindaje, o la agresividad en espectáculo, se instala el sofisma: un discurso que no busca iluminar sino impresionar. **Bajo la apariencia de profundidad o de fuerza, se oculta en realidad una huida del juicio crítico**.
+En los últimos años, el espectáculo político ha adoptado la misma lógica de la hiperrealidad. La derecha post-cristiana ha aprendido a mezclar lo sagrado y lo profano con una eficacia simbólica inédita: una influencer erótica y rapera con una cruz al cuello puede representar mejor la "rebeldía" contra el sistema _woke_ que cualquier discurso doctrinal. Lo que antaño era blasfemia se convierte hoy en estética subversiva domesticada. El símbolo cristiano, reducido a ornamento tribal, ya no remite al sacrificio ni a la gracia, sino a la identidad emocional de una comunidad política.
+
+De modo inquietante, esta manipulación de signos convive con perfiles abiertamente católicos que en redes piden abiertamente el voto para la misma formación que recurre a _pornoinfluencers_. Así, el altar digital une en un mismo plano la predicación y el espectáculo, al sacerdote y a la modelo de OnlyFans, como si ambos sirvieran a una misma causa trascendente. Pero en realidad lo que se produce es una inversión: el orden sobrenatural es subsumido por la propaganda, y la fe se convierte en herramienta de cohesión emocional.
+
+El erotismo opera ya como un código compartido y transversal. No pertenece ya al ámbito de la intimidad, sino al lenguaje mismo del espectáculo. Tanto en la publicidad como en la política o la religión digital, el cuerpo se ofrece como superficie simbólica: es el nuevo soporte del mito. En la derecha post-cristiana, esta exhibición se reviste de patriotismo o de religiosidad estética, pero conserva intacta su función primordial: generar deseo y atención. Así, el erotismo se convierte en vehículo de pertenencia tribal, un lenguaje común entre lo sagrado y lo profano que sustituye la comunión por la excitación compartida.
+
+### Lo identitario como espectáculo
 
 Se trata de lo que **Guy Debord** (1931-1994) llamó la sociedad del espectáculo: la forma misma, al volverse espectáculo, anula la verdad de lo dicho y lo convierte en una puesta en escena. Todo ello puede estar potenciado por herramientas de inteligencia artificial, capaces de generar hilos densos y aparentemente orgánicos.
 
@@ -271,7 +281,7 @@ En definitiva, la forma misma es ya un mensaje: no se trata sólo de lo que dice
 — 1 Tim 6,20
 :::
 
-### Advertencia pastoral: gnosis disfrazada de tradición y memes
+### Gnosis disfrazada de tradición y memes
 
 Lo decisivo no es sólo lo que estas cuentas dicen, sino el modo en que lo hacen. Bajo la fachada estética -anime, citas medievales, ironía juvenil- late un viejo veneno: **la tentación gnóstica**.
 
@@ -317,7 +327,7 @@ La comunión de los santos, por la tribu.
 Y la universalidad católica, por un etnicismo disfrazado de religión.
 :::
 
-Aquí la historia ofrece un espejo: **Charles Maurras** (1868-1952), ideólogo de **Action Française**, instrumentalizó el catolicismo como cemento nacionalista mientras personalmente despreciaba la fe y fue excomulgado por la Santa Sede; **Gabriele D’Annunzio** (1863-1968), con su estética de la violencia, decadentismo y culto a lo pagano, proclamaba la religión como ornamento político, despreciando al mismo tiempo el Evangelio. Ambos ejemplos muestran cómo un supuesto anti-modernismo puede convertirse en enemigo declarado de Roma, aunque use la retórica de la tradición.
+Aquí la historia ofrece un espejo: **Charles Maurras** (1868-1952), ideólogo de **Action Française**, instrumentalizó el catolicismo como cemento nacionalista mientras personalmente despreciaba la fe y fue excomulgado por la Santa Sede[^maurras]; **Gabriele D’Annunzio** (1863-1968), con su estética de la violencia, decadentismo y culto a lo pagano, proclamaba la religión como ornamento político, despreciando al mismo tiempo el Evangelio. Ambos ejemplos muestran cómo un supuesto anti-modernismo puede convertirse en enemigo declarado de Roma, aunque use la retórica de la tradición.
 
 Resulta revelador que **ninguna de estas cuentas cite jamás el magisterio tradicional de la Iglesia contra los totalitarismos**: ni **Non Abbiamo Bisogno**[^17] (1931) contra el fascismo, ni **Mit Brennender Sorge**[^18] (1937) contra el nazismo, ni **Divini Redemptoris**[^19] (1937) contra el comunismo. Ese silencio no es accidental, sino funcional: la fidelidad a Roma y a su magisterio interrumpe la narrativa seductora que quieren imponer, porque recuerda que **la Iglesia siempre ha desenmascarado la idolatría del poder y las falsas teologías políticas**.
 
@@ -419,131 +429,6 @@ En clave ciber-tomista, puede verse cómo **la red digital actúa como mediació
 
 Así, lo que aparece como un simple juego cultural no es sino una gnosis reempaquetada, que aprovecha la hiperrealidad digital para desplazar la fe de su fundamento en el Logos y sumergirla en la fascinación del símbolo flotante. **Esta gnosis puede tomar ropajes distintos: esotérico (sapientia oculta), tribal (sangre y etnia), o progresista (género e identidad autoconstruida)**. En todos los casos, el mecanismo es idéntico: sustituir el orden del amor por un absolutismo ideológico. Frente a este engaño, el realismo de Santo Tomás recuerda que **la verdad no consiste en la intensidad del sentimiento ni en la proliferación de imágenes, sino en la _adaequatio intellectus et rei_**, la conformidad del entendimiento con el ser (STh I, q.16, a.1).
 
-#### i. Unidad de la verdad (veritas est adaequatio rei et intellectus)
-
-La verdad revelada no se agrega en capas esotéricas, tribales o identitarias; se recibe por la Tradición apostólica y el Magisterio. Añadir claves privadas, ya sea gnósticas, raciales o ideológicas, equivale a postular un segundo canal de sentido.
-
-#### ii. Analogia entis vs. univocidad simbólica
-
-Los sacramentos son signos eficaces (no meros símbolos) que causan la gracia como instrumentos vivos de Cristo.
-
-- El esoterismo los reduce a claves arcanas.
-- El tribalismo los convierte en ritos culturales de pertenencia.
-- El progresismo los diluye en símbolos de inclusión.
-
-Todos son reduccionismos que niegan su eficacia objetiva.
-
-#### iii. Gracia y naturaleza (gratia non tollit naturam, sed perficit)
-
-El esoterismo promete un salto iniciático, el tribalismo una pureza de sangre, y el progresismo una autoafirmación sin límites. La Iglesia, en cambio, enseña el camino real: conversión, sacramentos, virtud, cruz.
-
-#### iv. Causa final y orden de caridad
-
-El finis ultimus es la visión de Dios. Toda política es penúltima.
-
-- El gnóstico absolutiza el conocimiento.
-- El tribalista absolutiza la nación o la sangre.
-- El progresista absolutiza la autodeterminación subjetiva.
-
-En todos los casos, la estética política o cultural usurpa el lugar del fin último.
-
-#### v. Universalidad de la redención y dignidad personal
-
-Racialismos, gnosis elitistas y políticas de identidad rompen la catolicidad: **Cristo murió pro multis** en su suficiente obrar redentor; la salvación se ofrece sin acepción de personas, ni de raza, ni de sexo, ni de condición.
-
-#### vi. Lex orandi, lex credendi
-
-Lo que se ora configura lo que se cree.
-
-- El gnóstico convierte la liturgia en tablero de símbolos arcanos.
-- El tribalista en rito nacional.
-- El progresista en performance inclusiva.
-
-En todos los casos, introducir claves ajenas deforma la confesión de la fe.
-
-:::{.important}
-No se trata de pesimismo, sino de fidelidad. Jeremías no fue optimista, pero fue verdadero: denunció la mentira de los falsos profetas que repetían "paz, paz" (Jer 6,14).  
-  
-La esperanza cristiana no es anestesia ideológica, sino Cruz y Vida Eterna:
-contra la gnosis, contra la tribu y contra el wokismo, permanece el Reinado de Cristo.
-:::
-
-### Errores formales frecuentes (y sus disfraces)
-
-Por más que ciertos hilos o vídeos destilen contenido de aparente provecho, lo hacen fuera del cauce de la Tradición viva: no hay maestro, sino máscara; no hay formación, sino acumulación. La misma lógica se repite en el diletantismo digital esotérico, tribal o progresista _woke_: abundancia de símbolos, consignas o slogans que fascinan, pero que nunca ordenan al alma hacia el fin último.
-
-#### Equivocación conceptual
-
-- **Gnóstico**: confundir la ascensión al Uno con la gracia en Cristo.
-- **Identitario**: confundir linaje de sangre con filiación bautismal.
-- **Woke**: confundir identidad subjetiva (género, deseo, narrativa) con la dignidad ontológica recibida de Dios.
-
-#### Categoría desplazada
-
-- **Gnóstico**: el sacramento reducido a símbolo de arcano interior.
-- **Identitario**: los sacramentos sustituidos por “ritos culturales” (bandera, lengua, sangre).
-- **Woke**: la liturgia desplazada por “rituales seculares” (protesta, banderas arcoíris, performances).
-
-#### Totalización política
-
-- **Gnóstico**: absorción del orden civil en un régimen sacralista-esotérico.
-- **Identitario**: absorción de la fe en el proyecto nacional-racial.
-- **Woke**: absorción de lo humano en la ingeniería social y la política de identidad.
-
-#### Sincretismo solapado
-
-- **Gnóstico**: Padres y Doctores de la Iglesia y heterodoxos en un mismo plano.
-- **Identitario**: santos y cruzadas mezclados con Evola o supremacismo.
-- **Woke**: Evangelio yuxtapuesto con feminismo radical, queer theory o activismo climático.
-
-#### Analogía inflacionada
-
-- **Gnóstico**: "luz", "emanación", "Uno" usados sin distinción.
-- **Identitario**: "cruzada", "cristiandad", "hispanidad", "comunión" aplicados a tribus y partidos.
-- **Woke**: "inclusión", "amor", "justicia" aplicados a agendas ideológicas sin referencia a la gracia.
-
-#### Estética como coartada
-
-- **Gnóstico**: citas latinas y estética medieval junto a símbolos arcanos.
-- **Identitario**: iconografía histórica, banderas y memes guerreros.
-- **Woke**: iconografía de colores, slogans, hashtags y performances militantes.
-
-#### Ausencia de magisterio
-
-- **Gnóstico**: nunca citan Trento ni el Catecismo.
-- **Identitario**: nunca citan Mit Brennender Sorge ni las condenas al racismo.
-- **Woke** nunca citan la doctrina sobre familia, matrimonio o moral sexual.
-
-#### Confundir debate con doctrina definida
-
-- **Gnóstico**: presentar como abierto lo ya definido (unicidad de Cristo).
-- **Identitario**: presentar la inmigración o la mezcla de pueblos como cuestión dogmática.
-- **Woke**: presentar el género o la autodeterminación como derechos absolutos.
-
-#### Continuidad doctrinal parcial
-
-- **Gnóstico**: seleccionar místicos y omitir la rectificación magisterial.
-- **Identitario**: glorificar Reconquista/imperio sin horizonte católico-universal.
-- **Woke**: citar a Jesús como "inclusivo" omitiendo su palabra sobre cruz, pecado y conversión.
-
-#### Enganche pseudointelectual
-
-- **Gnóstico**: disputas esotéricas complejas disfrazadas de escolástica.
-- **Identitario**: revisionismo histórico y épica tribal.
-- **Woke**: papers de _cultural studies_ presentados como ciencia dura.
-
-#### Ironía blindada
-
-- **Gnóstico**: todo reducido a estética o juego erudito.
-- **Identitario**: todo reducido a broma racial o sarcasmo tribal.
-- **Woke**: todo blindado por lenguaje inclusivo o acusación de opresor.
-
-#### Disonancia cognitiva
-
-- **Gnóstico**: santos junto a esoterismo.
-- **Identitario**: rosarios junto a supremacismo o paganismo.
-- **Woke**: caridad social junto a aborto e ideología de género.
-
 ### Criterios de discernimiento
 
 > Dios eligió lo necio del mundo para confundir a los sabios; y lo débil del mundo para confundir a lo fuerte
@@ -625,6 +510,7 @@ Quien acepte ese veneno, aunque sea disfrazado de belleza o erudición, ya ha ab
 [^synthwave]: Género musical electrónico surgido en los años 2000 que recrea el sonido retrofuturista de los años 80 (sintetizadores, cine de ciencia ficción, videojuegos). Su estética mezcla nostalgia y artificio digital, convirtiéndose a menudo en un vehículo de evasión y en símbolo de hiperrealidad cultural, donde lo virtual suplanta a lo real.
 [^15]: 4chan es un foro anónimo nacido en 2003, pensado originalmente para compartir imágenes de anime y cultura otaku. Su estructura -hilos efímeros, anonimato absoluto, ausencia de reputación o jerarquías- lo convirtió en un caldo de cultivo para el humor transgresor, el shitposting y las comunidades subculturales más extremas de Internet. Allí surge la figura de Pepe the Frog, un personaje de cómic creado por Matt Furie en 2005, que fue apropiado y transformado en un meme polisémico: desde chiste inofensivo hasta símbolo de corrientes identitarias y conspirativas. La paradoja es que un dibujo banal se convirtió en tótem cultural, precisamente porque en 4chan el anonimato y la ironía funcionan como catalizadores de significados múltiples y cambiantes.
 [^17]: [Non Abbiamo Bisogno](https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19310629_non-abbiamo-bisogno.html) (1931)
+[^maurras]: Aunque Maurras fue durante casi toda su vida un agnóstico defensor de un catolicismo estético subordinado a la política, en sus últimos años experimentó una conversión personal atribuida por él mismo a la intercesión de Santa Teresa del Niño Jesús. Las carmelitas de Lisieux, en especial Sor Magdalena de San José y la Madre Inés de Jesús (hermana de la santa), mantuvieron con él una intensa correspondencia desde 1936 hasta su muerte, guiándolo con oración y ternura espiritual. Poco antes de morir recibió los sacramentos de la Iglesia y confesó: "Je dois ma conversion à sainte Thérèse de l’Enfant-Jésus". Véase Jorge Soley, "El milagro de convertir a un político: las carmelitas de Lisieux y el agnóstico Charles Maurras", Cristiandad, 9 enero 2024 ([reproducido en Religión en Libertad](https://www.religionenlibertad.com/personajes/240109/milagro-convertir-politico-carmelitas-lisieux-agnostico-charles-maurras_77106.html))
 [^18]: [Mit Brennender Sorge](https://www.mercaba.org/PIO%20XI/pioxi-08.htm) (1937)
 [^19]: [Divini Redemptoris](https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html) (1937)
 [^20]: [Mensaje para la XLIII jornada mundial de las comunicaciones sociales](https://www.vatican.va/content/benedict-xvi/es/messages/communications/documents/hf_ben-xvi_mes_20090124_43rd-world-communications-day.html) (2009)
