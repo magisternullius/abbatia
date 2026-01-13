@@ -74,7 +74,7 @@ Así, la fe se les presenta como posibilidad _"no impuesta"_; como atmósfera y 
 
 Tampoco puedo refugiarme en ciertos grupos que se dicen guardianes de la tradición, porque con frecuencia están presos de otra ideología, simétrica a la que critican: **un naturalismo endurecido, militante, que confía más en la reacción humana que en la acción de la gracia**. Cambian el lenguaje, pero no el principio; sustituyen el consenso por la trinchera, el proceso por la estrategia, como si la situación de la Iglesia pudiera resolverse por alineamientos teopolíticos, misales o estética.
 
-**Yo no creo eso**. Sé que la herida de la Iglesia no la cerrará ningún grupo ni ninguna corrección de rumbo puramente humana. Solo Dios la resolverá, en su tiempo y a su modo. A mí me basta con orar, recibir los sacramentos y perseverar a duras penas. Y saber, al menos esto: que **el sepulcro no fue hecho para ser habitado, sino para ser reventado desde dentro**.
+**Yo no creo eso**. Sé que la herida de la Iglesia no la cerrará ningún grupo ni ninguna corrección de rumbo puramente humana. Solo Dios la resolverá, en su tiempo y a su modo. A mí, pobre pecador, me basta con orar, recibir los sacramentos y perseverar a duras penas. Y saber, al menos esto: que **el sepulcro no fue hecho para ser habitado, sino para ser reventado desde dentro**.
 
 ## Glossa de la estrella e del cielo
 
