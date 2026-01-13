@@ -16,7 +16,7 @@ En los años en que la Iglesia parecía haber recobrado la calma tras antiguas s
 
 Aprendí entonces que **el exilio no comienza con el destierro, sino cuando el lenguaje deja de servir al Logos** y se rebaja a instrumento de mediación. Cuando la palabra ya no dice lo que es, sino que administra equilibrios; cuando la verdad, por dividir, es llamada violencia; y el diálogo, por evitarla, es erigido en virtud suprema.
 
-Allí la dialéctica sustituye al Logos, la síntesis suplanta al juicio, y la paz se obtiene no venciendo al error, sino desactivando la palabra que lo nombra. **El lenguaje se vuelve psicolgíanuevo post en **.
+Allí la dialéctica sustituye al Logos, la síntesis suplanta al juicio, y la paz se obtiene no venciendo al error, sino desactivando la palabra que lo nombra. **El lenguaje se vuelve psicología**.
 
 El Pontífice de la Paz inauguró su tiempo con un saludo que se repetía como sello: **"¡La paz esté con vosotros!"**. Decía que era palabra del Resucitado, no solo deseo sino cambio que acontece en quien la recibe, y lo llamaba _"la más silenciosa revolución"_. Lo definía con un giro que fascinó a muchos: **paz desarmada y desarmante**, humilde y perseverante, nacida de un Dios que _"nos ama a todos incondicionalmente"_. Y en verdad, la frase tenía brillo: parecía la Pascua, parecía la luz entrando en una estancia cerrada.
 
