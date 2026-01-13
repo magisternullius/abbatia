@@ -44,7 +44,7 @@ María permanecía como la gran ausente y, a la vez, como el punto decisivo. Se 
 
 Convertirla en **simple figura del "sí humano"** es despojarla de su misterio y, con ello, empobrecer también la fe: porque si María somos simplemente nosotros cuando respondemos, entonces ya no es necesaria una acción nueva de Dios, sino tan solo una mejor toma de conciencia. Y sin embargo, la historia de la salvación comienza precisamente **ahí donde el hombre no puede darse a sí mismo lo que recibe**.
 
-Y temí que, al presentar la Encarnación y la Cruz ante todo como **revelación de un amor que confiere dignidad al hombre** se hubiera desplazado silenciosamente el centro del misterio. Como si no fuera la obediencia hasta la muerte del Hijo al Padre lo que salva al mundo, sino el hecho de haber sufrido por cada uno de nosotros. como si el sufrimiento de Cristo, separado de su obediencia filial al Padre, pudiera ser por sí mismo eficaz.
+Y temí que, al presentar la Encarnación y la Cruz ante todo como **revelación de un amor que confiere dignidad al hombre**, se hubiera desplazado silenciosamente el centro del misterio. Como si no fuera la obediencia hasta la muerte del Hijo al Padre lo que salva al mundo, sino el hecho de haber sufrido por amor a cada uno de nosotros. Como si el sufrimiento de Cristo, separado de su obediencia filial al Padre, pudiera ser por sí mismo eficaz.
 
 Parece como si la redención acabara dependiendo menos de un acto objetivo cumplido en la historia, que de la forma en que cada uno se reconoce personalmente alcanzado por ese amor.
 
