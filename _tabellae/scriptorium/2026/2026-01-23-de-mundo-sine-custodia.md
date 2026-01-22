@@ -59,7 +59,7 @@ Estos operadores:
 
 Las *observan*.
 
-Su competencia consiste en identificar atractores en forna de **regularidades simbólicas** allí donde el sistema ha perdido orientación:
+Su competencia consiste en identificar atractores en forma de **regularidades simbólicas** allí donde el sistema ha perdido orientación:
 
 - Ciertas cifras que reaparecen en eventos dispares,
 - Nombres propios que condensan mitologías antiguas,
